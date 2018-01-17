@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Login", "Flarine.Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Core", "Flarine.Core\Flarine.Core.csproj", "{9B77F005-CB51-4F96-9208-3394728E300B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Network", "Flarine.Network\Flarine.Network.csproj", "{A021DA56-F55F-4219-8451-1244305266F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9B77F005-CB51-4F96-9208-3394728E300B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B77F005-CB51-4F96-9208-3394728E300B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B77F005-CB51-4F96-9208-3394728E300B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A021DA56-F55F-4219-8451-1244305266F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A021DA56-F55F-4219-8451-1244305266F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A021DA56-F55F-4219-8451-1244305266F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A021DA56-F55F-4219-8451-1244305266F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
