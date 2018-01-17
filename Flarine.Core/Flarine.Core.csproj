@@ -8,4 +8,8 @@
     <OutputPath>.\..\Build\Debug\</OutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
 </Project>
