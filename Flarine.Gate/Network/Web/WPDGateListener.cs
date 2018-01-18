@@ -19,8 +19,7 @@ namespace Flarine.Gate.Network.Web
             var requestBody = default(string);
             using (var reader = new StreamReader(context.Request.InputStream))
                 requestBody = reader.ReadToEnd();
-
-            requestBody = WPDCryptography.Transform(requestBody, "D");
+            
             var jsonObj = JObject.Parse(requestBody);
 
             var cmd = default(JToken);
