@@ -1,5 +1,34 @@
 # Flarine
 Flarine is an experimental FlyFF Legacy Server Emulator.
 
-# Modules
-Going to tell you more about them later when I got a basic structure for this project.
+# Projects
+There are currently 8 projects in this solution:
+* ClientCommon - A collection of some useful Model-Classes and Utilization ripped from Original Game Client.
+* WebCommon - A collection of most WPDs (Web Packet Data) and their serializiation ripped from Original Game Client.
+* Flarine.Gate - The **Gate Server** telling the game client the **Auth Server** to connect to.
+* Flarine.Login - The **Login Server** the game client authenticates with.
+* Flarine.Core - A collection of some Base Classes the whole project requires.
+* Flarine.Database - Provides the use of different databases using Microsoft Entity Framework Core 2.0.
+    * Currently supports SQLite. Support for MySQL and probably other engines will come later.
+* Flarine.Network - Provides communication between Game Server and Game Client (Web Packet Data (REST) & TCP)
+* Flarine.Tools - A project for future tools. Probably gets replaced with an UI based project later.
+
+# Progress
+The project consists of 3 important parts:
+* Gate Server
+    * Done
+        * Provide Game Client with Auth Server Url. (100%)
+    * Todo
+        * Maybe some error handling, but actually most of the stuff is done here. This Server's Task is just that one thing.
+* Login Server
+    * Done
+        * TrackingLocations -> Did not yet figured out what those are, but the game does not really need them afaik. At least, game does not crash when sending an empty TrackingLocations Array.
+        * SystemSettings -> Currently trying to figure out which of those Settings the game necessarily needs, but the implementation is done and game continues to next part.
+        * SupportedLanguages -> This just tells the game client which languages exist on the server. Languages are placed in `ClientTexts` folder in `JSON` format. Loading the language files is already implemented but might need some fine tuning.
+        * IpCheck -> This is just returning true or false to Game Client, needs investigation but it´s implemented.
+        * ClientTextMetaDatas -> This provides the Game Client with the language file. Implemented and works fine.
+    * Todo
+        * GameServers -> Provides the Game Client with the Game Server Information. First I need to implement **Inter-Server-Communication (ISC)** between **Login** and **Game Server**. The Game Server should attempt to register itself at the **Auth Server**.
+        * ... more to come here
+* Game Server
+    * Project does not even exist xD Nothing done yet.
