@@ -19,10 +19,12 @@ namespace Flarine.Core.Context
         public ContextBase()
         {
             LoadConfigurations();
+            LoadAssets();
         }
         
         public abstract void LoadConfigurations();
         public abstract void SaveConfigurations();
+        public abstract void LoadAssets();
 
         protected TConfig LoadConfiguration<TConfig>(string file) where TConfig : ContextConfiguration, new()
         {

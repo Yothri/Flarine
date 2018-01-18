@@ -7,7 +7,7 @@ namespace Flarine.Network.Web
         public string GetResponseBody()
         {
             var data = JsonConvert.SerializeObject(this);
-            return EncryptResponse ? WPDCryptography.Transform(data, "E") : data;
+            return EncryptResponse ? WPDUtil.Transform(data, "E") : data;
         }
 
         [JsonProperty("result")]

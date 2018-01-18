@@ -1,10 +1,12 @@
 ﻿using System;
+using System.IO;
+using System.IO.Compression;
 using System.Security.Cryptography;
 using System.Text;
 
 namespace Flarine.Network.Web
 {
-    public static class WPDCryptography
+    public static class WPDUtil
     {
         public static string Transform(string sMessage, string sType)
         {
@@ -26,6 +28,22 @@ namespace Flarine.Network.Web
             ICryptoTransform cryptoTransform = rijndaelManaged.CreateEncryptor();
             byte[] array2 = (!sType.Equals("E")) ? rijndaelManaged.CreateDecryptor().TransformFinalBlock(Convert.FromBase64String(sMessage), 0, Convert.FromBase64String(sMessage).Length) : Encoding.UTF8.GetBytes(sMessage);
             return (!sType.Equals("E")) ? Encoding.UTF8.GetString(array2) : Convert.ToBase64String(cryptoTransform.TransformFinalBlock(array2, 0, array2.Length));
+        }
+
+        public static string ZipToBase64(string text)
+        {
+            UTF8Encoding uniEncode = new UTF8Encoding();
+            byte[] bytesToCompress = uniEncode.GetBytes(text);
+            string b64 = string.Empty;
+            using (var fileToCompress = new MemoryStream())
+            {
+                using (GZipStream compressionStream = new GZipStream(fileToCompress, CompressionMode.Compress))
+                {
+                    compressionStream.Write(bytesToCompress, 0, bytesToCompress.Length);
+                }
+                b64 = Convert.ToBase64String(fileToCompress.ToArray());
+            }
+            return b64;
         }
     }
 }

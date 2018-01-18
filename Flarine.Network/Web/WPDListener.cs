@@ -59,7 +59,7 @@ namespace Flarine.Network.Web
                 requestBody = reader.ReadToEnd();
 
             if(DecryptRequest)
-                requestBody = WPDCryptography.Transform(requestBody, "D");
+                requestBody = WPDUtil.Transform(requestBody, "D");
 
             var jsonObj = JObject.Parse(requestBody);
 

@@ -22,7 +22,11 @@ namespace Flarine.Login.Network.Web
 
         protected override Dictionary<string, Type> Handlers => new Dictionary<string, Type>
         {
-            { "TrackingLocations", typeof(TrackingLocationsRequest) }
+            { "TrackingLocations", typeof(TrackingLocationsRequest) },
+            { "SystemSettings", typeof(SystemSettingsRequest) },
+            { "SupportedLanguages", typeof(SupportedLanguagesRequest) },
+            { "ClientTextMetaDatas", typeof(ClientTextMetaDatasRequest) },
+            { "IpCheck", typeof(IpCheckRequest) }
         };
 
         protected override bool DecryptRequest => true;
