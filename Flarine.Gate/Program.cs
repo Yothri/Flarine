@@ -22,8 +22,6 @@ namespace Flarine.Gate
 
                 gateWPDListener.StopListening();
             }
-
-            Console.ReadKey();
         }
     }
 }

@@ -11,6 +11,6 @@ namespace Flarine.Gate.Config.Model
         public string Name { get; set; } = "Default";
 
         [JsonProperty("serverUrl")]
-        public string ServerUrl { get; set; } = "http://*:80/auth/";
+        public string ServerUrl { get; set; } = "http://localhost:8080/auth/";
     }
 }

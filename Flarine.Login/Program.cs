@@ -11,7 +11,7 @@ namespace Flarine.Login
         {
             using (var loginCtx = ContextBase.GetInstance<LoginContext>())
             using (var loginWPDListener = new WPDLoginListener(loginCtx.LoginConfig.WPDListenPrefix))
-            using (var dbCtx = DatabaseService.GetContext())
+            using (DatabaseService.GetContext())
             {
                 loginWPDListener.StartListening();
 
@@ -24,8 +24,6 @@ namespace Flarine.Login
 
                 loginWPDListener.StopListening();
             }
-
-            Console.ReadKey();
         }
     }
 }
