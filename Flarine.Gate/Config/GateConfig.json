@@ -1,0 +1,8 @@
+{
+  "WPDListenPrefix": "http://*:80/gate/",
+  "StageFarmVersion": {
+    "farmId": 1,
+    "name": "Default",
+    "serverUrl": "http://*:80/auth/"
+  }
+}

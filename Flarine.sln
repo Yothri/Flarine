@@ -1,19 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCommon", "WebCommon\WebCommon.csproj", "{A31B4814-9FE2-4A15-BAFA-45B70ED8C1D1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientCommon", "ClientCommon\ClientCommon.csproj", "{4F74FABB-01C5-4C59-8595-57BB9BCE7AD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Database", "Flarine.Database\Flarine.Database.csproj", "{D9A65B81-8592-42FC-8333-45589C86BCE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flarine.Database", "Flarine.Database\Flarine.Database.csproj", "{D9A65B81-8592-42FC-8333-45589C86BCE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Login", "Flarine.Login\Flarine.Login.csproj", "{E1EBABD0-9D34-43B1-B437-490E59F40C7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flarine.Login", "Flarine.Login\Flarine.Login.csproj", "{E1EBABD0-9D34-43B1-B437-490E59F40C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Core", "Flarine.Core\Flarine.Core.csproj", "{9B77F005-CB51-4F96-9208-3394728E300B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flarine.Core", "Flarine.Core\Flarine.Core.csproj", "{9B77F005-CB51-4F96-9208-3394728E300B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Network", "Flarine.Network\Flarine.Network.csproj", "{A021DA56-F55F-4219-8451-1244305266F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flarine.Network", "Flarine.Network\Flarine.Network.csproj", "{A021DA56-F55F-4219-8451-1244305266F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Gate", "Flarine.Gate\Flarine.Gate.csproj", "{861F36F7-69BD-4C3D-8920-3DD4347E2BBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A021DA56-F55F-4219-8451-1244305266F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A021DA56-F55F-4219-8451-1244305266F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A021DA56-F55F-4219-8451-1244305266F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861F36F7-69BD-4C3D-8920-3DD4347E2BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861F36F7-69BD-4C3D-8920-3DD4347E2BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861F36F7-69BD-4C3D-8920-3DD4347E2BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861F36F7-69BD-4C3D-8920-3DD4347E2BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

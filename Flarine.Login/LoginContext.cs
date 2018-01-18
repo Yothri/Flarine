@@ -7,7 +7,7 @@ namespace Flarine.Login
 {
     internal sealed class LoginContext : ContextBase
     {
-        private const string LOGIN_CONFIG_PATH = "Config/LoginConfig.json";
+        private const string CONFIG_PATH = "Config/LoginConfig.json";
 
         public LoginContext()
         {
@@ -17,12 +17,12 @@ namespace Flarine.Login
 
         public override void LoadConfigurations()
         {
-            LoginConfig = LoadConfiguration<LoginConfig>(LOGIN_CONFIG_PATH);
+            LoginConfig = LoadConfiguration<LoginConfig>(CONFIG_PATH);
         }
 
         public override void SaveConfigurations()
         {
-            SaveConfiguration(LoginConfig, LOGIN_CONFIG_PATH);
+            SaveConfiguration(LoginConfig, CONFIG_PATH);
         }
 
         internal LoginConfig LoginConfig { get; private set; }
