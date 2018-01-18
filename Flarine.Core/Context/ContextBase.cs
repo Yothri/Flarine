@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using Flarine.Core.Config;
+using Flarine.Core.Log;
 using Newtonsoft.Json;
 
 namespace Flarine.Core.Context
@@ -33,6 +34,7 @@ namespace Flarine.Core.Context
             if (!File.Exists(file))
                 return new TConfig();
 
+            Logger.Log($"{file} has been loaded.");
             return JsonConvert.DeserializeObject<TConfig>(File.ReadAllText(file));
         }
 
@@ -43,6 +45,7 @@ namespace Flarine.Core.Context
             if (!Directory.Exists(directory))
                 Directory.CreateDirectory(directory);
 
+            Logger.Log($"{file} has been saved.");
             File.WriteAllText(file, JsonConvert.SerializeObject(config, Formatting.Indented));
         }
 
