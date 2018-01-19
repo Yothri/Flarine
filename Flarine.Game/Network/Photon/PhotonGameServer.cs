@@ -1,12 +1,12 @@
 ﻿using System;
 using Flarine.Core.Context;
 using Flarine.Core.Log;
+using Flarine.Game.Network.Photon.Common;
 using Flarine.Network.Photon;
-using Flarine.Network.Photon.Common;
 
 namespace Flarine.Game.Network.Photon
 {
-    internal sealed class PhotonGameServer : PhotonServer
+    internal sealed class PhotonGameServer : PhotonServer<PhotonGameConnection>
     {
         public PhotonGameServer()
         {
@@ -23,12 +23,12 @@ namespace Flarine.Game.Network.Photon
             Logger.Log($"PhotonGameServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
         }
 
-        protected override void OnClientConnected(PhotonConnection connection)
+        protected override void OnClientConnected(PhotonGameConnection connection)
         {
             Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} connected to GameServer.");
         }
 
-        protected override void OnClientDisconnected(PhotonConnection connection)
+        protected override void OnClientDisconnected(PhotonGameConnection connection)
         {
             Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from GameServer.");
         }
