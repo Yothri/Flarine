@@ -9,7 +9,7 @@ namespace Flarine.Gate
         static void Main(string[] args)
         {
             using (var loginCtx = ContextBase.GetInstance<GateContext>())
-            using (var gateWPDListener = new WPDGateListener(loginCtx.GateConfig.WPDListenPrefix))
+            using (var gateWPDListener = new WPDGateListener())
             {
                 gateWPDListener.StartListening();
 

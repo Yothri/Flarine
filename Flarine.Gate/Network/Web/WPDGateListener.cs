@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Flarine.Core.Context;
 using Flarine.Core.Log;
 using Flarine.Gate.Network.Web.Request;
 using Flarine.Network.Web;
@@ -8,7 +9,7 @@ namespace Flarine.Gate.Network.Web
 {
     internal sealed class WPDGateListener : WPDListener
     {
-        public WPDGateListener(string prefix) : base(prefix) { }
+        public WPDGateListener() : base(ContextBase.GetInstance<GateContext>().GateConfig.WPDListenPrefix) { }
 
         protected override void OnListenerStart()
         {
