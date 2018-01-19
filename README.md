@@ -2,7 +2,7 @@
 Flarine is an experimental FlyFF Legacy Server Emulator.
 
 # Projects
-There are currently 8 projects in this solution:
+There are currently 10 projects in this solution:
 * ClientCommon - A collection of some useful Model-Classes and Utilization ripped from Original Game Client.
 * WebCommon - A collection of most WPDs (Web Packet Data) and their serializiation ripped from Original Game Client.
 * Flarine.Gate - The **Gate Server** telling the game client the **Auth Server** to connect to.
@@ -12,6 +12,8 @@ There are currently 8 projects in this solution:
     * Currently supports SQLite. Support for MySQL and probably other engines will come later.
 * Flarine.Network - Provides communication between Game Server and Game Client (Web Packet Data (REST) & TCP)
 * Flarine.Tools - A project for future tools. Probably gets replaced with an UI based project later.
+* Flarine.Game - The **Game Server** which is the main part of this whole project.
+* Ether.Network - The Networking Library this project uses for TCP/IP communications.
 
 # Progress
 The project consists of 3 important parts:
