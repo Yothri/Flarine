@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Flarine.Game": {
+      "commandName": "Project",
+      "workingDirectory": ".\\..\\Build\\Debug\\netcoreapp2.0"
+    }
+  }
+}
