@@ -17,6 +17,8 @@ namespace Flarine.Gate
             SaveConfiguration(GateConfig, CONFIG_PATH);
         }
 
+        public override void LoadAssets() { }
+
         internal GateConfig GateConfig { get; private set; }
     }
 }
