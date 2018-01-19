@@ -1,6 +1,11 @@
 # Flarine
 Flarine is an experimental FlyFF Legacy Server Emulator.
 
+# Status
+This project is in early development phases. The GateServers and LoginServers necessary parts are functional and the game client is able to get to the main menu. 
+The next thing is the GameServer, but it has not been started yet except ISC communication to LoginServer to register the game server.
+All in all: This project is far away from being able to play the game.
+
 # Projects
 There are currently 10 projects in this solution:
 * ClientCommon - A collection of some useful Model-Classes and Utilization ripped from Original Game Client.
