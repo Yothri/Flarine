@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flarine.Tools", "Flarine.To
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ether.Network", "..\Ether.Network\src\Ether.Network\Ether.Network.csproj", "{A4736BB5-4A49-49A8-BC4D-429B914FF3A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Game", "Flarine.Game\Flarine.Game.csproj", "{ACDECFD9-13AE-4C83-9756-D1896E3A8F89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A4736BB5-4A49-49A8-BC4D-429B914FF3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4736BB5-4A49-49A8-BC4D-429B914FF3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4736BB5-4A49-49A8-BC4D-429B914FF3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDECFD9-13AE-4C83-9756-D1896E3A8F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDECFD9-13AE-4C83-9756-D1896E3A8F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDECFD9-13AE-4C83-9756-D1896E3A8F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDECFD9-13AE-4C83-9756-D1896E3A8F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
