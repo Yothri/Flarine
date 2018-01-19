@@ -16,7 +16,7 @@ namespace Flarine.Login.Network.Web.Request
                     new SystemSetting{ Name = "clientTextVersion", Value = "2018011501" },
                     new SystemSetting { Name = "clientVersion", Value = "1.0.12" },
                     new SystemSetting { Name = "isMaintenance", Value = "N" },
-                    //new SystemSetting { Name = "assetBundleUrl", Value = "http://akamai.mobblo.com/EN/Live17/" },
+                    new SystemSetting { Name = "assetBundleUrl", Value = "http://akamai.mobblo.com/EN/Live17/" },
                 }
             };
         }

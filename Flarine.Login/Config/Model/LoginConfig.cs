@@ -1,4 +1,5 @@
 ﻿using Flarine.Core.Config;
+using Flarine.Core.Context.Model;
 using Flarine.Login.Context.Model;
 
 namespace Flarine.Login.Config.Model
@@ -10,5 +11,6 @@ namespace Flarine.Login.Config.Model
         public string ISCServerHost { get; set; } = "192.168.0.122";
         public int ISCServerPort { get; set; } = 8011;
         public Language DefaultLanguageId { get; set; } = Language.English;
+        public GameServerGroup[] GameServerGroups { get; set; } = new GameServerGroup[] { new GameServerGroup() { GroupId = 1, Name = "Default", RecommendGameServerId = 1 } };
     }
 }

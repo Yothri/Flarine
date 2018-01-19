@@ -10,9 +10,10 @@ using System;
 namespace Flarine.Database.Migrations
 {
     [DbContext(typeof(SQLiteContext))]
-    partial class SQLiteContextModelSnapshot : ModelSnapshot
+    [Migration("20180119171457_UserIdAndUserSecret")]
+    partial class UserIdAndUserSecret
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

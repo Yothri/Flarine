@@ -30,7 +30,12 @@ namespace Flarine.Login.Network.Web
             { "SystemSettings", typeof(SystemSettingsRequest) },
             { "SupportedLanguages", typeof(SupportedLanguagesRequest) },
             { "ClientTextMetaDatas", typeof(ClientTextMetaDatasRequest) },
-            { "IpCheck", typeof(IpCheckRequest) }
+            { "IpCheck", typeof(IpCheckRequest) },
+            { "GameServers", typeof(GameServersRequest) },
+            { "CreateGuestUser", typeof(CreateGuestUserRequest) },
+            { "Login", typeof(LoginRequest) },
+            { "GameAssetBundles", typeof(GameAssetBundlesRequest) },
+            { "Notices", typeof(NoticesRequest) }
         };
 
         protected override bool DecryptRequest => true;
