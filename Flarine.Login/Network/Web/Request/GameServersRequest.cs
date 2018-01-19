@@ -1,4 +1,5 @@
-﻿using Flarine.Core.Context;
+﻿using System.Linq;
+using Flarine.Core.Context;
 using Flarine.Login.Network.Web.Response;
 using Flarine.Network.Web;
 
@@ -11,7 +12,7 @@ namespace Flarine.Login.Network.Web.Request
             return new GameServersResponse
             {
                 GameServerGroups = ContextBase.GetInstance<LoginContext>().LoginConfig.GameServerGroups,
-                GameServers = ContextBase.GetInstance<LoginContext>().GameServers.ToArray()
+                GameServers = ContextBase.GetInstance<LoginContext>().GameServers.Select(gs => gs.Value).ToArray()
             };
         }
     }

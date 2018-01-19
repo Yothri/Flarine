@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.IO;
+using Ether.Network;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
 using Flarine.Core.Log;
@@ -26,7 +27,7 @@ namespace Flarine.Login
             DatabaseService.SetEngine(LoginConfig.DatabaseEngine);
             DatabaseService.GetContext().Database.Migrate();
             
-            GameServers = new List<GameServer>();
+            GameServers = new Dictionary<NetUser, GameServer>();
             Sessions = new ObservableCollection<LoginSession>();
             Sessions.CollectionChanged += Sessions_CollectionChanged;
         }
@@ -83,7 +84,7 @@ namespace Flarine.Login
 
         internal LoginConfig LoginConfig { get; private set; }
         internal List<WPDClientTexts> ClientTexts { get; private set; }
-        internal List<GameServer> GameServers { get; set; }
+        internal Dictionary<NetUser, GameServer> GameServers { get; set; }
         internal ObservableCollection<LoginSession> Sessions { get; private set; }
         internal List<GameAssetBundle> GameAssetBundles { get; private set; }
     }

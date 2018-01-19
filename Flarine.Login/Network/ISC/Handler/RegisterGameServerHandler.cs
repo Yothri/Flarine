@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using Ether.Network;
 using Ether.Network.Interfaces;
 using Ether.Network.Packets;
 using Flarine.Core.Context;
@@ -11,7 +12,7 @@ namespace Flarine.Login.Network.ISC.Handler
 {
     internal sealed class RegisterGameServerHandler : ISCHandler
     {
-        public override INetPacketStream Handle(INetPacketStream stream)
+        public override INetPacketStream Handle(NetUser connection, INetPacketStream stream)
         {
             var ctx = ContextBase.GetInstance<LoginContext>();
             var gameServer = new GameServer
@@ -33,14 +34,14 @@ namespace Flarine.Login.Network.ISC.Handler
             
             var packet = new NetPacket();
             packet.Write((short)OpCode.REGISTER_GS);
-            if (ctx.GameServers.Any(g => g.GameServerId == gameServer.GameServerId || g.VirtualGameServerId == gameServer.VirtualGameServerId))
+            if (ctx.GameServers.Values.Any(g => g.GameServerId == gameServer.GameServerId || g.VirtualGameServerId == gameServer.VirtualGameServerId))
             {
                 packet.Write(false);
                 Logger.Log($"GameServer registration for {gameServer.Name} with id {gameServer.GameServerId} was rejected.");
             }
             else
             {
-                ctx.GameServers.Add(gameServer);
+                ctx.GameServers.Add(connection, gameServer);
                 packet.Write(true);
                 Logger.Log($"GameServer registration for {gameServer.Name} with id {gameServer.GameServerId} was granted.");
             }

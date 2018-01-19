@@ -1,4 +1,5 @@
-﻿using Ether.Network.Interfaces;
+﻿using Ether.Network;
+using Ether.Network.Interfaces;
 using Flarine.Core.Log;
 using Flarine.Network.ISC.Handler;
 
@@ -6,7 +7,7 @@ namespace Flarine.Game.Network.ISC.Handler
 {
     internal sealed class RegisterGameServerHandler : ISCHandler
     {
-        public override INetPacketStream Handle(INetPacketStream stream)
+        public override INetPacketStream Handle(NetUser connection, INetPacketStream stream)
         {
             if (stream.Read<bool>())
                 Logger.Log("GameServer registration has been granted.");

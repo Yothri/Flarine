@@ -1,6 +1,7 @@
 ﻿using System;
 using Ether.Network;
 using Flarine.Core.Context;
+using Flarine.Core.Context.Model;
 using Flarine.Core.Log;
 using Flarine.Login.Network.ISC.Common;
 
@@ -31,6 +32,12 @@ namespace Flarine.Login.Network.ISC
         protected override void OnClientDisconnected(LoginISCConnection connection)
         {
             Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from ISCServer.");
+
+            if(ContextBase.GetInstance<LoginContext>().GameServers.TryGetValue(connection, out GameServer gameServer))
+            {
+                Logger.Log($"GameServer {gameServer.Name} with id {gameServer.GameServerId} deregistered.");
+                ContextBase.GetInstance<LoginContext>().GameServers.Remove(connection);
+            }
         }
 
         protected override void OnError(Exception exception)

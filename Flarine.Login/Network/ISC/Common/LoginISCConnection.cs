@@ -21,7 +21,7 @@ namespace Flarine.Login.Network.ISC.Common
                 Logger.Log($"Unhandled ISC OpCode {Enum.GetName(typeof(OpCode), code)}.", LogLevel.Warning);
             else
             {
-                var response = (Activator.CreateInstance(type) as ISCHandler).Handle(packet);
+                var response = (Activator.CreateInstance(type) as ISCHandler).Handle(this, packet);
                 if (response != null)
                     Send(response);
             }

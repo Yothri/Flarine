@@ -19,8 +19,8 @@ namespace Flarine.Game
             using (var loginServerClient = new ISCClient())
             {
                 gameWPDListener.StartListening();
-                ISC.Start();
-                gameServer.Start();
+                //ISC.Start();
+                //gameServer.Start();
                 gameCtx.SetStatus("Connecting to ISC...");
                 loginServerClient.Connect();
                 gameCtx.SetStatus("Listening");
