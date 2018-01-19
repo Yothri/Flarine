@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Flarine.Core.Context;
 using Flarine.Core.Log;
 using Flarine.Login.Network.Web.Request;
 using Flarine.Network.Web;
@@ -8,7 +9,10 @@ namespace Flarine.Login.Network.Web
 {
     internal sealed class WPDLoginListener : WPDListener
     {
-        public WPDLoginListener(string prefix) : base(prefix) { }
+        public WPDLoginListener() : base(ContextBase.GetInstance<LoginContext>().LoginConfig.WPDListenPrefix)
+        {
+
+        }
         
         protected override void OnListenerStart()
         {

@@ -11,7 +11,7 @@ namespace Flarine.Login
         static void Main(string[] args)
         {
             using (var loginCtx = ContextBase.GetInstance<LoginContext>())
-            using (var loginWPDListener = new WPDLoginListener(loginCtx.LoginConfig.WPDListenPrefix))
+            using (var loginWPDListener = new WPDLoginListener())
             using (var ISC = new ISCServer())
             using (DatabaseService.GetContext())
             {
