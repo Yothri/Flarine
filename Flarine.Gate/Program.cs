@@ -12,6 +12,7 @@ namespace Flarine.Gate
             using (var gateWPDListener = new WPDGateListener())
             {
                 gateWPDListener.StartListening();
+                loginCtx.SetStatus("Listening");
 
                 while (true)
                 {

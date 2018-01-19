@@ -9,7 +9,7 @@ namespace Flarine.Game
     {
         private const string CONFIG_PATH = "Config/GameConfig.json";
 
-        public GameContext()
+        public GameContext() : base("GameServer")
         {
             DatabaseService.SetEngine(GameConfig.DatabaseEngine);
             DatabaseService.GetContext().Database.Migrate();

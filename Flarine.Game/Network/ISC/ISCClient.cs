@@ -23,9 +23,23 @@ namespace Flarine.Game.Network.ISC
         {
             Logger.Log("Connection to LoginISC has been established.");
 
+            var gsConfig = ContextBase.GetInstance<GameContext>().GameConfig.GameServerConfig;
             using (var packet = new NetPacket())
             {
-                // Fill packet with GS data.
+                packet.Write((short)OpCode.REGISTER_GS);
+                packet.Write(gsConfig.VirtualGameServerId);
+                packet.Write(gsConfig.GameServerId);
+                packet.Write(gsConfig.GroupId);
+                packet.Write(gsConfig.DisplayNo);
+                packet.Write(gsConfig.Name);
+                packet.Write(gsConfig.ApiUrl);
+                packet.Write(gsConfig.ProxyGameServerIp);
+                packet.Write(gsConfig.ProxyGameServerPort);
+                packet.Write(gsConfig.IsMaintenance);
+                packet.Write(gsConfig.PkEnabled);
+                packet.Write(gsConfig.TimeZone);
+                packet.Write(gsConfig.StateCode);
+                packet.Write(gsConfig.IsRecommend);
                 Send(packet);
             }
         }
@@ -39,7 +53,11 @@ namespace Flarine.Game.Network.ISC
             if (!Handlers.TryGetValue(code, out type))
                 Logger.Log($"Unhandled ISC OpCode {Enum.GetName(typeof(OpCode), code)}.", LogLevel.Warning);
             else
-                (Activator.CreateInstance(type) as ISCHandler).Handle(packet);
+            {
+                var response = (Activator.CreateInstance(type) as ISCHandler).Handle(packet);
+                if (response != null)
+                    Send(response);
+            }
         }
 
         protected override void OnDisconnected()

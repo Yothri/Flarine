@@ -17,6 +17,7 @@ namespace Flarine.Login
             {
                 loginWPDListener.StartListening();
                 ISC.Start();
+                loginCtx.SetStatus("Listening");
 
                 while (true)
                 {

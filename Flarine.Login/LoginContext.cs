@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using Flarine.Core.Context;
+using Flarine.Core.Context.Model;
 using Flarine.Core.Log;
 using Flarine.Database;
 using Flarine.Login.Config.Model;
@@ -17,10 +18,12 @@ namespace Flarine.Login
         private const string CONFIG_PATH = "Config/LoginConfig.json";
         private const string CLIENTTEXTS_PATH = "ClientTexts";
 
-        public LoginContext()
+        public LoginContext() : base("LoginServer")
         {
             DatabaseService.SetEngine(LoginConfig.DatabaseEngine);
             DatabaseService.GetContext().Database.Migrate();
+
+            GameServers = new List<GameServer>();
         }
 
         public override void LoadConfigurations()
@@ -52,5 +55,6 @@ namespace Flarine.Login
 
         internal LoginConfig LoginConfig { get; private set; }
         internal List<WPDClientTexts> ClientTexts { get; private set; }
+        internal List<GameServer> GameServers { get; set; }
     }
 }

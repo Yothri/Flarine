@@ -6,12 +6,14 @@ namespace Flarine.Game.Network.ISC.Handler
 {
     internal sealed class RegisterGameServerHandler : ISCHandler
     {
-        public override void Handle(INetPacketStream stream)
+        public override INetPacketStream Handle(INetPacketStream stream)
         {
             if (stream.Read<bool>())
                 Logger.Log("GameServer registration has been granted.");
             else
                 Logger.Log("GameServer registration has been refused.", LogLevel.Warning);
+
+            return null;
         }
     }
 }

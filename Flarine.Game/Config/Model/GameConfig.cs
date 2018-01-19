@@ -1,4 +1,5 @@
 ﻿using Flarine.Core.Config;
+using Flarine.Core.Context.Model;
 
 namespace Flarine.Game.Config.Model
 {
@@ -13,5 +14,6 @@ namespace Flarine.Game.Config.Model
         public int GameServerPort { get; set; } = 8022;
         public int MaxGameServerConnections { get; set; } = 500;
         public string DatabaseEngine { get; set; } = "SQLite";
+        public GameServer GameServerConfig { get; set; } = new GameServer();
     }
 }

@@ -7,6 +7,11 @@ namespace Flarine.Gate
     {
         private const string CONFIG_PATH = "Config/GateConfig.json";
 
+        public GateContext() : base("GateServer")
+        {
+
+        }
+
         public override void LoadConfigurations()
         {
             GateConfig = LoadConfiguration<GateConfig>(CONFIG_PATH);

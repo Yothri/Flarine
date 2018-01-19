@@ -16,10 +16,14 @@ namespace Flarine.Game
             using (var ISC = new ISCServer())
             using (var gameServer = new PhotonGameServer())
             using (DatabaseService.GetContext())
+            using (var loginServerClient = new ISCClient())
             {
                 gameWPDListener.StartListening();
                 ISC.Start();
                 gameServer.Start();
+                gameCtx.SetStatus("Connecting to ISC...");
+                loginServerClient.Connect();
+                gameCtx.SetStatus("Listening");
 
                 while (true)
                 {
@@ -28,6 +32,7 @@ namespace Flarine.Game
                         break;
                 }
 
+                loginServerClient.Disconnect();
                 gameServer.Stop();
                 ISC.Stop();
                 gameWPDListener.StopListening();

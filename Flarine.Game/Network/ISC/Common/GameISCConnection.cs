@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Ether.Network.Interfaces;
+using Flarine.Core.Network.ISC;
 using Flarine.Network.ISC.Common;
 
 namespace Flarine.Game.Network.ISC.Common
@@ -13,7 +14,7 @@ namespace Flarine.Game.Network.ISC.Common
 
         }
 
-        protected override Dictionary<short, Type> Handlers => new Dictionary<short, Type>
+        protected override Dictionary<OpCode, Type> Handlers => new Dictionary<OpCode, Type>
         {
 
         };

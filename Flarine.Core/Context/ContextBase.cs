@@ -16,8 +16,10 @@ namespace Flarine.Core.Context
             return (T)instance;
         }
 
-        public ContextBase()
+        public ContextBase(string contextName)
         {
+            ContextName = contextName;
+            SetStatus("Initializing");
             LoadConfigurations();
             LoadAssets();
         }
@@ -51,6 +53,11 @@ namespace Flarine.Core.Context
             File.WriteAllText(file, JsonConvert.SerializeObject(config, Formatting.Indented));
         }
 
+        public void SetStatus(string status)
+        {
+            Console.Title = $"{ContextName} | Status: {status}";
+        }
+
         public void Dispose()
         {
             Dispose(true);
@@ -64,5 +71,7 @@ namespace Flarine.Core.Context
                 SaveConfigurations();
             }
         }
+
+        protected string ContextName { get; private set; }
     }
 }
