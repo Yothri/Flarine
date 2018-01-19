@@ -16,8 +16,4 @@
     <ProjectReference Include="..\WebCommon\WebCommon.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Network\ISC\" />
-  </ItemGroup>
-
 </Project>

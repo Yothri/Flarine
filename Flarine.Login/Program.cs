@@ -1,6 +1,7 @@
 ﻿using System;
 using Flarine.Core.Context;
 using Flarine.Database;
+using Flarine.Login.Network.ISC;
 using Flarine.Login.Network.Web;
 
 namespace Flarine.Login
@@ -11,9 +12,11 @@ namespace Flarine.Login
         {
             using (var loginCtx = ContextBase.GetInstance<LoginContext>())
             using (var loginWPDListener = new WPDLoginListener(loginCtx.LoginConfig.WPDListenPrefix))
+            using (var ISC = new ISCServer())
             using (DatabaseService.GetContext())
             {
                 loginWPDListener.StartListening();
+                ISC.Start();
 
                 while (true)
                 {
@@ -22,6 +25,7 @@ namespace Flarine.Login
                         break;
                 }
 
+                ISC.Stop();
                 loginWPDListener.StopListening();
             }
         }

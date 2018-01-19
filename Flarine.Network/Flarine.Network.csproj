@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ISC\" />
     <Folder Include="Photon\" />
   </ItemGroup>
 
@@ -14,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Ether.Network\src\Ether.Network\Ether.Network.csproj" />
     <ProjectReference Include="..\Flarine.Core\Flarine.Core.csproj" />
   </ItemGroup>
 
