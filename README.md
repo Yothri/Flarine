@@ -27,8 +27,17 @@ The project consists of 3 important parts:
         * SupportedLanguages -> This just tells the game client which languages exist on the server. Languages are placed in `ClientTexts` folder in `JSON` format. Loading the language files is already implemented but might need some fine tuning.
         * IpCheck -> This is just returning true or false to Game Client, needs investigation but it´s implemented.
         * ClientTextMetaDatas -> This provides the Game Client with the language file. Implemented and works fine.
+        * GameServers -> Provides the client with all available game servers.
+        * CreateGuestUser -> Creates a guest user for the client. (Account creation basically)
+        * Login -> Authenticate the game client.
+        * GameAssetBundles -> Provides the game client with game asset information (File Patching info).
+        * Notices -> Probably just notices to the game client, empty array for now, works.
     * Todo
-        * GameServers -> Provides the Game Client with the Game Server Information. First I need to implement **Inter-Server-Communication (ISC)** between **Login** and **Game Server**. The Game Server should attempt to register itself at the **Auth Server**.
-        * ... more to come here
+        * Testing, maybe possibilty for Google and Facebook Login, but not sure if that will work.
+    * Status
+        * The Login Server is almost finished, it needs some testing and there are some features that may be added in future but they are not necessary to play the game.
 * Game Server
-    * Project does not even exist xD Nothing done yet.
+    * Done
+        * GameServerRegistration at Login Server (ISC).
+    * Todo
+        * Everything else xD
