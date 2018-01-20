@@ -15,6 +15,8 @@ namespace Flarine.Login
             using (var ISC = new ISCServer())
             using (DatabaseService.GetContext())
             {
+                loginCtx.AddService(ISC);
+
                 loginWPDListener.StartListening();
                 ISC.Start();
                 loginCtx.SetStatus("Listening");

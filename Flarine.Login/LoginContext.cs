@@ -21,6 +21,7 @@ namespace Flarine.Login
         private const string CONFIG_PATH = "Config/LoginConfig.json";
         private const string CLIENTTEXTS_PATH = "ClientTexts";
         private const string BUNDLES_PATH = "Config/AssetBundles.json";
+        private const string IMAGERES_PATH = "Config/ImageResources.json";
 
         public LoginContext() : base("LoginServer")
         {
@@ -61,6 +62,15 @@ namespace Flarine.Login
                 GameAssetBundles = JsonConvert.DeserializeObject<List<GameAssetBundle>>(File.ReadAllText(BUNDLES_PATH));
                 Logger.Log($"{GameAssetBundles.Count} AssetBundles have been loaded.");
             }
+
+            ImageResources = new List<ImageResource>();
+            if (!File.Exists(IMAGERES_PATH))
+                Logger.Log("ImageResources not found. Provide ImageResources first.", LogLevel.Fatal);
+            else
+            {
+                ImageResources = JsonConvert.DeserializeObject<List<ImageResource>>(File.ReadAllText(IMAGERES_PATH));
+                Logger.Log($"{ImageResources.Count} ImageResources have been loaded.");
+            }
         }
 
         public override void SaveConfigurations()
@@ -87,5 +97,6 @@ namespace Flarine.Login
         internal Dictionary<NetUser, GameServer> GameServers { get; set; }
         internal ObservableCollection<LoginSession> Sessions { get; private set; }
         internal List<GameAssetBundle> GameAssetBundles { get; private set; }
+        internal List<ImageResource> ImageResources { get; private set; }
     }
 }

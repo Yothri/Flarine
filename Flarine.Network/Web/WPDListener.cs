@@ -81,6 +81,8 @@ namespace Flarine.Network.Web
             if (!Handlers.TryGetValue(sCmd, out type))
             {
                 Logger.Log($"Unhandled {sCmd}Request.", LogLevel.Warning);
+                dynamic obj = JsonConvert.DeserializeObject(requestBody);
+                Console.WriteLine(JsonConvert.SerializeObject(obj, Formatting.Indented));
                 return BadRequest(context.Response);
             }
 

@@ -7,6 +7,7 @@ namespace Flarine.Database.Entity
     public sealed class Account : IDatabaseEntity
     {
         public int Id { get; set; }
+        public string AccountId { get; set; }
         public string UserId { get; set; }
         public string UserSecret { get; set; }
     }

@@ -35,7 +35,8 @@ namespace Flarine.Login.Network.Web
             { "CreateGuestUser", typeof(CreateGuestUserRequest) },
             { "Login", typeof(LoginRequest) },
             { "GameAssetBundles", typeof(GameAssetBundlesRequest) },
-            { "Notices", typeof(NoticesRequest) }
+            { "Notices", typeof(NoticesRequest) },
+            { "ImageResources", typeof(ImageResourcesRequest) }
         };
 
         protected override bool DecryptRequest => true;

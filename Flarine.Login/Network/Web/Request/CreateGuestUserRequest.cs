@@ -1,4 +1,5 @@
-﻿using Flarine.Core.Util;
+﻿using System;
+using Flarine.Core.Util;
 using Flarine.Database;
 using Flarine.Database.Entity;
 using Flarine.Login.Network.Web.Response;
@@ -13,7 +14,8 @@ namespace Flarine.Login.Network.Web.Request
             var account = new Account
             {
                 UserId = Utils.RandomString(10),
-                UserSecret = Utils.RandomString(15)
+                UserSecret = Utils.RandomString(15),
+                AccountId = Guid.NewGuid().ToString()
             };
 
             using (var context = DatabaseService.GetContext())

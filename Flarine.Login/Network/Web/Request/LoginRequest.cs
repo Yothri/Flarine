@@ -1,10 +1,12 @@
 ﻿using System.Linq;
+using Ether.Network.Packets;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
+using Flarine.Core.Network.ISC;
 using Flarine.Core.Util;
 using Flarine.Database;
 using Flarine.Database.Entity;
-using Flarine.Login.Context.Model;
+using Flarine.Login.Network.ISC;
 using Flarine.Login.Network.Web.Response;
 using Flarine.Network.Web;
 using Newtonsoft.Json;
@@ -51,6 +53,15 @@ namespace Flarine.Login.Network.Web.Request
             {
                 User = user
             });
+
+            // Register user to game servers
+            using (var packet = new NetPacket())
+            {
+                packet.Write((short)OpCode.REGISTER_USER);
+                packet.Write(user.UserId);
+                packet.Write(user.AccessToken);
+                loginCtx.GetService<ISCServer>().SendTo(loginCtx.GameServers.Select(d => d.Key), packet);
+            }
 
             return new LoginResponse
             {

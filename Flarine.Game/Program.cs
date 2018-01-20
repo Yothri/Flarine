@@ -18,9 +18,12 @@ namespace Flarine.Game
             using (DatabaseService.GetContext())
             using (var loginServerClient = new ISCClient())
             {
+                gameCtx.AddService(gameServer);
+                gameCtx.AddService(loginServerClient);
+
                 gameWPDListener.StartListening();
-                //ISC.Start();
-                //gameServer.Start();
+                ISC.Start();
+                gameServer.Start();
                 gameCtx.SetStatus("Connecting to ISC...");
                 loginServerClient.Connect();
                 gameCtx.SetStatus("Listening");

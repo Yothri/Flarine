@@ -2,6 +2,7 @@
 {
     public enum OpCode : short
     {
-        REGISTER_GS
+        REGISTER_GS,
+        REGISTER_USER
     }
 }

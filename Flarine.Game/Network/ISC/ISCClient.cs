@@ -72,7 +72,8 @@ namespace Flarine.Game.Network.ISC
 
         private readonly Dictionary<OpCode, Type> Handlers = new Dictionary<OpCode, Type>
         {
-            { OpCode.REGISTER_GS, typeof(RegisterGameServerHandler) }
+            { OpCode.REGISTER_GS, typeof(RegisterGameServerHandler) },
+            { OpCode.REGISTER_USER, typeof(RegisterUserHandler) }
         };
     }
 }

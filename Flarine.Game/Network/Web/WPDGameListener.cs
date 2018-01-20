@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Flarine.Core.Context;
 using Flarine.Core.Log;
+using Flarine.Game.Network.Web.Request;
 using Flarine.Network.Web;
 
 namespace Flarine.Game.Network.Web
@@ -25,9 +26,8 @@ namespace Flarine.Game.Network.Web
 
         protected override Dictionary<string, Type> Handlers => new Dictionary<string, Type>
         {
-           
+            { "GameLogin", typeof(GameLoginRequest) },
+            { "GameMetaDatas", typeof(GameMetaDatasRequest) }
         };
-
-        protected override bool DecryptRequest => true;
     }
 }

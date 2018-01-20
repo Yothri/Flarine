@@ -13,7 +13,7 @@ namespace Flarine.Tools
         {
             while (true)
             {
-                Console.WriteLine(WPDUtil.Transform("7+sGShNxKPyxEVVN/pDuJY9lEp2eJQs4/dUul1cQx0o=", "D"));
+                Console.WriteLine(WPDUtil.Transform("MsyFTWwwCoXatcd94okYZXz96tp5wnj4u7RfXjYUR9fKPsJ76hDYOxwP3S+e1o4E", "D"));
                 Console.ReadLine();
             }
 

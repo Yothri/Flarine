@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using Flarine.Core.Config;
 using Flarine.Core.Log;
@@ -19,11 +20,12 @@ namespace Flarine.Core.Context
         public ContextBase(string contextName)
         {
             ContextName = contextName;
+            Services = new Dictionary<Type, object>();
             SetStatus("Initializing");
             LoadConfigurations();
             LoadAssets();
         }
-        
+
         public abstract void LoadConfigurations();
         public abstract void SaveConfigurations();
         public abstract void LoadAssets();
@@ -58,20 +60,61 @@ namespace Flarine.Core.Context
             Console.Title = $"{ContextName} | Status: {status}";
         }
 
+        public void AddService(Type type, object provider)
+        {
+            Services.Add(type, provider);
+        }
+
+        public void AddService<T>(T provider)
+        {
+            AddService(typeof(T), provider);
+        }
+
+        public void RemoveService(Type type)
+        {
+            if (type == null)
+                throw new ArgumentNullException("type");
+
+            Services.Remove(type);
+        }
+
+        public object GetService(Type type)
+        {
+            if (type == null)
+                throw new ArgumentNullException("type");
+
+            object service;
+            if (Services.TryGetValue(type, out service))
+                return service;
+
+            return null;
+        }
+
+        public T GetService<T>() where T : class
+        {
+            var service = GetService(typeof(T));
+
+            if (service == null)
+                return null;
+
+            return (T)service;
+        }
+
         public void Dispose()
         {
             Dispose(true);
             GC.SuppressFinalize(this);
         }
-        
+
         protected virtual void Dispose(bool disposing)
         {
-            if(disposing)
+            if (disposing)
             {
                 SaveConfigurations();
             }
         }
 
         protected string ContextName { get; private set; }
+        protected Dictionary<Type, object> Services { get; private set; }
     }
 }
