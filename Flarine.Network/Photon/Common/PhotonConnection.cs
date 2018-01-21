@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using ClientCommon;
+using ClientCommon.ClientEventBody;
+using ClientCommon.CommandBody;
 using Ether.Network;
 using Ether.Network.Interfaces;
 using Ether.Network.Packets;
@@ -74,6 +78,79 @@ namespace Flarine.Network.Photon.Common
                         break;
                 }
             }
+        }
+
+        public void SendOperationResponse(OperationResponse response)
+        {
+            var tcpHeader = new byte[] { 251, 0, 0, 0, 0, 0, 1, 243, 3 };
+
+            var buffer = default(byte[]);
+            using (var stream = new StreamBuffer(0))
+            {
+                stream.Write(tcpHeader, 0, tcpHeader.Length);
+                SerializationProtocol.SerializeOperationResponse(stream, response, false);
+
+                buffer = stream.ToArray();
+                int num = 1;
+                Protocol.Serialize(buffer.Length, buffer, ref num);
+            }
+
+            using (var photonPacket = new PhotonPacket())
+            {
+                photonPacket.Write(buffer, 0, buffer.Length);
+                Send(photonPacket);
+            }
+        }
+
+        public void SendEventData(OperationRequest eventData)
+        {
+            var tcpHeader = new byte[] { 251, 0, 0, 0, 0, 0, 1, 243, 4 };
+
+            var buffer = default(byte[]);
+            using (var stream = new StreamBuffer(0))
+            {
+                stream.Write(tcpHeader, 0, tcpHeader.Length);
+                SerializationProtocol.SerializeOperationRequest(stream, eventData.OperationCode, eventData.Parameters, false);
+
+                buffer = stream.ToArray();
+                int num = 1;
+                Protocol.Serialize(buffer.Length, buffer, ref num);
+            }
+
+            using (var photonPacket = new PhotonPacket())
+            {
+                photonPacket.Write(buffer, 0, buffer.Length);
+                Send(photonPacket);
+            }
+        }
+
+        public void SendEvent(CEBClientEventBody body, ServerEventName name)
+        {
+            SendEventData(new OperationRequest
+            {
+                OperationCode = 0,
+                Parameters = new Dictionary<byte, object>
+                {
+                    { 0, (short)name },
+                    { 1, Body.SerializeRaw(body) }
+                }
+            });
+        }
+
+        public void SendResponse(ResponseBody body, ClientCommandName name)
+        {
+            SendOperationResponse(new OperationResponse
+            {
+                OperationCode = 0,
+                ReturnCode = 0,
+                DebugMessage = null,
+                Parameters = new Dictionary<byte, object>
+                {
+                    { 1, 0L },
+                    { 0, (short)name },
+                    { 2, Body.SerializeRaw(body) }
+                }
+            });
         }
 
         protected virtual void HandleOperationRequest(OperationRequest request) { }
