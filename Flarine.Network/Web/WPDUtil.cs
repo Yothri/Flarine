@@ -3,6 +3,9 @@ using System.IO;
 using System.IO.Compression;
 using System.Security.Cryptography;
 using System.Text;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using WebCommon;
 
 namespace Flarine.Network.Web
 {
@@ -44,6 +47,41 @@ namespace Flarine.Network.Web
                 b64 = Convert.ToBase64String(fileToCompress.ToArray());
             }
             return b64;
+        }
+
+        public static string UnZipFromBase64(string Compressedvalue)
+        {
+            byte[] buffer = Convert.FromBase64String(Compressedvalue);
+            MemoryStream memoryStream = new MemoryStream(buffer);
+            Stream stream = memoryStream;
+            if (stream == null)
+            {
+                throw new ArgumentException();
+            }
+            if (!stream.CanRead)
+            {
+                throw new ArgumentException();
+            }
+            MemoryStream memoryStream2 = new MemoryStream();
+            using (GZipStream gzipStream = new GZipStream(stream, CompressionMode.Decompress))
+            {
+                byte[] buffer2 = new byte[31457280];
+                int num;
+                do
+                {
+                    num = gzipStream.Read(buffer2, 0, 31457280);
+                }
+                while (num == 31457280);
+                memoryStream2.Write(buffer2, 0, num);
+            }
+            byte[] bytes = memoryStream2.ToArray();
+            memoryStream.Close();
+            memoryStream.Dispose();
+            stream.Close();
+            stream.Dispose();
+            memoryStream2.Close();
+            memoryStream2.Dispose();
+            return Encoding.UTF8.GetString(bytes);
         }
     }
 }

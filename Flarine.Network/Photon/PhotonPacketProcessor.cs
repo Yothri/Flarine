@@ -7,6 +7,7 @@ namespace Flarine.Network.Photon
     internal sealed class PhotonPacketProcessor : IPacketProcessor
     {
         public int HeaderSize => 5;
+        public bool IncludeHeader => true;
 
         public int GetLength(byte[] buffer)
         {

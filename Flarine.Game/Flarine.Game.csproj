@@ -14,6 +14,7 @@
     <ProjectReference Include="..\Flarine.Core\Flarine.Core.csproj" />
     <ProjectReference Include="..\Flarine.Database\Flarine.Database.csproj" />
     <ProjectReference Include="..\Flarine.Network\Flarine.Network.csproj" />
+    <ProjectReference Include="..\WebCommon\WebCommon.csproj" />
   </ItemGroup>
 
 </Project>

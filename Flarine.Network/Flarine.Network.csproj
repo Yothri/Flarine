@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Ether.Network\src\Ether.Network\Ether.Network.csproj" />
     <ProjectReference Include="..\Flarine.Core\Flarine.Core.csproj" />
+    <ProjectReference Include="..\WebCommon\WebCommon.csproj" />
   </ItemGroup>
 
   <ItemGroup>

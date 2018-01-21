@@ -49,7 +49,7 @@ namespace Flarine.Game.Network.Web.Request
                 GameAccessToken = gameAccessToken.ToString(),
                 AccountId = account.AccountId,
                 LastAccountHeroId = 0,
-                ServerTime = DateTime.UtcNow.ToString()
+                ServerTime = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss zzz")
             };
         }
 

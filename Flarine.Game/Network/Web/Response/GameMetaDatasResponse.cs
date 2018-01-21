@@ -5,7 +5,7 @@ namespace Flarine.Game.Network.Web.Response
 {
     internal sealed class GameMetaDatasResponse : WPDResponse
     {
-        [JsonProperty("accessToken")]
-        public string GameAccessToken { get; set; }
+        [JsonProperty("gameDatas")]
+        public string GameDatas { get; set; }
     }
 }
