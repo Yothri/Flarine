@@ -3,12 +3,18 @@ using Ether.Network;
 using Ether.Network.Interfaces;
 using Ether.Network.Packets;
 using Flarine.Core.Util;
+using Flarine.Network.Photon.IO;
 using Flarine.Network.Photon.IO.Protocol;
 
 namespace Flarine.Network.Photon.Common
 {
     public class PhotonConnection : NetUser
     {
+        public PhotonConnection()
+        {
+            SerializationProtocol = new Protocol16();
+        }
+
         public override void HandleMessage(INetPacketStream packet)
         {
             base.HandleMessage(packet);
@@ -37,7 +43,9 @@ namespace Flarine.Network.Photon.Common
                 var channelId = packet.Read<byte>();
                 var reliable = packet.Read<byte>();
                 var bla = packet.Read<byte>(); // wtf indicates this? that its a TCP packet?
-                var msgType = packet.Read<byte>() & 127;
+                var bla2 = packet.Read<byte>();
+                var msgType = (byte)(bla2 & 127);
+                var encrypted = (byte)(bla2 & 128);
 
                 switch(msgType)
                 {
@@ -50,7 +58,11 @@ namespace Flarine.Network.Photon.Common
                         }
                         break;
                     case 2:
-                        HandleOperationRequest(packet);
+                        var requestBytes = packet.Read<byte>(packet.Size - (int)packet.Position);
+                        using (var streamBuffer = new StreamBuffer(requestBytes))
+                        {
+                            HandleOperationRequest(SerializationProtocol.DeserializeOperationRequest(streamBuffer));
+                        }
                         break;
                     case 6:
                         using (var initPacket = new PhotonPacket())
@@ -64,6 +76,8 @@ namespace Flarine.Network.Photon.Common
             }
         }
 
-        protected virtual void HandleOperationRequest(INetPacketStream packet) { }
+        protected virtual void HandleOperationRequest(OperationRequest request) { }
+
+        protected ProtocolBase SerializationProtocol { get; private set; }
     }
 }
