@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Flarine.Core.Context;
 using Flarine.Core.Util;
@@ -43,13 +44,20 @@ namespace Flarine.Game.Network.Web.Request
                 GameAccessToken = gameAccessToken.ToString()
             });
 
+            List<AccountHero> accountHeros = new List<AccountHero>();
+            foreach(var hero in account.Heros)
+            {
+                accountHeros.Add(new AccountHero(hero, account.AccountId));
+            }
+
             return new GameLoginResponse
             {
                 IsMaintenance = ctx.GameConfig.GameServerConfig.IsMaintenance,
                 GameAccessToken = gameAccessToken.ToString(),
                 AccountId = account.AccountId,
                 LastAccountHeroId = 0,
-                ServerTime = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss zzz")
+                ServerTime = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss zzz"),
+                AccountHeros = accountHeros.ToArray()
             };
         }
 

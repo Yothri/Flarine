@@ -22,7 +22,7 @@ namespace Flarine.Game.Network.Web.Response
         public string ServerTime { get; set; }
 
         [JsonProperty("accountHeros")]
-        public object AccountHeros { get; set; } = new object[] { };
+        public AccountHero[] AccountHeros { get; set; } = new AccountHero[] { };
 
         [JsonProperty("accountHeroEquipedGears")]
         public object AccountHeroEquippedGears { get; set; } = new object[] { };
