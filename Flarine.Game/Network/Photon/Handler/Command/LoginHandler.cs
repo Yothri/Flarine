@@ -11,6 +11,9 @@ namespace Flarine.Game.Network.Photon.Handler.Command
             var session = GameContext.GameSessions
                 .Where(s => s.GameAccessToken == requestBody.accessToken).FirstOrDefault();
 
+            if (session == null)
+                return;
+
             // Associate PhotonConnection with GameSession.
             session.NetUser = connection;
 

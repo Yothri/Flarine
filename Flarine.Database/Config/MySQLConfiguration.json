@@ -1,0 +1,7 @@
+{
+  "Server": "localhost",
+  "User": "root",
+  "Password": "",
+  "Database": "Flarine",
+  "Port": 3306
+}

@@ -13,7 +13,7 @@ namespace Flarine.Game.Config.Model
         public string GameServerHost { get; set; } = "192.168.0.122";
         public int GameServerPort { get; set; } = 8022;
         public int MaxGameServerConnections { get; set; } = 500;
-        public string DatabaseEngine { get; set; } = "SQLite";
+        public string DatabaseEngine { get; set; } = "MySql";
         public GameServer GameServerConfig { get; set; } = new GameServer();
     }
 }

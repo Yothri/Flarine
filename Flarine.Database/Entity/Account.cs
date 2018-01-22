@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using Flarine.Database.Interface;
 
 namespace Flarine.Database.Entity
@@ -10,5 +11,7 @@ namespace Flarine.Database.Entity
         public string AccountId { get; set; }
         public string UserId { get; set; }
         public string UserSecret { get; set; }
+
+        public List<Hero> Heros { get; set; }
     }
 }

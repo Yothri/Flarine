@@ -33,7 +33,7 @@ namespace Flarine.Database
 
         private static readonly Dictionary<string, Type> Engines = new Dictionary<string, Type>
         {
-            { "SQLite", typeof(SQLiteContext) }
+            { "MySql", typeof(MySQLContext) }
         };
         private static string Engine { get; set; }
     }
