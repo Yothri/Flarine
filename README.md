@@ -1,9 +1,10 @@
+
 # Flarine
 Flarine is an experimental FlyFF Legacy Server Emulator.
 
 # Status
-This project is in early development phases. The GateServers and LoginServers necessary parts are functional and the game client is able to get to the main menu. 
-The next thing is the GameServer, but it has not been started yet except ISC communication to LoginServer to register the game server.
+This project is in early development phases. The GateServers and LoginServers necessary parts are functional and the game client is able to get to the main menu + character **creation**. 
+The GameServer is the core project. The LoginHandler is implemented but that's it. That's enough to bring the game client to the character creation screen. Even if there are currently characters on an account, you won't see them as they are not stored in the database yet. That will come soon.
 All in all: This project is far away from being able to play the game.
 
 # Projects
@@ -46,5 +47,6 @@ The project consists of 3 important parts:
 * Game Server
     * Done
         * GameServerRegistration at Login Server (ISC).
+        * LoginHandler -> Associate the PhotonConnection with the WPDConnection using the GameAccessToken.
     * Todo
         * Everything else xD
