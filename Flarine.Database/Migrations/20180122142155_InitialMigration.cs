@@ -30,8 +30,7 @@ namespace Flarine.Database.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    AccountHeroId = table.Column<int>(nullable: false),
-                    AccountId = table.Column<int>(nullable: false),
+                    AccountId = table.Column<int>(nullable: true),
                     CostumeId = table.Column<int>(nullable: false),
                     CostumeVisible = table.Column<bool>(nullable: false),
                     FaceId = table.Column<int>(nullable: false),
@@ -45,11 +44,11 @@ namespace Flarine.Database.Migrations
                 {
                     table.PrimaryKey("PK_tbl_heros", x => x.Id);
                     table.ForeignKey(
-                        name: "ForeignKey_Hero_Account",
+                        name: "FK_tbl_heros_tbl_accounts_AccountId",
                         column: x => x.AccountId,
                         principalTable: "tbl_accounts",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(

@@ -7,8 +7,8 @@ namespace Flarine.Game.Context.Model
     {
         public AccountHero(Hero hero, string accountId)
         {
-            AccountHeroId = hero.AccountHeroId;
             AccountId = accountId;
+            AccountHeroId = hero.Id;
             HeroId = hero.HeroId;
             FaceId = hero.FaceId;
             Name = hero.Name;
@@ -19,12 +19,12 @@ namespace Flarine.Game.Context.Model
             MountTier = hero.MountTier;
         }
 
-        [JsonProperty("accountHeroId")]
-        public int AccountHeroId { get; set; }
-
         [JsonProperty("accountId")]
         public string AccountId { get; set; }
 
+        [JsonProperty("accountHeroId")]
+        public int AccountHeroId { get; set; }
+        
         [JsonProperty("heroId")]
         public int HeroId { get; set; }
 

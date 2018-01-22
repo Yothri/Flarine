@@ -11,11 +11,9 @@ namespace Flarine.Database
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Hero>()
-                .HasOne(h => h.Account)
-                .WithMany(a => a.Heros)
-                .HasForeignKey(h => h.AccountId)
-                .HasConstraintName("ForeignKey_Hero_Account");
+            modelBuilder.Entity<Account>()
+                .HasMany(h => h.AccountHeros)
+                .WithOne();
         }
 
         protected DatabaseConfiguration Configuration { get; set; }

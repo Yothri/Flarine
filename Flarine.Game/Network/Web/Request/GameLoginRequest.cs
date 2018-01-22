@@ -8,6 +8,7 @@ using Flarine.Database.Entity;
 using Flarine.Game.Context.Model;
 using Flarine.Game.Network.Web.Response;
 using Flarine.Network.Web;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -25,8 +26,11 @@ namespace Flarine.Game.Network.Web.Request
             using (var dbCtx = DatabaseService.GetContext())
             {
                 account = dbCtx.Accounts
-                    .Where(a => a.UserId == loginSession.User.UserId).FirstOrDefault();
+                    .Where(a => a.UserId == loginSession.User.UserId)
+                    .Include(a => a.AccountHeros)
+                    .FirstOrDefault();
             }
+
             if (account == null)
                 return new GameLoginResponse { Result = 1 };
 
@@ -45,7 +49,7 @@ namespace Flarine.Game.Network.Web.Request
             });
 
             List<AccountHero> accountHeros = new List<AccountHero>();
-            foreach(var hero in account.Heros)
+            foreach (var hero in account.AccountHeros)
             {
                 accountHeros.Add(new AccountHero(hero, account.AccountId));
             }

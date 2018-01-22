@@ -41,9 +41,7 @@ namespace Flarine.Database.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<int>("AccountHeroId");
-
-                    b.Property<int>("AccountId");
+                    b.Property<int?>("AccountId");
 
                     b.Property<int>("CostumeId");
 
@@ -70,11 +68,9 @@ namespace Flarine.Database.Migrations
 
             modelBuilder.Entity("Flarine.Database.Entity.Hero", b =>
                 {
-                    b.HasOne("Flarine.Database.Entity.Account", "Account")
-                        .WithMany("Heros")
-                        .HasForeignKey("AccountId")
-                        .HasConstraintName("ForeignKey_Hero_Account")
-                        .OnDelete(DeleteBehavior.Cascade);
+                    b.HasOne("Flarine.Database.Entity.Account")
+                        .WithMany("AccountHeros")
+                        .HasForeignKey("AccountId");
                 });
 #pragma warning restore 612, 618
         }

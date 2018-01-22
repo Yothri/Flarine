@@ -12,6 +12,6 @@ namespace Flarine.Database.Entity
         public string UserId { get; set; }
         public string UserSecret { get; set; }
 
-        public List<Hero> Heros { get; set; }
+        public List<Hero> AccountHeros { get; set; }
     }
 }
