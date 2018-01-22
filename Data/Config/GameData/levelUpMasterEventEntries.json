@@ -1,0 +1,27 @@
+[
+  {
+    "entryId": 1,
+    "requiredHeroLevel": 180,
+    "limitCount": 800
+  },
+  {
+    "entryId": 2,
+    "requiredHeroLevel": 280,
+    "limitCount": 300
+  },
+  {
+    "entryId": 3,
+    "requiredHeroLevel": 301,
+    "limitCount": 100
+  },
+  {
+    "entryId": 4,
+    "requiredHeroLevel": 380,
+    "limitCount": 50
+  },
+  {
+    "entryId": 5,
+    "requiredHeroLevel": 401,
+    "limitCount": 20
+  }
+]

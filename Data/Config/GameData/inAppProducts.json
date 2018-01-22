@@ -1,0 +1,236 @@
+[
+  {
+    "inAppProductId": 1,
+    "inAppProductKey": "com.mobblo.flyfflegacy.dia135",
+    "price": "2.99",
+    "unOwnDia": 135,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 2,
+    "inAppProductKey": "com.mobblo.flyfflegacy.dia225",
+    "price": "4.99",
+    "unOwnDia": 225,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 3,
+    "inAppProductKey": "com.mobblo.flyfflegacy.dia500_1",
+    "price": "10.99",
+    "unOwnDia": 500,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 4,
+    "inAppProductKey": "com.mobblo.flyfflegacy.dia1530",
+    "price": "32.99",
+    "unOwnDia": 1530,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 5,
+    "inAppProductKey": "com.mobblo.flyfflegacy.dia2600",
+    "price": "54.99",
+    "unOwnDia": 2600,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 6,
+    "inAppProductKey": "com.mobblo.flyfflegacy.dia5400",
+    "price": "99.99",
+    "unOwnDia": 5000,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 8,
+    "inAppProductKey": "com.mobblo.flyfflegacy.30days",
+    "price": "21.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 9,
+    "inAppProductKey": "com.mobblo.flyfflegacy.lvlup1",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 10,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack1",
+    "price": "10.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 11,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack2",
+    "price": "21.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 12,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack3",
+    "price": "32.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 13,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack4",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 14,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack5",
+    "price": "99.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 15,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack6",
+    "price": "2.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 16,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack7",
+    "price": "4.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 17,
+    "inAppProductKey": "com.mobblo.flyfflegacy.startpack01",
+    "price": "24.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 18,
+    "inAppProductKey": "com.mobblo.flyfflegacy.30daysdiapack",
+    "price": "9.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 19,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack3_1",
+    "price": "32.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 20,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack3_2",
+    "price": "32.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 21,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack4_1",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 22,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack4_2",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 23,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack4_3",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 24,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack4_4",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 25,
+    "inAppProductKey": "com.mobblo.flyfflegacy.spack4_5",
+    "price": "54.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 40,
+    "inAppProductKey": "com.mobblo.flyfflegacy.lvlup2",
+    "price": "99.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  },
+  {
+    "inAppProductId": 41,
+    "inAppProductKey": "com.mobblo.flyfflegacy.lvlup3",
+    "price": "4.99",
+    "unOwnDia": 0,
+    "isAvailableFirstPurchase": false,
+    "firstPurchaseOwnDia": 0,
+    "firstPurchaseDiscountRate": 0
+  }
+]

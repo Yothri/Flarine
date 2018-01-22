@@ -1,0 +1,14 @@
+[
+  {
+    "obstacleId": 1,
+    "xPosition": 0.45,
+    "yPosition": 6.12,
+    "zPosition": 34.45
+  },
+  {
+    "obstacleId": 2,
+    "xPosition": 0.45,
+    "yPosition": 6.12,
+    "zPosition": 74.39
+  }
+]

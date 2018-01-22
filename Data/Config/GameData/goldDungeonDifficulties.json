@@ -1,0 +1,37 @@
+[
+  {
+    "goldDungeonId": 1,
+    "tradition": 0,
+    "recommandPower": 30
+  },
+  {
+    "goldDungeonId": 1,
+    "tradition": 1,
+    "recommandPower": 7313
+  },
+  {
+    "goldDungeonId": 1,
+    "tradition": 2,
+    "recommandPower": 32823
+  },
+  {
+    "goldDungeonId": 1,
+    "tradition": 3,
+    "recommandPower": 116668
+  },
+  {
+    "goldDungeonId": 1,
+    "tradition": 4,
+    "recommandPower": 313850
+  },
+  {
+    "goldDungeonId": 1,
+    "tradition": 5,
+    "recommandPower": 759918
+  },
+  {
+    "goldDungeonId": 1,
+    "tradition": 6,
+    "recommandPower": 1716945
+  }
+]

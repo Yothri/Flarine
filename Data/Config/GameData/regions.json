@@ -1,0 +1,227 @@
+[
+  {
+    "regionId": 101,
+    "continentId": 1,
+    "name": "",
+    "nameKey": "REGION_NAME_0001",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 102,
+    "continentId": 1,
+    "name": "",
+    "nameKey": "REGION_NAME_0002",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 103,
+    "continentId": 1,
+    "name": "",
+    "nameKey": "REGION_NAME_0003",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 104,
+    "continentId": 1,
+    "name": "",
+    "nameKey": "REGION_NAME_0004",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 201,
+    "continentId": 2,
+    "name": "",
+    "nameKey": "REGION_NAME_0005",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 202,
+    "continentId": 2,
+    "name": "",
+    "nameKey": "REGION_NAME_0006",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 203,
+    "continentId": 2,
+    "name": "",
+    "nameKey": "REGION_NAME_0007",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 204,
+    "continentId": 2,
+    "name": "",
+    "nameKey": "REGION_NAME_0008",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 301,
+    "continentId": 3,
+    "name": "",
+    "nameKey": "REGION_NAME_0009",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 302,
+    "continentId": 3,
+    "name": "",
+    "nameKey": "REGION_NAME_0010",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 303,
+    "continentId": 3,
+    "name": "",
+    "nameKey": "REGION_NAME_0011",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 304,
+    "continentId": 3,
+    "name": "",
+    "nameKey": "REGION_NAME_0012",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 401,
+    "continentId": 4,
+    "name": "",
+    "nameKey": "REGION_NAME_0013",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 402,
+    "continentId": 4,
+    "name": "",
+    "nameKey": "REGION_NAME_0014",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 403,
+    "continentId": 4,
+    "name": "",
+    "nameKey": "REGION_NAME_0015",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 404,
+    "continentId": 4,
+    "name": "",
+    "nameKey": "REGION_NAME_0016",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 501,
+    "continentId": 5,
+    "name": "",
+    "nameKey": "REGION_NAME_0017",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 502,
+    "continentId": 5,
+    "name": "",
+    "nameKey": "REGION_NAME_0018",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 503,
+    "continentId": 5,
+    "name": "",
+    "nameKey": "REGION_NAME_0019",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 504,
+    "continentId": 5,
+    "name": "",
+    "nameKey": "REGION_NAME_0020",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 601,
+    "continentId": 6,
+    "name": "",
+    "nameKey": "REGION_NAME_0021",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 602,
+    "continentId": 6,
+    "name": "",
+    "nameKey": "REGION_NAME_0022",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 603,
+    "continentId": 6,
+    "name": "",
+    "nameKey": "REGION_NAME_0023",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 604,
+    "continentId": 6,
+    "name": "",
+    "nameKey": "REGION_NAME_0024",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  },
+  {
+    "regionId": 605,
+    "continentId": 6,
+    "name": "",
+    "nameKey": "REGION_NAME_0025",
+    "startXPosition": 1.0,
+    "startYPosition": 1.0,
+    "startZPosition": 1.0
+  }
+]

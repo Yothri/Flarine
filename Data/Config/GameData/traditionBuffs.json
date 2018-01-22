@@ -1,0 +1,884 @@
+[
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 7,
+    "value": 5.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 8,
+    "value": 5.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 9,
+    "value": 3.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 10,
+    "value": 3.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 11,
+    "value": 2.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 0,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 5,
+    "value": 729.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 7,
+    "value": 115.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 8,
+    "value": 115.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 9,
+    "value": 58.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 10,
+    "value": 53.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 11,
+    "value": 36.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 1,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 7,
+    "value": 626.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 8,
+    "value": 626.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 9,
+    "value": 313.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 10,
+    "value": 289.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 11,
+    "value": 193.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 2,
+    "attrId": 12,
+    "value": 97.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 7,
+    "value": 1900.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 8,
+    "value": 1900.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 9,
+    "value": 950.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 10,
+    "value": 877.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 11,
+    "value": 585.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 3,
+    "attrId": 12,
+    "value": 293.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 5,
+    "value": 30593.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 7,
+    "value": 4821.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 8,
+    "value": 4821.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 9,
+    "value": 2411.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 10,
+    "value": 2225.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 11,
+    "value": 1484.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 4,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 5,
+    "value": 71487.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 7,
+    "value": 11265.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 8,
+    "value": 11265.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 9,
+    "value": 5633.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 10,
+    "value": 5199.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 11,
+    "value": 3467.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 5,
+    "attrId": 12,
+    "value": 1734.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 7,
+    "value": 24883.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 8,
+    "value": 24883.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 9,
+    "value": 12442.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 10,
+    "value": 11485.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 11,
+    "value": 7657.0
+  },
+  {
+    "heroId": 1,
+    "tradition": 6,
+    "attrId": 12,
+    "value": 3829.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 7,
+    "value": 5.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 8,
+    "value": 5.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 9,
+    "value": 3.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 10,
+    "value": 3.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 11,
+    "value": 2.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 0,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 5,
+    "value": 729.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 7,
+    "value": 115.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 8,
+    "value": 115.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 9,
+    "value": 58.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 10,
+    "value": 53.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 11,
+    "value": 36.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 1,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 7,
+    "value": 626.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 8,
+    "value": 626.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 9,
+    "value": 313.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 10,
+    "value": 289.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 11,
+    "value": 193.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 2,
+    "attrId": 12,
+    "value": 97.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 7,
+    "value": 1900.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 8,
+    "value": 1900.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 9,
+    "value": 950.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 10,
+    "value": 877.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 11,
+    "value": 585.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 3,
+    "attrId": 12,
+    "value": 293.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 5,
+    "value": 30593.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 7,
+    "value": 4821.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 8,
+    "value": 4821.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 9,
+    "value": 2411.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 10,
+    "value": 2225.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 11,
+    "value": 1484.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 4,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 5,
+    "value": 71487.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 7,
+    "value": 11265.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 8,
+    "value": 11265.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 9,
+    "value": 5633.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 10,
+    "value": 5199.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 11,
+    "value": 3467.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 5,
+    "attrId": 12,
+    "value": 1734.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 7,
+    "value": 24883.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 8,
+    "value": 24883.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 9,
+    "value": 12442.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 10,
+    "value": 11485.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 11,
+    "value": 7657.0
+  },
+  {
+    "heroId": 2,
+    "tradition": 6,
+    "attrId": 12,
+    "value": 3829.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 7,
+    "value": 5.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 8,
+    "value": 5.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 9,
+    "value": 3.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 10,
+    "value": 3.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 11,
+    "value": 2.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 0,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 5,
+    "value": 729.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 7,
+    "value": 115.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 8,
+    "value": 115.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 9,
+    "value": 53.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 10,
+    "value": 58.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 11,
+    "value": 36.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 1,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 7,
+    "value": 626.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 8,
+    "value": 626.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 9,
+    "value": 289.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 10,
+    "value": 313.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 11,
+    "value": 193.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 2,
+    "attrId": 12,
+    "value": 97.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 7,
+    "value": 1900.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 8,
+    "value": 1900.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 9,
+    "value": 877.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 10,
+    "value": 950.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 11,
+    "value": 585.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 3,
+    "attrId": 12,
+    "value": 293.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 5,
+    "value": 30593.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 7,
+    "value": 4821.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 8,
+    "value": 4821.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 9,
+    "value": 2225.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 10,
+    "value": 2411.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 11,
+    "value": 1484.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 4,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 5,
+    "value": 71487.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 7,
+    "value": 11265.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 8,
+    "value": 11265.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 9,
+    "value": 5199.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 10,
+    "value": 5633.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 11,
+    "value": 3467.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 5,
+    "attrId": 12,
+    "value": 1734.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 7,
+    "value": 24883.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 8,
+    "value": 24883.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 9,
+    "value": 11485.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 10,
+    "value": 12442.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 11,
+    "value": 7657.0
+  },
+  {
+    "heroId": 3,
+    "tradition": 6,
+    "attrId": 12,
+    "value": 3829.0
+  }
+]

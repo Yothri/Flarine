@@ -1,0 +1,72 @@
+[
+  {
+    "tradition": 0,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 0,
+    "rewardNo": 2,
+    "itemId": 25005
+  },
+  {
+    "tradition": 1,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 1,
+    "rewardNo": 2,
+    "itemId": 25005
+  },
+  {
+    "tradition": 2,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 2,
+    "rewardNo": 2,
+    "itemId": 25005
+  },
+  {
+    "tradition": 3,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 3,
+    "rewardNo": 2,
+    "itemId": 25005
+  },
+  {
+    "tradition": 4,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 4,
+    "rewardNo": 2,
+    "itemId": 25005
+  },
+  {
+    "tradition": 5,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 5,
+    "rewardNo": 2,
+    "itemId": 25005
+  },
+  {
+    "tradition": 6,
+    "rewardNo": 1,
+    "itemId": 20024
+  },
+  {
+    "tradition": 6,
+    "rewardNo": 2,
+    "itemId": 25005
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "scheduleId": 1,
+    "startTime": 43200,
+    "endTime": 50400,
+    "rewardFactor": 2.0
+  },
+  {
+    "scheduleId": 2,
+    "startTime": 79200,
+    "endTime": 86400,
+    "rewardFactor": 2.0
+  }
+]

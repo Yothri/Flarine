@@ -1,0 +1,272 @@
+[
+  {
+    "eventId": 2,
+    "entryId": 1,
+    "requiredLuckyBagCount": 2500,
+    "type": 1,
+    "itemId": 46010,
+    "itemCount": 1,
+    "exchangeableCount": 1
+  },
+  {
+    "eventId": 3,
+    "entryId": 1,
+    "requiredLuckyBagCount": 7000,
+    "type": 1,
+    "itemId": 46018,
+    "itemCount": 1,
+    "exchangeableCount": 1
+  },
+  {
+    "eventId": 4,
+    "entryId": 1,
+    "requiredLuckyBagCount": 7000,
+    "type": 1,
+    "itemId": 46030,
+    "itemCount": 1,
+    "exchangeableCount": 1
+  },
+  {
+    "eventId": 5,
+    "entryId": 1,
+    "requiredLuckyBagCount": 7000,
+    "type": 1,
+    "itemId": 46051,
+    "itemCount": 1,
+    "exchangeableCount": 1
+  },
+  {
+    "eventId": 5,
+    "entryId": 2,
+    "requiredLuckyBagCount": 5000,
+    "type": 1,
+    "itemId": 55012,
+    "itemCount": 1,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 4,
+    "entryId": 2,
+    "requiredLuckyBagCount": 5000,
+    "type": 1,
+    "itemId": 43055,
+    "itemCount": 1,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 3,
+    "entryId": 2,
+    "requiredLuckyBagCount": 5000,
+    "type": 1,
+    "itemId": 43054,
+    "itemCount": 1,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 2,
+    "requiredLuckyBagCount": 100,
+    "type": 1,
+    "itemId": 27001,
+    "itemCount": 5,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 3,
+    "requiredLuckyBagCount": 150,
+    "type": 1,
+    "itemId": 27002,
+    "itemCount": 5,
+    "exchangeableCount": 5
+  },
+  {
+    "eventId": 3,
+    "entryId": 3,
+    "requiredLuckyBagCount": 3000,
+    "type": 1,
+    "itemId": 15001,
+    "itemCount": 1,
+    "exchangeableCount": 10
+  },
+  {
+    "eventId": 4,
+    "entryId": 3,
+    "requiredLuckyBagCount": 3000,
+    "type": 1,
+    "itemId": 15001,
+    "itemCount": 1,
+    "exchangeableCount": 10
+  },
+  {
+    "eventId": 5,
+    "entryId": 3,
+    "requiredLuckyBagCount": 3000,
+    "type": 1,
+    "itemId": 15001,
+    "itemCount": 1,
+    "exchangeableCount": 10
+  },
+  {
+    "eventId": 5,
+    "entryId": 4,
+    "requiredLuckyBagCount": 1000,
+    "type": 1,
+    "itemId": 51002,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 4,
+    "entryId": 4,
+    "requiredLuckyBagCount": 1000,
+    "type": 1,
+    "itemId": 51002,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 3,
+    "entryId": 4,
+    "requiredLuckyBagCount": 1000,
+    "type": 1,
+    "itemId": 51002,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 4,
+    "requiredLuckyBagCount": 100,
+    "type": 1,
+    "itemId": 10001,
+    "itemCount": 5,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 5,
+    "requiredLuckyBagCount": 150,
+    "type": 1,
+    "itemId": 10002,
+    "itemCount": 5,
+    "exchangeableCount": 5
+  },
+  {
+    "eventId": 3,
+    "entryId": 5,
+    "requiredLuckyBagCount": 200,
+    "type": 1,
+    "itemId": 52001,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 4,
+    "entryId": 5,
+    "requiredLuckyBagCount": 200,
+    "type": 1,
+    "itemId": 52001,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 5,
+    "entryId": 5,
+    "requiredLuckyBagCount": 200,
+    "type": 1,
+    "itemId": 52001,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 6,
+    "requiredLuckyBagCount": 250,
+    "type": 1,
+    "itemId": 54001,
+    "itemCount": 10,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 7,
+    "requiredLuckyBagCount": 250,
+    "type": 1,
+    "itemId": 53001,
+    "itemCount": 1,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 8,
+    "requiredLuckyBagCount": 250,
+    "type": 1,
+    "itemId": 41001,
+    "itemCount": 10,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 9,
+    "requiredLuckyBagCount": 300,
+    "type": 1,
+    "itemId": 52001,
+    "itemCount": 3,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 10,
+    "requiredLuckyBagCount": 500,
+    "type": 1,
+    "itemId": 51001,
+    "itemCount": 1,
+    "exchangeableCount": 5
+  },
+  {
+    "eventId": 2,
+    "entryId": 11,
+    "requiredLuckyBagCount": 500,
+    "type": 1,
+    "itemId": 36002,
+    "itemCount": 4,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 12,
+    "requiredLuckyBagCount": 1000,
+    "type": 1,
+    "itemId": 17001,
+    "itemCount": 10,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 13,
+    "requiredLuckyBagCount": 1000,
+    "type": 1,
+    "itemId": 17002,
+    "itemCount": 5,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 2,
+    "entryId": 14,
+    "requiredLuckyBagCount": 2000,
+    "type": 1,
+    "itemId": 20008,
+    "itemCount": 2,
+    "exchangeableCount": 5
+  },
+  {
+    "eventId": 2,
+    "entryId": 15,
+    "requiredLuckyBagCount": 2000,
+    "type": 1,
+    "itemId": 20013,
+    "itemCount": 4,
+    "exchangeableCount": 5
+  }
+]

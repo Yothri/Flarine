@@ -1,0 +1,58 @@
+[
+  {
+    "chaoticStepId": 0,
+    "requiredPkPoint": 0,
+    "factor": 1.0,
+    "pkPoint": 100,
+    "punishable": false,
+    "colorCode": "#FFFFFF"
+  },
+  {
+    "chaoticStepId": 1,
+    "requiredPkPoint": 1,
+    "factor": 0.9,
+    "pkPoint": 100,
+    "punishable": false,
+    "colorCode": "#FFFFFF"
+  },
+  {
+    "chaoticStepId": 2,
+    "requiredPkPoint": 100,
+    "factor": 0.8,
+    "pkPoint": 100,
+    "punishable": false,
+    "colorCode": "#FFD52C"
+  },
+  {
+    "chaoticStepId": 3,
+    "requiredPkPoint": 200,
+    "factor": 0.4,
+    "pkPoint": 0,
+    "punishable": true,
+    "colorCode": "#FF0000"
+  },
+  {
+    "chaoticStepId": 4,
+    "requiredPkPoint": 400,
+    "factor": 0.2,
+    "pkPoint": 0,
+    "punishable": true,
+    "colorCode": "#FF0000"
+  },
+  {
+    "chaoticStepId": 5,
+    "requiredPkPoint": 600,
+    "factor": 0.05,
+    "pkPoint": 0,
+    "punishable": true,
+    "colorCode": "#FF0000"
+  },
+  {
+    "chaoticStepId": 6,
+    "requiredPkPoint": 800,
+    "factor": 0.01,
+    "pkPoint": 0,
+    "punishable": true,
+    "colorCode": "#FF0000"
+  }
+]

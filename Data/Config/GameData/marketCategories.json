@@ -1,0 +1,186 @@
+[
+  {
+    "categoryId": 101,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_001",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 102,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_002",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 103,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_003",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 104,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_004",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 105,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_005",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 106,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_006",
+    "subCategoryGroup": 2
+  },
+  {
+    "categoryId": 107,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_007",
+    "subCategoryGroup": 3
+  },
+  {
+    "categoryId": 108,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_008",
+    "subCategoryGroup": 4
+  },
+  {
+    "categoryId": 109,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_009",
+    "subCategoryGroup": 5
+  },
+  {
+    "categoryId": 110,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_010",
+    "subCategoryGroup": 6
+  },
+  {
+    "categoryId": 111,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_011",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 112,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_012",
+    "subCategoryGroup": 7
+  },
+  {
+    "categoryId": 113,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_013",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 114,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_039",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 115,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_040",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 116,
+    "depth": 1,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_041",
+    "subCategoryGroup": 8
+  },
+  {
+    "categoryId": 201,
+    "depth": 2,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_014",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 202,
+    "depth": 2,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_015",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 203,
+    "depth": 2,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_016",
+    "subCategoryGroup": 1
+  },
+  {
+    "categoryId": 302,
+    "depth": 3,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_035",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 303,
+    "depth": 3,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_036",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 304,
+    "depth": 3,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_037",
+    "subCategoryGroup": 0
+  },
+  {
+    "categoryId": 305,
+    "depth": 3,
+    "group": 1,
+    "name": "",
+    "nameKey": "MCATEGORY_NAME_038",
+    "subCategoryGroup": 0
+  }
+]

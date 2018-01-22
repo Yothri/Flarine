@@ -1,0 +1,137 @@
+[
+  {
+    "gearType": 101,
+    "category": 1,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0001",
+    "attrEnchantMaterialItemId": 3003,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 102,
+    "category": 1,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0002",
+    "attrEnchantMaterialItemId": 3003,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 103,
+    "category": 1,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0003",
+    "attrEnchantMaterialItemId": 3003,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 104,
+    "category": 1,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0004",
+    "attrEnchantMaterialItemId": 3003,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 105,
+    "category": 1,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0005",
+    "attrEnchantMaterialItemId": 3003,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 106,
+    "category": 1,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0006",
+    "attrEnchantMaterialItemId": 3003,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 201,
+    "category": 2,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0101",
+    "attrEnchantMaterialItemId": 3004,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 301,
+    "category": 3,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0201",
+    "attrEnchantMaterialItemId": 3001,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 302,
+    "category": 3,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0202",
+    "attrEnchantMaterialItemId": 3001,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 303,
+    "category": 3,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0203",
+    "attrEnchantMaterialItemId": 3005,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 304,
+    "category": 3,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0204",
+    "attrEnchantMaterialItemId": 3002,
+    "attrEnchantEnabled": true,
+    "runeEnchantEnabled": true
+  },
+  {
+    "gearType": 401,
+    "category": 4,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0301",
+    "attrEnchantMaterialItemId": 0,
+    "attrEnchantEnabled": false,
+    "runeEnchantEnabled": false
+  },
+  {
+    "gearType": 402,
+    "category": 4,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0302",
+    "attrEnchantMaterialItemId": 0,
+    "attrEnchantEnabled": false,
+    "runeEnchantEnabled": false
+  },
+  {
+    "gearType": 403,
+    "category": 4,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0303",
+    "attrEnchantMaterialItemId": 0,
+    "attrEnchantEnabled": false,
+    "runeEnchantEnabled": false
+  },
+  {
+    "gearType": 501,
+    "category": 5,
+    "name": "",
+    "nameKey": "GEARTYPE_NAME_0401",
+    "attrEnchantMaterialItemId": 0,
+    "attrEnchantEnabled": false,
+    "runeEnchantEnabled": false
+  }
+]

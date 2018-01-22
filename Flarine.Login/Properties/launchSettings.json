@@ -2,7 +2,7 @@
   "profiles": {
     "Flarine.Login": {
       "commandName": "Project",
-      "workingDirectory": ".\\..\\Build\\Debug\\netcoreapp2.0"
+      "workingDirectory": ".\\..\\Data"
     }
   }
 }

@@ -1,0 +1,52 @@
+[
+  {
+    "buffId": 1,
+    "name": "",
+    "nameKey": "E-BUFF_NAME_1001",
+    "description": "",
+    "descriptionKey": "E-BUFF_DESC_1001",
+    "attrId": 17,
+    "value": 5000.0,
+    "colorCode": "#FFD52C"
+  },
+  {
+    "buffId": 2,
+    "name": "",
+    "nameKey": "E-BUFF_NAME_1002",
+    "description": "",
+    "descriptionKey": "E-BUFF_DESC_1002",
+    "attrId": 18,
+    "value": 5000.0,
+    "colorCode": "#FF93CE"
+  },
+  {
+    "buffId": 3,
+    "name": "",
+    "nameKey": "E-BUFF_NAME_1003",
+    "description": "",
+    "descriptionKey": "E-BUFF_DESC_1003",
+    "attrId": 29,
+    "value": 5000.0,
+    "colorCode": "#FC29FF"
+  },
+  {
+    "buffId": 4,
+    "name": "",
+    "nameKey": "E-BUFF_NAME_1004",
+    "description": "",
+    "descriptionKey": "E-BUFF_DESC_1004",
+    "attrId": 30,
+    "value": 5000.0,
+    "colorCode": "#10D5FF"
+  },
+  {
+    "buffId": 5,
+    "name": "",
+    "nameKey": "E-BUFF_NAME_1005",
+    "description": "",
+    "descriptionKey": "E-BUFF_DESC_1005",
+    "attrId": 19,
+    "value": 5000.0,
+    "colorCode": "#74FF21"
+  }
+]

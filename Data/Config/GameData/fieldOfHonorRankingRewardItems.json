@@ -1,0 +1,134 @@
+[
+  {
+    "minRank": 1,
+    "maxRank": 1,
+    "itemId": 17001,
+    "itemCount": 5
+  },
+  {
+    "minRank": 1,
+    "maxRank": 1,
+    "itemId": 32001,
+    "itemCount": 2
+  },
+  {
+    "minRank": 2,
+    "maxRank": 3,
+    "itemId": 17001,
+    "itemCount": 4
+  },
+  {
+    "minRank": 2,
+    "maxRank": 3,
+    "itemId": 32001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 2,
+    "maxRank": 3,
+    "itemId": 32006,
+    "itemCount": 8
+  },
+  {
+    "minRank": 4,
+    "maxRank": 10,
+    "itemId": 17001,
+    "itemCount": 3
+  },
+  {
+    "minRank": 4,
+    "maxRank": 10,
+    "itemId": 32001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 4,
+    "maxRank": 10,
+    "itemId": 32006,
+    "itemCount": 6
+  },
+  {
+    "minRank": 11,
+    "maxRank": 50,
+    "itemId": 17001,
+    "itemCount": 2
+  },
+  {
+    "minRank": 11,
+    "maxRank": 50,
+    "itemId": 32001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 11,
+    "maxRank": 50,
+    "itemId": 32006,
+    "itemCount": 4
+  },
+  {
+    "minRank": 51,
+    "maxRank": 100,
+    "itemId": 17001,
+    "itemCount": 2
+  },
+  {
+    "minRank": 51,
+    "maxRank": 100,
+    "itemId": 32001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 51,
+    "maxRank": 100,
+    "itemId": 32006,
+    "itemCount": 2
+  },
+  {
+    "minRank": 101,
+    "maxRank": 300,
+    "itemId": 17001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 101,
+    "maxRank": 300,
+    "itemId": 32001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 301,
+    "maxRank": 500,
+    "itemId": 17001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 301,
+    "maxRank": 500,
+    "itemId": 32006,
+    "itemCount": 8
+  },
+  {
+    "minRank": 501,
+    "maxRank": 1000,
+    "itemId": 17001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 501,
+    "maxRank": 1000,
+    "itemId": 32006,
+    "itemCount": 6
+  },
+  {
+    "minRank": 1001,
+    "maxRank": 1001,
+    "itemId": 17001,
+    "itemCount": 1
+  },
+  {
+    "minRank": 1001,
+    "maxRank": 1001,
+    "itemId": 32006,
+    "itemCount": 4
+  }
+]

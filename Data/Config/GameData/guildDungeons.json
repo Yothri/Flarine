@@ -1,0 +1,32 @@
+[
+  {
+    "dungeonId": 1,
+    "sceneName": "a05_pvp_01",
+    "startXPosition": 0.0,
+    "startYPosition": 2.8,
+    "startZPosition": -15.0,
+    "startRadius": 3.0,
+    "spawnMonsterId": 90001,
+    "locationId": 110
+  },
+  {
+    "dungeonId": 2,
+    "sceneName": "a05_pvp_01",
+    "startXPosition": 0.0,
+    "startYPosition": 2.8,
+    "startZPosition": -15.0,
+    "startRadius": 3.0,
+    "spawnMonsterId": 90002,
+    "locationId": 110
+  },
+  {
+    "dungeonId": 3,
+    "sceneName": "a05_pvp_01",
+    "startXPosition": 0.0,
+    "startYPosition": 2.8,
+    "startZPosition": -15.0,
+    "startRadius": 3.0,
+    "spawnMonsterId": 90003,
+    "locationId": 110
+  }
+]

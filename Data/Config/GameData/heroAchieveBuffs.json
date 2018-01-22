@@ -1,0 +1,3242 @@
+[
+  {
+    "heroId": 1,
+    "achieveId": 1,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 1,
+    "attrId": 7,
+    "value": 2.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 1,
+    "attrId": 8,
+    "value": 2.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 1,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 1,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 1,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 2,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 2,
+    "attrId": 7,
+    "value": 209.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 2,
+    "attrId": 8,
+    "value": 209.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 2,
+    "attrId": 9,
+    "value": 157.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 2,
+    "attrId": 10,
+    "value": 145.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 2,
+    "attrId": 12,
+    "value": 49.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 3,
+    "attrId": 5,
+    "value": 5260.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 3,
+    "attrId": 7,
+    "value": 277.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 3,
+    "attrId": 8,
+    "value": 277.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 3,
+    "attrId": 9,
+    "value": 208.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 3,
+    "attrId": 10,
+    "value": 192.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 3,
+    "attrId": 12,
+    "value": 64.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 4,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 4,
+    "attrId": 7,
+    "value": 634.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 4,
+    "attrId": 8,
+    "value": 634.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 4,
+    "attrId": 9,
+    "value": 475.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 4,
+    "attrId": 10,
+    "value": 439.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 4,
+    "attrId": 12,
+    "value": 147.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 5,
+    "attrId": 5,
+    "value": 14207.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 5,
+    "attrId": 7,
+    "value": 747.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 5,
+    "attrId": 8,
+    "value": 747.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 5,
+    "attrId": 9,
+    "value": 560.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 5,
+    "attrId": 10,
+    "value": 517.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 5,
+    "attrId": 12,
+    "value": 173.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 6,
+    "attrId": 5,
+    "value": 17744.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 6,
+    "attrId": 7,
+    "value": 932.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 6,
+    "attrId": 8,
+    "value": 932.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 6,
+    "attrId": 9,
+    "value": 699.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 6,
+    "attrId": 10,
+    "value": 646.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 6,
+    "attrId": 12,
+    "value": 216.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 7,
+    "attrId": 5,
+    "value": 32183.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 7,
+    "attrId": 7,
+    "value": 1691.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 7,
+    "attrId": 8,
+    "value": 1691.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 7,
+    "attrId": 9,
+    "value": 1268.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 7,
+    "attrId": 10,
+    "value": 1171.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 7,
+    "attrId": 12,
+    "value": 391.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 8,
+    "attrId": 5,
+    "value": 37343.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 8,
+    "attrId": 7,
+    "value": 1962.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 8,
+    "attrId": 8,
+    "value": 1962.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 8,
+    "attrId": 9,
+    "value": 1472.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 8,
+    "attrId": 10,
+    "value": 1358.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 8,
+    "attrId": 12,
+    "value": 453.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 9,
+    "attrId": 5,
+    "value": 45832.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 9,
+    "attrId": 7,
+    "value": 2408.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 9,
+    "attrId": 8,
+    "value": 2408.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 9,
+    "attrId": 9,
+    "value": 1806.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 9,
+    "attrId": 10,
+    "value": 1667.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 9,
+    "attrId": 12,
+    "value": 556.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 10,
+    "attrId": 5,
+    "value": 74070.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 10,
+    "attrId": 7,
+    "value": 3891.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 10,
+    "attrId": 8,
+    "value": 3891.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 10,
+    "attrId": 9,
+    "value": 2918.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 10,
+    "attrId": 10,
+    "value": 2694.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 10,
+    "attrId": 12,
+    "value": 898.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 11,
+    "attrId": 5,
+    "value": 83268.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 11,
+    "attrId": 7,
+    "value": 4374.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 11,
+    "attrId": 8,
+    "value": 4374.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 11,
+    "attrId": 9,
+    "value": 3281.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 11,
+    "attrId": 10,
+    "value": 3028.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 11,
+    "attrId": 12,
+    "value": 1010.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 12,
+    "attrId": 5,
+    "value": 99510.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 12,
+    "attrId": 7,
+    "value": 5227.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 12,
+    "attrId": 8,
+    "value": 5227.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 12,
+    "attrId": 9,
+    "value": 3921.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 12,
+    "attrId": 10,
+    "value": 3619.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 12,
+    "attrId": 12,
+    "value": 1207.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 13,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 13,
+    "attrId": 7,
+    "value": 8295.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 13,
+    "attrId": 8,
+    "value": 8295.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 13,
+    "attrId": 9,
+    "value": 6221.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 13,
+    "attrId": 10,
+    "value": 5743.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 13,
+    "attrId": 12,
+    "value": 1915.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 14,
+    "attrId": 5,
+    "value": 167372.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 14,
+    "attrId": 7,
+    "value": 8792.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 14,
+    "attrId": 8,
+    "value": 8792.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 14,
+    "attrId": 9,
+    "value": 6594.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 14,
+    "attrId": 10,
+    "value": 6087.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 14,
+    "attrId": 12,
+    "value": 2029.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 15,
+    "attrId": 5,
+    "value": 188305.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 15,
+    "attrId": 7,
+    "value": 9891.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 15,
+    "attrId": 8,
+    "value": 9891.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 15,
+    "attrId": 9,
+    "value": 7419.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 15,
+    "attrId": 10,
+    "value": 6848.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 15,
+    "attrId": 12,
+    "value": 2283.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 16,
+    "attrId": 5,
+    "value": 225270.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 16,
+    "attrId": 7,
+    "value": 11833.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 16,
+    "attrId": 8,
+    "value": 11833.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 16,
+    "attrId": 9,
+    "value": 8875.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 16,
+    "attrId": 10,
+    "value": 8192.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 16,
+    "attrId": 12,
+    "value": 2731.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 17,
+    "attrId": 5,
+    "value": 328071.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 17,
+    "attrId": 7,
+    "value": 17232.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 17,
+    "attrId": 8,
+    "value": 17232.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 17,
+    "attrId": 9,
+    "value": 12924.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 17,
+    "attrId": 10,
+    "value": 11930.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 17,
+    "attrId": 12,
+    "value": 3977.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 18,
+    "attrId": 5,
+    "value": 338445.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 18,
+    "attrId": 7,
+    "value": 17777.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 18,
+    "attrId": 8,
+    "value": 17777.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 18,
+    "attrId": 9,
+    "value": 13333.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 18,
+    "attrId": 10,
+    "value": 12308.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 18,
+    "attrId": 12,
+    "value": 4103.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 19,
+    "attrId": 5,
+    "value": 366371.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 19,
+    "attrId": 7,
+    "value": 19244.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 19,
+    "attrId": 8,
+    "value": 19244.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 19,
+    "attrId": 9,
+    "value": 14433.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 19,
+    "attrId": 10,
+    "value": 13323.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 19,
+    "attrId": 12,
+    "value": 4441.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 20,
+    "attrId": 5,
+    "value": 420549.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 20,
+    "attrId": 7,
+    "value": 22090.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 20,
+    "attrId": 8,
+    "value": 22090.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 20,
+    "attrId": 9,
+    "value": 16568.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 20,
+    "attrId": 10,
+    "value": 15293.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 20,
+    "attrId": 12,
+    "value": 5098.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 21,
+    "attrId": 5,
+    "value": 509684.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 21,
+    "attrId": 7,
+    "value": 26772.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 21,
+    "attrId": 8,
+    "value": 26772.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 21,
+    "attrId": 9,
+    "value": 20079.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 21,
+    "attrId": 10,
+    "value": 18534.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 21,
+    "attrId": 12,
+    "value": 6178.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 22,
+    "attrId": 5,
+    "value": 614771.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 22,
+    "attrId": 7,
+    "value": 32291.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 22,
+    "attrId": 8,
+    "value": 32291.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 22,
+    "attrId": 9,
+    "value": 24219.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 22,
+    "attrId": 10,
+    "value": 22356.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 22,
+    "attrId": 12,
+    "value": 7452.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 23,
+    "attrId": 5,
+    "value": 636178.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 23,
+    "attrId": 7,
+    "value": 33416.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 23,
+    "attrId": 8,
+    "value": 33416.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 23,
+    "attrId": 9,
+    "value": 25062.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 23,
+    "attrId": 10,
+    "value": 23134.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 23,
+    "attrId": 12,
+    "value": 7712.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 24,
+    "attrId": 5,
+    "value": 693801.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 24,
+    "attrId": 7,
+    "value": 36443.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 24,
+    "attrId": 8,
+    "value": 36443.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 24,
+    "attrId": 9,
+    "value": 27332.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 24,
+    "attrId": 10,
+    "value": 25230.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 24,
+    "attrId": 12,
+    "value": 8410.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 25,
+    "attrId": 5,
+    "value": 805598.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 25,
+    "attrId": 7,
+    "value": 42315.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 25,
+    "attrId": 8,
+    "value": 42315.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 25,
+    "attrId": 9,
+    "value": 31736.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 25,
+    "attrId": 10,
+    "value": 29295.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 25,
+    "attrId": 12,
+    "value": 9765.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 26,
+    "attrId": 5,
+    "value": 989527.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 26,
+    "attrId": 7,
+    "value": 51976.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 26,
+    "attrId": 8,
+    "value": 51976.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 26,
+    "attrId": 9,
+    "value": 38982.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 26,
+    "attrId": 10,
+    "value": 35983.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 26,
+    "attrId": 12,
+    "value": 11995.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 27,
+    "attrId": 5,
+    "value": 1095022.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 27,
+    "attrId": 7,
+    "value": 57517.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 27,
+    "attrId": 8,
+    "value": 57517.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 27,
+    "attrId": 9,
+    "value": 43138.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 27,
+    "attrId": 10,
+    "value": 39819.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 27,
+    "attrId": 12,
+    "value": 13274.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 28,
+    "attrId": 5,
+    "value": 1139484.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 28,
+    "attrId": 7,
+    "value": 59852.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 28,
+    "attrId": 8,
+    "value": 59852.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 28,
+    "attrId": 9,
+    "value": 44889.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 28,
+    "attrId": 10,
+    "value": 41436.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 28,
+    "attrId": 12,
+    "value": 13812.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 29,
+    "attrId": 5,
+    "value": 1259163.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 29,
+    "attrId": 7,
+    "value": 66138.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 29,
+    "attrId": 8,
+    "value": 66138.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 29,
+    "attrId": 9,
+    "value": 49604.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 29,
+    "attrId": 10,
+    "value": 45788.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 29,
+    "attrId": 12,
+    "value": 15263.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 30,
+    "attrId": 5,
+    "value": 1491357.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 30,
+    "attrId": 7,
+    "value": 78334.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 30,
+    "attrId": 8,
+    "value": 78334.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 30,
+    "attrId": 9,
+    "value": 58751.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 30,
+    "attrId": 10,
+    "value": 54232.0
+  },
+  {
+    "heroId": 1,
+    "achieveId": 30,
+    "attrId": 12,
+    "value": 18078.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 1,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 1,
+    "attrId": 7,
+    "value": 2.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 1,
+    "attrId": 8,
+    "value": 2.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 1,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 1,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 1,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 2,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 2,
+    "attrId": 7,
+    "value": 209.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 2,
+    "attrId": 8,
+    "value": 209.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 2,
+    "attrId": 9,
+    "value": 157.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 2,
+    "attrId": 10,
+    "value": 145.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 2,
+    "attrId": 12,
+    "value": 49.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 3,
+    "attrId": 5,
+    "value": 5260.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 3,
+    "attrId": 7,
+    "value": 277.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 3,
+    "attrId": 8,
+    "value": 277.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 3,
+    "attrId": 9,
+    "value": 208.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 3,
+    "attrId": 10,
+    "value": 192.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 3,
+    "attrId": 12,
+    "value": 64.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 4,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 4,
+    "attrId": 7,
+    "value": 634.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 4,
+    "attrId": 8,
+    "value": 634.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 4,
+    "attrId": 9,
+    "value": 475.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 4,
+    "attrId": 10,
+    "value": 439.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 4,
+    "attrId": 12,
+    "value": 147.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 5,
+    "attrId": 5,
+    "value": 14207.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 5,
+    "attrId": 7,
+    "value": 747.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 5,
+    "attrId": 8,
+    "value": 747.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 5,
+    "attrId": 9,
+    "value": 560.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 5,
+    "attrId": 10,
+    "value": 517.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 5,
+    "attrId": 12,
+    "value": 173.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 6,
+    "attrId": 5,
+    "value": 17744.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 6,
+    "attrId": 7,
+    "value": 932.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 6,
+    "attrId": 8,
+    "value": 932.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 6,
+    "attrId": 9,
+    "value": 699.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 6,
+    "attrId": 10,
+    "value": 646.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 6,
+    "attrId": 12,
+    "value": 216.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 7,
+    "attrId": 5,
+    "value": 32183.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 7,
+    "attrId": 7,
+    "value": 1691.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 7,
+    "attrId": 8,
+    "value": 1691.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 7,
+    "attrId": 9,
+    "value": 1268.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 7,
+    "attrId": 10,
+    "value": 1171.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 7,
+    "attrId": 12,
+    "value": 391.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 8,
+    "attrId": 5,
+    "value": 37343.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 8,
+    "attrId": 7,
+    "value": 1962.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 8,
+    "attrId": 8,
+    "value": 1962.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 8,
+    "attrId": 9,
+    "value": 1472.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 8,
+    "attrId": 10,
+    "value": 1358.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 8,
+    "attrId": 12,
+    "value": 453.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 9,
+    "attrId": 5,
+    "value": 45832.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 9,
+    "attrId": 7,
+    "value": 2408.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 9,
+    "attrId": 8,
+    "value": 2408.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 9,
+    "attrId": 9,
+    "value": 1806.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 9,
+    "attrId": 10,
+    "value": 1667.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 9,
+    "attrId": 12,
+    "value": 556.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 10,
+    "attrId": 5,
+    "value": 74070.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 10,
+    "attrId": 7,
+    "value": 3891.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 10,
+    "attrId": 8,
+    "value": 3891.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 10,
+    "attrId": 9,
+    "value": 2918.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 10,
+    "attrId": 10,
+    "value": 2694.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 10,
+    "attrId": 12,
+    "value": 898.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 11,
+    "attrId": 5,
+    "value": 83268.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 11,
+    "attrId": 7,
+    "value": 4374.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 11,
+    "attrId": 8,
+    "value": 4374.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 11,
+    "attrId": 9,
+    "value": 3281.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 11,
+    "attrId": 10,
+    "value": 3028.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 11,
+    "attrId": 12,
+    "value": 1010.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 12,
+    "attrId": 5,
+    "value": 99510.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 12,
+    "attrId": 7,
+    "value": 5227.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 12,
+    "attrId": 8,
+    "value": 5227.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 12,
+    "attrId": 9,
+    "value": 3921.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 12,
+    "attrId": 10,
+    "value": 3619.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 12,
+    "attrId": 12,
+    "value": 1207.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 13,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 13,
+    "attrId": 7,
+    "value": 8295.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 13,
+    "attrId": 8,
+    "value": 8295.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 13,
+    "attrId": 9,
+    "value": 6221.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 13,
+    "attrId": 10,
+    "value": 5743.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 13,
+    "attrId": 12,
+    "value": 1915.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 14,
+    "attrId": 5,
+    "value": 167372.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 14,
+    "attrId": 7,
+    "value": 8792.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 14,
+    "attrId": 8,
+    "value": 8792.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 14,
+    "attrId": 9,
+    "value": 6594.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 14,
+    "attrId": 10,
+    "value": 6087.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 14,
+    "attrId": 12,
+    "value": 2029.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 15,
+    "attrId": 5,
+    "value": 188305.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 15,
+    "attrId": 7,
+    "value": 9891.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 15,
+    "attrId": 8,
+    "value": 9891.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 15,
+    "attrId": 9,
+    "value": 7419.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 15,
+    "attrId": 10,
+    "value": 6848.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 15,
+    "attrId": 12,
+    "value": 2283.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 16,
+    "attrId": 5,
+    "value": 225270.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 16,
+    "attrId": 7,
+    "value": 11833.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 16,
+    "attrId": 8,
+    "value": 11833.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 16,
+    "attrId": 9,
+    "value": 8875.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 16,
+    "attrId": 10,
+    "value": 8192.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 16,
+    "attrId": 12,
+    "value": 2731.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 17,
+    "attrId": 5,
+    "value": 328071.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 17,
+    "attrId": 7,
+    "value": 17232.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 17,
+    "attrId": 8,
+    "value": 17232.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 17,
+    "attrId": 9,
+    "value": 12924.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 17,
+    "attrId": 10,
+    "value": 11930.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 17,
+    "attrId": 12,
+    "value": 3977.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 18,
+    "attrId": 5,
+    "value": 338445.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 18,
+    "attrId": 7,
+    "value": 17777.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 18,
+    "attrId": 8,
+    "value": 17777.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 18,
+    "attrId": 9,
+    "value": 13333.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 18,
+    "attrId": 10,
+    "value": 12308.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 18,
+    "attrId": 12,
+    "value": 4103.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 19,
+    "attrId": 5,
+    "value": 366371.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 19,
+    "attrId": 7,
+    "value": 19244.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 19,
+    "attrId": 8,
+    "value": 19244.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 19,
+    "attrId": 9,
+    "value": 14433.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 19,
+    "attrId": 10,
+    "value": 13323.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 19,
+    "attrId": 12,
+    "value": 4441.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 20,
+    "attrId": 5,
+    "value": 420549.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 20,
+    "attrId": 7,
+    "value": 22090.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 20,
+    "attrId": 8,
+    "value": 22090.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 20,
+    "attrId": 9,
+    "value": 16568.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 20,
+    "attrId": 10,
+    "value": 15293.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 20,
+    "attrId": 12,
+    "value": 5098.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 21,
+    "attrId": 5,
+    "value": 509684.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 21,
+    "attrId": 7,
+    "value": 26772.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 21,
+    "attrId": 8,
+    "value": 26772.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 21,
+    "attrId": 9,
+    "value": 20079.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 21,
+    "attrId": 10,
+    "value": 18534.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 21,
+    "attrId": 12,
+    "value": 6178.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 22,
+    "attrId": 5,
+    "value": 614771.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 22,
+    "attrId": 7,
+    "value": 32291.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 22,
+    "attrId": 8,
+    "value": 32291.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 22,
+    "attrId": 9,
+    "value": 24219.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 22,
+    "attrId": 10,
+    "value": 22356.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 22,
+    "attrId": 12,
+    "value": 7452.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 23,
+    "attrId": 5,
+    "value": 636178.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 23,
+    "attrId": 7,
+    "value": 33416.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 23,
+    "attrId": 8,
+    "value": 33416.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 23,
+    "attrId": 9,
+    "value": 25062.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 23,
+    "attrId": 10,
+    "value": 23134.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 23,
+    "attrId": 12,
+    "value": 7712.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 24,
+    "attrId": 5,
+    "value": 693801.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 24,
+    "attrId": 7,
+    "value": 36443.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 24,
+    "attrId": 8,
+    "value": 36443.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 24,
+    "attrId": 9,
+    "value": 27332.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 24,
+    "attrId": 10,
+    "value": 25230.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 24,
+    "attrId": 12,
+    "value": 8410.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 25,
+    "attrId": 5,
+    "value": 805598.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 25,
+    "attrId": 7,
+    "value": 42315.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 25,
+    "attrId": 8,
+    "value": 42315.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 25,
+    "attrId": 9,
+    "value": 31736.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 25,
+    "attrId": 10,
+    "value": 29295.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 25,
+    "attrId": 12,
+    "value": 9765.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 26,
+    "attrId": 5,
+    "value": 989527.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 26,
+    "attrId": 7,
+    "value": 51976.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 26,
+    "attrId": 8,
+    "value": 51976.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 26,
+    "attrId": 9,
+    "value": 38982.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 26,
+    "attrId": 10,
+    "value": 35983.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 26,
+    "attrId": 12,
+    "value": 11995.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 27,
+    "attrId": 5,
+    "value": 1095022.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 27,
+    "attrId": 7,
+    "value": 57517.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 27,
+    "attrId": 8,
+    "value": 57517.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 27,
+    "attrId": 9,
+    "value": 43138.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 27,
+    "attrId": 10,
+    "value": 39819.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 27,
+    "attrId": 12,
+    "value": 13274.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 28,
+    "attrId": 5,
+    "value": 1139484.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 28,
+    "attrId": 7,
+    "value": 59852.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 28,
+    "attrId": 8,
+    "value": 59852.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 28,
+    "attrId": 9,
+    "value": 44889.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 28,
+    "attrId": 10,
+    "value": 41436.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 28,
+    "attrId": 12,
+    "value": 13812.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 29,
+    "attrId": 5,
+    "value": 1259163.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 29,
+    "attrId": 7,
+    "value": 66138.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 29,
+    "attrId": 8,
+    "value": 66138.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 29,
+    "attrId": 9,
+    "value": 49604.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 29,
+    "attrId": 10,
+    "value": 45788.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 29,
+    "attrId": 12,
+    "value": 15263.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 30,
+    "attrId": 5,
+    "value": 1491357.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 30,
+    "attrId": 7,
+    "value": 78334.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 30,
+    "attrId": 8,
+    "value": 78334.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 30,
+    "attrId": 9,
+    "value": 58751.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 30,
+    "attrId": 10,
+    "value": 54232.0
+  },
+  {
+    "heroId": 2,
+    "achieveId": 30,
+    "attrId": 12,
+    "value": 18078.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 1,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 1,
+    "attrId": 7,
+    "value": 2.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 1,
+    "attrId": 8,
+    "value": 2.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 1,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 1,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 1,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 2,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 2,
+    "attrId": 7,
+    "value": 209.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 2,
+    "attrId": 8,
+    "value": 209.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 2,
+    "attrId": 9,
+    "value": 145.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 2,
+    "attrId": 10,
+    "value": 157.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 2,
+    "attrId": 12,
+    "value": 49.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 3,
+    "attrId": 5,
+    "value": 5260.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 3,
+    "attrId": 7,
+    "value": 277.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 3,
+    "attrId": 8,
+    "value": 277.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 3,
+    "attrId": 9,
+    "value": 192.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 3,
+    "attrId": 10,
+    "value": 208.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 3,
+    "attrId": 12,
+    "value": 64.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 4,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 4,
+    "attrId": 7,
+    "value": 634.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 4,
+    "attrId": 8,
+    "value": 634.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 4,
+    "attrId": 9,
+    "value": 439.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 4,
+    "attrId": 10,
+    "value": 475.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 4,
+    "attrId": 12,
+    "value": 147.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 5,
+    "attrId": 5,
+    "value": 14207.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 5,
+    "attrId": 7,
+    "value": 747.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 5,
+    "attrId": 8,
+    "value": 747.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 5,
+    "attrId": 9,
+    "value": 517.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 5,
+    "attrId": 10,
+    "value": 560.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 5,
+    "attrId": 12,
+    "value": 173.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 6,
+    "attrId": 5,
+    "value": 17744.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 6,
+    "attrId": 7,
+    "value": 932.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 6,
+    "attrId": 8,
+    "value": 932.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 6,
+    "attrId": 9,
+    "value": 646.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 6,
+    "attrId": 10,
+    "value": 699.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 6,
+    "attrId": 12,
+    "value": 216.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 7,
+    "attrId": 5,
+    "value": 32183.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 7,
+    "attrId": 7,
+    "value": 1691.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 7,
+    "attrId": 8,
+    "value": 1691.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 7,
+    "attrId": 9,
+    "value": 1171.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 7,
+    "attrId": 10,
+    "value": 1268.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 7,
+    "attrId": 12,
+    "value": 391.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 8,
+    "attrId": 5,
+    "value": 37343.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 8,
+    "attrId": 7,
+    "value": 1962.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 8,
+    "attrId": 8,
+    "value": 1962.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 8,
+    "attrId": 9,
+    "value": 1358.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 8,
+    "attrId": 10,
+    "value": 1472.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 8,
+    "attrId": 12,
+    "value": 453.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 9,
+    "attrId": 5,
+    "value": 45832.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 9,
+    "attrId": 7,
+    "value": 2408.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 9,
+    "attrId": 8,
+    "value": 2408.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 9,
+    "attrId": 9,
+    "value": 1667.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 9,
+    "attrId": 10,
+    "value": 1806.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 9,
+    "attrId": 12,
+    "value": 556.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 10,
+    "attrId": 5,
+    "value": 74070.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 10,
+    "attrId": 7,
+    "value": 3891.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 10,
+    "attrId": 8,
+    "value": 3891.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 10,
+    "attrId": 9,
+    "value": 2694.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 10,
+    "attrId": 10,
+    "value": 2918.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 10,
+    "attrId": 12,
+    "value": 898.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 11,
+    "attrId": 5,
+    "value": 83268.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 11,
+    "attrId": 7,
+    "value": 4374.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 11,
+    "attrId": 8,
+    "value": 4374.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 11,
+    "attrId": 9,
+    "value": 3028.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 11,
+    "attrId": 10,
+    "value": 3281.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 11,
+    "attrId": 12,
+    "value": 1010.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 12,
+    "attrId": 5,
+    "value": 99510.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 12,
+    "attrId": 7,
+    "value": 5227.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 12,
+    "attrId": 8,
+    "value": 5227.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 12,
+    "attrId": 9,
+    "value": 3619.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 12,
+    "attrId": 10,
+    "value": 3921.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 12,
+    "attrId": 12,
+    "value": 1207.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 13,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 13,
+    "attrId": 7,
+    "value": 8295.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 13,
+    "attrId": 8,
+    "value": 8295.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 13,
+    "attrId": 9,
+    "value": 5743.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 13,
+    "attrId": 10,
+    "value": 6221.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 13,
+    "attrId": 12,
+    "value": 1915.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 14,
+    "attrId": 5,
+    "value": 167372.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 14,
+    "attrId": 7,
+    "value": 8792.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 14,
+    "attrId": 8,
+    "value": 8792.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 14,
+    "attrId": 9,
+    "value": 6087.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 14,
+    "attrId": 10,
+    "value": 6594.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 14,
+    "attrId": 12,
+    "value": 2029.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 15,
+    "attrId": 5,
+    "value": 188305.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 15,
+    "attrId": 7,
+    "value": 9891.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 15,
+    "attrId": 8,
+    "value": 9891.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 15,
+    "attrId": 9,
+    "value": 6848.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 15,
+    "attrId": 10,
+    "value": 7419.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 15,
+    "attrId": 12,
+    "value": 2283.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 16,
+    "attrId": 5,
+    "value": 225270.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 16,
+    "attrId": 7,
+    "value": 11833.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 16,
+    "attrId": 8,
+    "value": 11833.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 16,
+    "attrId": 9,
+    "value": 8192.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 16,
+    "attrId": 10,
+    "value": 8875.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 16,
+    "attrId": 12,
+    "value": 2731.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 17,
+    "attrId": 5,
+    "value": 328071.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 17,
+    "attrId": 7,
+    "value": 17232.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 17,
+    "attrId": 8,
+    "value": 17232.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 17,
+    "attrId": 9,
+    "value": 11930.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 17,
+    "attrId": 10,
+    "value": 12924.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 17,
+    "attrId": 12,
+    "value": 3977.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 18,
+    "attrId": 5,
+    "value": 338445.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 18,
+    "attrId": 7,
+    "value": 17777.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 18,
+    "attrId": 8,
+    "value": 17777.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 18,
+    "attrId": 9,
+    "value": 12308.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 18,
+    "attrId": 10,
+    "value": 13333.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 18,
+    "attrId": 12,
+    "value": 4103.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 19,
+    "attrId": 5,
+    "value": 366371.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 19,
+    "attrId": 7,
+    "value": 19244.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 19,
+    "attrId": 8,
+    "value": 19244.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 19,
+    "attrId": 9,
+    "value": 13323.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 19,
+    "attrId": 10,
+    "value": 14433.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 19,
+    "attrId": 12,
+    "value": 4441.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 20,
+    "attrId": 5,
+    "value": 420549.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 20,
+    "attrId": 7,
+    "value": 22090.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 20,
+    "attrId": 8,
+    "value": 22090.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 20,
+    "attrId": 9,
+    "value": 15293.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 20,
+    "attrId": 10,
+    "value": 16568.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 20,
+    "attrId": 12,
+    "value": 5098.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 21,
+    "attrId": 5,
+    "value": 509684.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 21,
+    "attrId": 7,
+    "value": 26772.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 21,
+    "attrId": 8,
+    "value": 26772.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 21,
+    "attrId": 9,
+    "value": 18534.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 21,
+    "attrId": 10,
+    "value": 20079.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 21,
+    "attrId": 12,
+    "value": 6178.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 22,
+    "attrId": 5,
+    "value": 614771.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 22,
+    "attrId": 7,
+    "value": 32291.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 22,
+    "attrId": 8,
+    "value": 32291.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 22,
+    "attrId": 9,
+    "value": 22356.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 22,
+    "attrId": 10,
+    "value": 24219.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 22,
+    "attrId": 12,
+    "value": 7452.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 23,
+    "attrId": 5,
+    "value": 636178.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 23,
+    "attrId": 7,
+    "value": 33416.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 23,
+    "attrId": 8,
+    "value": 33416.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 23,
+    "attrId": 9,
+    "value": 23134.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 23,
+    "attrId": 10,
+    "value": 25062.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 23,
+    "attrId": 12,
+    "value": 7712.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 24,
+    "attrId": 5,
+    "value": 693801.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 24,
+    "attrId": 7,
+    "value": 36443.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 24,
+    "attrId": 8,
+    "value": 36443.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 24,
+    "attrId": 9,
+    "value": 25230.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 24,
+    "attrId": 10,
+    "value": 27332.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 24,
+    "attrId": 12,
+    "value": 8410.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 25,
+    "attrId": 5,
+    "value": 805598.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 25,
+    "attrId": 7,
+    "value": 42315.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 25,
+    "attrId": 8,
+    "value": 42315.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 25,
+    "attrId": 9,
+    "value": 29295.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 25,
+    "attrId": 10,
+    "value": 31736.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 25,
+    "attrId": 12,
+    "value": 9765.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 26,
+    "attrId": 5,
+    "value": 989527.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 26,
+    "attrId": 7,
+    "value": 51976.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 26,
+    "attrId": 8,
+    "value": 51976.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 26,
+    "attrId": 9,
+    "value": 35983.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 26,
+    "attrId": 10,
+    "value": 38982.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 26,
+    "attrId": 12,
+    "value": 11995.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 27,
+    "attrId": 5,
+    "value": 1095022.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 27,
+    "attrId": 7,
+    "value": 57517.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 27,
+    "attrId": 8,
+    "value": 57517.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 27,
+    "attrId": 9,
+    "value": 39819.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 27,
+    "attrId": 10,
+    "value": 43138.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 27,
+    "attrId": 12,
+    "value": 13274.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 28,
+    "attrId": 5,
+    "value": 1139484.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 28,
+    "attrId": 7,
+    "value": 59852.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 28,
+    "attrId": 8,
+    "value": 59852.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 28,
+    "attrId": 9,
+    "value": 41436.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 28,
+    "attrId": 10,
+    "value": 44889.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 28,
+    "attrId": 12,
+    "value": 13812.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 29,
+    "attrId": 5,
+    "value": 1259163.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 29,
+    "attrId": 7,
+    "value": 66138.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 29,
+    "attrId": 8,
+    "value": 66138.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 29,
+    "attrId": 9,
+    "value": 45788.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 29,
+    "attrId": 10,
+    "value": 49604.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 29,
+    "attrId": 12,
+    "value": 15263.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 30,
+    "attrId": 5,
+    "value": 1491357.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 30,
+    "attrId": 7,
+    "value": 78334.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 30,
+    "attrId": 8,
+    "value": 78334.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 30,
+    "attrId": 9,
+    "value": 54232.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 30,
+    "attrId": 10,
+    "value": 58751.0
+  },
+  {
+    "heroId": 3,
+    "achieveId": 30,
+    "attrId": 12,
+    "value": 18078.0
+  }
+]

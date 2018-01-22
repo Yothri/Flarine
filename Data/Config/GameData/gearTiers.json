@@ -1,0 +1,42 @@
+[
+  {
+    "tier": 1,
+    "maxElementalLevel": 5,
+    "attrEnchantEnabled": false
+  },
+  {
+    "tier": 2,
+    "maxElementalLevel": 8,
+    "attrEnchantEnabled": true
+  },
+  {
+    "tier": 3,
+    "maxElementalLevel": 11,
+    "attrEnchantEnabled": true
+  },
+  {
+    "tier": 4,
+    "maxElementalLevel": 14,
+    "attrEnchantEnabled": true
+  },
+  {
+    "tier": 5,
+    "maxElementalLevel": 17,
+    "attrEnchantEnabled": true
+  },
+  {
+    "tier": 6,
+    "maxElementalLevel": 20,
+    "attrEnchantEnabled": true
+  },
+  {
+    "tier": 7,
+    "maxElementalLevel": 20,
+    "attrEnchantEnabled": true
+  },
+  {
+    "tier": 8,
+    "maxElementalLevel": 20,
+    "attrEnchantEnabled": true
+  }
+]

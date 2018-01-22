@@ -1,0 +1,42 @@
+[
+  {
+    "eventId": 1,
+    "sortNo": 1,
+    "eventNameKey": "A35_BTN_003"
+  },
+  {
+    "eventId": 2,
+    "sortNo": 2,
+    "eventNameKey": "A35_BTN_029"
+  },
+  {
+    "eventId": 8,
+    "sortNo": 3,
+    "eventNameKey": "A35_BTN_030"
+  },
+  {
+    "eventId": 3,
+    "sortNo": 4,
+    "eventNameKey": "A35_BTN_013"
+  },
+  {
+    "eventId": 4,
+    "sortNo": 5,
+    "eventNameKey": "A35_BTN_005"
+  },
+  {
+    "eventId": 5,
+    "sortNo": 6,
+    "eventNameKey": "A35_BTN_027"
+  },
+  {
+    "eventId": 6,
+    "sortNo": 7,
+    "eventNameKey": "A35_BTN_028"
+  },
+  {
+    "eventId": 7,
+    "sortNo": 8,
+    "eventNameKey": "A35_BTN_005"
+  }
+]

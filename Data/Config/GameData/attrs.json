@@ -1,0 +1,182 @@
+[
+  {
+    "attrId": 1,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0001",
+    "weightingFactor": 20000
+  },
+  {
+    "attrId": 2,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0002",
+    "weightingFactor": 20000
+  },
+  {
+    "attrId": 3,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0003",
+    "weightingFactor": 20000
+  },
+  {
+    "attrId": 4,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0004",
+    "weightingFactor": 20000
+  },
+  {
+    "attrId": 5,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0005",
+    "weightingFactor": 2500
+  },
+  {
+    "attrId": 6,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0006",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 7,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0007",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 8,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0008",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 9,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0009",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 10,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0010",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 11,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0011",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 12,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0012",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 13,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0013",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 14,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0014",
+    "weightingFactor": 5000
+  },
+  {
+    "attrId": 15,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0015",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 16,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0016",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 17,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0017",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 18,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0018",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 19,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0019",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 20,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0020",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 21,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0021",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 22,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0022",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 23,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0023",
+    "weightingFactor": 20000
+  },
+  {
+    "attrId": 24,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0024",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 25,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0025",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 26,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0026",
+    "weightingFactor": 10000
+  },
+  {
+    "attrId": 27,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0027",
+    "weightingFactor": 20000
+  },
+  {
+    "attrId": 28,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0028",
+    "weightingFactor": 80000
+  },
+  {
+    "attrId": 29,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0029",
+    "weightingFactor": 0
+  },
+  {
+    "attrId": 30,
+    "name": "",
+    "nameKey": "ATTRIBUTE_NAME_0030",
+    "weightingFactor": 0
+  }
+]

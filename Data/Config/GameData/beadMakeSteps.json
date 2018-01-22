@@ -1,0 +1,22 @@
+[
+  {
+    "stepId": 1,
+    "make1xBeadPowder": 20,
+    "make10xBeadPowder": 200
+  },
+  {
+    "stepId": 2,
+    "make1xBeadPowder": 30,
+    "make10xBeadPowder": 300
+  },
+  {
+    "stepId": 3,
+    "make1xBeadPowder": 40,
+    "make10xBeadPowder": 400
+  },
+  {
+    "stepId": 4,
+    "make1xBeadPowder": 60,
+    "make10xBeadPowder": 600
+  }
+]

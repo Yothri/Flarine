@@ -1,0 +1,212 @@
+[
+  {
+    "continentId": 1,
+    "round": 1,
+    "requiredGold": 2000000,
+    "exp": 180000
+  },
+  {
+    "continentId": 1,
+    "round": 2,
+    "requiredGold": 3000000,
+    "exp": 210000
+  },
+  {
+    "continentId": 1,
+    "round": 3,
+    "requiredGold": 4000000,
+    "exp": 240000
+  },
+  {
+    "continentId": 1,
+    "round": 4,
+    "requiredGold": 5000000,
+    "exp": 270000
+  },
+  {
+    "continentId": 1,
+    "round": 5,
+    "requiredGold": 6000000,
+    "exp": 300000
+  },
+  {
+    "continentId": 2,
+    "round": 1,
+    "requiredGold": 4000000,
+    "exp": 180000
+  },
+  {
+    "continentId": 2,
+    "round": 2,
+    "requiredGold": 5000000,
+    "exp": 210000
+  },
+  {
+    "continentId": 2,
+    "round": 3,
+    "requiredGold": 6000000,
+    "exp": 240000
+  },
+  {
+    "continentId": 2,
+    "round": 4,
+    "requiredGold": 7000000,
+    "exp": 270000
+  },
+  {
+    "continentId": 2,
+    "round": 5,
+    "requiredGold": 8000000,
+    "exp": 300000
+  },
+  {
+    "continentId": 3,
+    "round": 1,
+    "requiredGold": 6000000,
+    "exp": 180000
+  },
+  {
+    "continentId": 3,
+    "round": 2,
+    "requiredGold": 7000000,
+    "exp": 210000
+  },
+  {
+    "continentId": 3,
+    "round": 3,
+    "requiredGold": 8000000,
+    "exp": 240000
+  },
+  {
+    "continentId": 3,
+    "round": 4,
+    "requiredGold": 9000000,
+    "exp": 270000
+  },
+  {
+    "continentId": 3,
+    "round": 5,
+    "requiredGold": 10000000,
+    "exp": 300000
+  },
+  {
+    "continentId": 4,
+    "round": 1,
+    "requiredGold": 8000000,
+    "exp": 180000
+  },
+  {
+    "continentId": 4,
+    "round": 2,
+    "requiredGold": 9000000,
+    "exp": 210000
+  },
+  {
+    "continentId": 4,
+    "round": 3,
+    "requiredGold": 10000000,
+    "exp": 240000
+  },
+  {
+    "continentId": 4,
+    "round": 4,
+    "requiredGold": 11000000,
+    "exp": 270000
+  },
+  {
+    "continentId": 4,
+    "round": 5,
+    "requiredGold": 12000000,
+    "exp": 300000
+  },
+  {
+    "continentId": 5,
+    "round": 1,
+    "requiredGold": 10000000,
+    "exp": 180000
+  },
+  {
+    "continentId": 5,
+    "round": 2,
+    "requiredGold": 11000000,
+    "exp": 210000
+  },
+  {
+    "continentId": 5,
+    "round": 3,
+    "requiredGold": 12000000,
+    "exp": 240000
+  },
+  {
+    "continentId": 5,
+    "round": 4,
+    "requiredGold": 13000000,
+    "exp": 270000
+  },
+  {
+    "continentId": 5,
+    "round": 5,
+    "requiredGold": 14000000,
+    "exp": 300000
+  },
+  {
+    "continentId": 6,
+    "round": 1,
+    "requiredGold": 12000000,
+    "exp": 180000
+  },
+  {
+    "continentId": 6,
+    "round": 2,
+    "requiredGold": 13000000,
+    "exp": 210000
+  },
+  {
+    "continentId": 6,
+    "round": 3,
+    "requiredGold": 14000000,
+    "exp": 240000
+  },
+  {
+    "continentId": 6,
+    "round": 4,
+    "requiredGold": 15000000,
+    "exp": 270000
+  },
+  {
+    "continentId": 6,
+    "round": 5,
+    "requiredGold": 16000000,
+    "exp": 300000
+  },
+  {
+    "continentId": 7,
+    "round": 1,
+    "requiredGold": 14000000,
+    "exp": 60000
+  },
+  {
+    "continentId": 7,
+    "round": 2,
+    "requiredGold": 15000000,
+    "exp": 70000
+  },
+  {
+    "continentId": 7,
+    "round": 3,
+    "requiredGold": 16000000,
+    "exp": 80000
+  },
+  {
+    "continentId": 7,
+    "round": 4,
+    "requiredGold": 17000000,
+    "exp": 90000
+  },
+  {
+    "continentId": 7,
+    "round": 5,
+    "requiredGold": 18000000,
+    "exp": 100000
+  }
+]

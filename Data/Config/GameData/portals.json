@@ -1,0 +1,142 @@
+[
+  {
+    "portalId": 1,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0001",
+    "continentId": 0,
+    "startXPosition": 7.29,
+    "startYPosition": 5.42,
+    "startZPosition": 63.98,
+    "linkedPortalId": 5
+  },
+  {
+    "portalId": 2,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0002",
+    "continentId": 0,
+    "startXPosition": 51.39,
+    "startYPosition": 4.065,
+    "startZPosition": 7.062,
+    "linkedPortalId": 6
+  },
+  {
+    "portalId": 3,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0003",
+    "continentId": 0,
+    "startXPosition": -8.21,
+    "startYPosition": 4.26,
+    "startZPosition": -52.23,
+    "linkedPortalId": 9
+  },
+  {
+    "portalId": 4,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0004",
+    "continentId": 0,
+    "startXPosition": -39.61,
+    "startYPosition": 6.053,
+    "startZPosition": 1.203,
+    "linkedPortalId": 12
+  },
+  {
+    "portalId": 5,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0005",
+    "continentId": 1,
+    "startXPosition": 233.11,
+    "startYPosition": 51.07,
+    "startZPosition": 126.33,
+    "linkedPortalId": 1
+  },
+  {
+    "portalId": 6,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0006",
+    "continentId": 2,
+    "startXPosition": 155.04,
+    "startYPosition": 50.02,
+    "startZPosition": 196.07,
+    "linkedPortalId": 2
+  },
+  {
+    "portalId": 7,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0007",
+    "continentId": 2,
+    "startXPosition": 311.43,
+    "startYPosition": 51.62,
+    "startZPosition": 35.35,
+    "linkedPortalId": 8
+  },
+  {
+    "portalId": 8,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0008",
+    "continentId": 3,
+    "startXPosition": 147.54,
+    "startYPosition": 78.0,
+    "startZPosition": 257.13,
+    "linkedPortalId": 7
+  },
+  {
+    "portalId": 9,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0009",
+    "continentId": 4,
+    "startXPosition": 413.0,
+    "startYPosition": 55.5,
+    "startZPosition": 186.75,
+    "linkedPortalId": 3
+  },
+  {
+    "portalId": 10,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0010",
+    "continentId": 4,
+    "startXPosition": 36.62,
+    "startYPosition": 60.01,
+    "startZPosition": 29.95,
+    "linkedPortalId": 11
+  },
+  {
+    "portalId": 11,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0011",
+    "continentId": 5,
+    "startXPosition": 298.25,
+    "startYPosition": 55.11,
+    "startZPosition": 430.6,
+    "linkedPortalId": 10
+  },
+  {
+    "portalId": 12,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0012",
+    "continentId": 6,
+    "startXPosition": 139.2,
+    "startYPosition": 84.66,
+    "startZPosition": 50.4,
+    "linkedPortalId": 4
+  },
+  {
+    "portalId": 13,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0013",
+    "continentId": 6,
+    "startXPosition": 317.3,
+    "startYPosition": 92.86421,
+    "startZPosition": 438.3,
+    "linkedPortalId": 14
+  },
+  {
+    "portalId": 14,
+    "name": "",
+    "nameKey": "PORTAL_NAME_0014",
+    "continentId": 7,
+    "startXPosition": -44.96,
+    "startYPosition": -0.2,
+    "startZPosition": -134.85,
+    "linkedPortalId": 13
+  }
+]

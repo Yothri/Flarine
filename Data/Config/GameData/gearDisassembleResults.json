@@ -1,0 +1,242 @@
+[
+  {
+    "grade": 1,
+    "tier": 1,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 1,
+    "tier": 2,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 1,
+    "tier": 3,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 1,
+    "tier": 4,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 1,
+    "tier": 5,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 1,
+    "tier": 6,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 2,
+    "tier": 1,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 2,
+    "tier": 2,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 2,
+    "tier": 3,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 2,
+    "tier": 4,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 2,
+    "tier": 5,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 2,
+    "tier": 6,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 3,
+    "tier": 1,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 3,
+    "tier": 2,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 3,
+    "tier": 3,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 3,
+    "tier": 4,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 3,
+    "tier": 5,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 3,
+    "tier": 6,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 4,
+    "tier": 1,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 4,
+    "tier": 2,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 4,
+    "tier": 3,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 4,
+    "tier": 4,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 4,
+    "tier": 5,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 4,
+    "tier": 6,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 5,
+    "tier": 1,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 5,
+    "tier": 2,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 5,
+    "tier": 3,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 5,
+    "tier": 4,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 5,
+    "tier": 5,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  },
+  {
+    "grade": 5,
+    "tier": 6,
+    "acquireItemId": 0,
+    "acquireRate": 0,
+    "minAmount": 0,
+    "maxAmount": 0
+  }
+]

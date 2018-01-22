@@ -1,0 +1,758 @@
+[
+  {
+    "storyDungeonId": 1,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22012
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22013
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22014
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22012
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22013
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22014
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22022
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22023
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22024
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22022
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22023
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22024
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22032
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22033
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22034
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22032
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22033
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22034
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22042
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22043
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22044
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22042
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22043
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22044
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22053
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22054
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22053
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22054
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22053
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22054
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22053
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22054
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22053
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22054
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 1,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 1,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 2,
+    "rewardNo": 1,
+    "itemId": 22053
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 2,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 2,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 3,
+    "rewardNo": 1,
+    "itemId": 22054
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 3,
+    "rewardNo": 2,
+    "itemId": 10001
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 3,
+    "rewardNo": 3,
+    "itemId": 10002
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 3,
+    "rewardNo": 4,
+    "itemId": 17001
+  }
+]

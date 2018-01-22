@@ -1,0 +1,11 @@
+{
+  "requiredMainQuestId": 140,
+  "availableTime": 1800,
+  "sceneName": "CoralIsland",
+  "startXPosition": -19.9,
+  "startYPosition": 2.84,
+  "startZPosition": -34.7,
+  "additionalAvailableTime": 600,
+  "locationId": 109,
+  "pkEnabled": false
+}

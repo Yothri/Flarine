@@ -1,0 +1,44 @@
+[
+  {
+    "expDungeonId": 1,
+    "tradition": 0,
+    "exp": 0,
+    "recommandPower": 30
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 1,
+    "exp": 82294,
+    "recommandPower": 9922
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 2,
+    "exp": 178624,
+    "recommandPower": 41915
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 3,
+    "exp": 535210,
+    "recommandPower": 136432
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 4,
+    "exp": 1595513,
+    "recommandPower": 361284
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 5,
+    "exp": 4755235,
+    "recommandPower": 874552
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 6,
+    "exp": 14163673,
+    "recommandPower": 2588839
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "runeId": 1,
+    "attrId": 5,
+    "materialItemId": 4001
+  },
+  {
+    "runeId": 2,
+    "attrId": 11,
+    "materialItemId": 4002
+  },
+  {
+    "runeId": 3,
+    "attrId": 23,
+    "materialItemId": 4003
+  },
+  {
+    "runeId": 4,
+    "attrId": 25,
+    "materialItemId": 4004
+  },
+  {
+    "runeId": 5,
+    "attrId": 27,
+    "materialItemId": 4005
+  },
+  {
+    "runeId": 6,
+    "attrId": 12,
+    "materialItemId": 5001
+  },
+  {
+    "runeId": 7,
+    "attrId": 23,
+    "materialItemId": 5002
+  },
+  {
+    "runeId": 8,
+    "attrId": 14,
+    "materialItemId": 5003
+  },
+  {
+    "runeId": 9,
+    "attrId": 26,
+    "materialItemId": 5004
+  },
+  {
+    "runeId": 10,
+    "attrId": 27,
+    "materialItemId": 5005
+  }
+]

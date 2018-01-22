@@ -1,0 +1,56 @@
+[
+  {
+    "faceId": 1,
+    "heroId": 1,
+    "name": "",
+    "nameKey": "S_FACE_NAME_1"
+  },
+  {
+    "faceId": 2,
+    "heroId": 1,
+    "name": "",
+    "nameKey": "S_FACE_NAME_2"
+  },
+  {
+    "faceId": 3,
+    "heroId": 1,
+    "name": "",
+    "nameKey": "S_FACE_NAME_3"
+  },
+  {
+    "faceId": 4,
+    "heroId": 2,
+    "name": "",
+    "nameKey": "S_FACE_NAME_4"
+  },
+  {
+    "faceId": 5,
+    "heroId": 2,
+    "name": "",
+    "nameKey": "S_FACE_NAME_5"
+  },
+  {
+    "faceId": 6,
+    "heroId": 2,
+    "name": "",
+    "nameKey": "S_FACE_NAME_6"
+  },
+  {
+    "faceId": 7,
+    "heroId": 3,
+    "name": "",
+    "nameKey": "S_FACE_NAME_7"
+  },
+  {
+    "faceId": 8,
+    "heroId": 3,
+    "name": "",
+    "nameKey": "S_FACE_NAME_8"
+  },
+  {
+    "faceId": 9,
+    "heroId": 3,
+    "name": "",
+    "nameKey": "S_FACE_NAME_9"
+  }
+]

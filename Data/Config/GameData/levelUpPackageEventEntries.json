@@ -1,0 +1,38 @@
+[
+  {
+    "entryId": 1,
+    "requiredHeroLevel": 1,
+    "moneyType": 1,
+    "amount": 2000
+  },
+  {
+    "entryId": 2,
+    "requiredHeroLevel": 50,
+    "moneyType": 2,
+    "amount": 500
+  },
+  {
+    "entryId": 3,
+    "requiredHeroLevel": 100,
+    "moneyType": 2,
+    "amount": 1000
+  },
+  {
+    "entryId": 4,
+    "requiredHeroLevel": 200,
+    "moneyType": 2,
+    "amount": 1500
+  },
+  {
+    "entryId": 5,
+    "requiredHeroLevel": 250,
+    "moneyType": 2,
+    "amount": 2000
+  },
+  {
+    "entryId": 6,
+    "requiredHeroLevel": 300,
+    "moneyType": 2,
+    "amount": 3000
+  }
+]

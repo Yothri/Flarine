@@ -1,0 +1,247 @@
+[
+  {
+    "continentId": 1,
+    "rewardNo": 1,
+    "itemId": 22012
+  },
+  {
+    "continentId": 1,
+    "rewardNo": 2,
+    "itemId": 22013
+  },
+  {
+    "continentId": 1,
+    "rewardNo": 3,
+    "itemId": 22014
+  },
+  {
+    "continentId": 1,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 1,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 1,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 1,
+    "rewardNo": 7,
+    "itemId": 17002
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 1,
+    "itemId": 22022
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 2,
+    "itemId": 22023
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 3,
+    "itemId": 22024
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 2,
+    "rewardNo": 7,
+    "itemId": 17002
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 1,
+    "itemId": 22032
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 2,
+    "itemId": 22033
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 3,
+    "itemId": 22034
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 3,
+    "rewardNo": 7,
+    "itemId": 17002
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 1,
+    "itemId": 22042
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 2,
+    "itemId": 22043
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 3,
+    "itemId": 22044
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 4,
+    "rewardNo": 7,
+    "itemId": 17002
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 1,
+    "itemId": 22052
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 2,
+    "itemId": 22053
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 3,
+    "itemId": 22054
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 5,
+    "rewardNo": 7,
+    "itemId": 17002
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 1,
+    "itemId": 22062
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 2,
+    "itemId": 22063
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 3,
+    "itemId": 22064
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 6,
+    "rewardNo": 7,
+    "itemId": 17002
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 1,
+    "itemId": 22072
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 2,
+    "itemId": 22073
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 3,
+    "itemId": 22074
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 4,
+    "itemId": 10001
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 5,
+    "itemId": 10002
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 6,
+    "itemId": 17001
+  },
+  {
+    "continentId": 7,
+    "rewardNo": 7,
+    "itemId": 17002
+  }
+]

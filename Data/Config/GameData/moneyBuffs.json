@@ -1,0 +1,18 @@
+[
+  {
+    "buffId": 1,
+    "name": "",
+    "nameKey": "DGBUFF_NAME_001",
+    "duration": 120,
+    "moneyType": 1,
+    "price": 200000
+  },
+  {
+    "buffId": 2,
+    "name": "",
+    "nameKey": "DGBUFF_NAME_002",
+    "duration": 120,
+    "moneyType": 2,
+    "price": 5
+  }
+]

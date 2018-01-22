@@ -1,0 +1,14 @@
+[
+  {
+    "arrangeId": 1,
+    "monsterId": 31004,
+    "requiredMonsterId": 31001,
+    "requiredMonsterCount": 50
+  },
+  {
+    "arrangeId": 2,
+    "monsterId": 31005,
+    "requiredMonsterId": 31002,
+    "requiredMonsterCount": 50
+  }
+]

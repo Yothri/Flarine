@@ -1,0 +1,19 @@
+{
+  "requiredMainQuestId": 109,
+  "freeChallengeCount": 10,
+  "additionalChallengeUnOwnDia": 10,
+  "waitingTimeResetUnOwnDia": 0,
+  "waitingTime": 0,
+  "startDelayTime": 3,
+  "limitTime": 180,
+  "rewardDuration": 10,
+  "rankingRewardInterval": 86400,
+  "sceneName": "FieldOfHonor",
+  "startXPosition": 1.5,
+  "startYPosition": 2.83,
+  "startZPosition": -21.1,
+  "targetXPosition": 1.5,
+  "targetYPosition": 2.85,
+  "targetZPosition": 23.8,
+  "locationId": 106
+}

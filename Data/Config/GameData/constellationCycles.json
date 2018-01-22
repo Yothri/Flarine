@@ -1,0 +1,722 @@
+[
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3
+  }
+]

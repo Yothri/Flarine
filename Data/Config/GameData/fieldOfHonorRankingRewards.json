@@ -1,0 +1,47 @@
+[
+  {
+    "minRank": 1,
+    "maxRank": 1,
+    "exp": 0
+  },
+  {
+    "minRank": 2,
+    "maxRank": 3,
+    "exp": 0
+  },
+  {
+    "minRank": 4,
+    "maxRank": 10,
+    "exp": 0
+  },
+  {
+    "minRank": 11,
+    "maxRank": 50,
+    "exp": 0
+  },
+  {
+    "minRank": 51,
+    "maxRank": 100,
+    "exp": 0
+  },
+  {
+    "minRank": 101,
+    "maxRank": 300,
+    "exp": 0
+  },
+  {
+    "minRank": 301,
+    "maxRank": 500,
+    "exp": 0
+  },
+  {
+    "minRank": 501,
+    "maxRank": 1000,
+    "exp": 0
+  },
+  {
+    "minRank": 1001,
+    "maxRank": 1001,
+    "exp": 0
+  }
+]

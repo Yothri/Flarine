@@ -1,0 +1,422 @@
+[
+  {
+    "vipLevel": 1,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "vipLevel": 1,
+    "attrId": 7,
+    "value": 4.0
+  },
+  {
+    "vipLevel": 1,
+    "attrId": 8,
+    "value": 4.0
+  },
+  {
+    "vipLevel": 1,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "vipLevel": 1,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "vipLevel": 1,
+    "attrId": 11,
+    "value": 1.0
+  },
+  {
+    "vipLevel": 1,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 5,
+    "value": 1100.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 7,
+    "value": 116.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 8,
+    "value": 116.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 9,
+    "value": 58.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 10,
+    "value": 58.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 11,
+    "value": 36.0
+  },
+  {
+    "vipLevel": 2,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 5,
+    "value": 1567.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 7,
+    "value": 165.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 8,
+    "value": 165.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 9,
+    "value": 83.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 10,
+    "value": 83.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 11,
+    "value": 51.0
+  },
+  {
+    "vipLevel": 3,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 7,
+    "value": 418.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 8,
+    "value": 418.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 9,
+    "value": 209.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 10,
+    "value": 209.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 11,
+    "value": 129.0
+  },
+  {
+    "vipLevel": 4,
+    "attrId": 12,
+    "value": 65.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 5,
+    "value": 5260.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 7,
+    "value": 553.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 8,
+    "value": 553.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 9,
+    "value": 277.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 10,
+    "value": 277.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 11,
+    "value": 170.0
+  },
+  {
+    "vipLevel": 5,
+    "attrId": 12,
+    "value": 85.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 7,
+    "value": 1267.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 8,
+    "value": 1267.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 9,
+    "value": 634.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 10,
+    "value": 634.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 11,
+    "value": 390.0
+  },
+  {
+    "vipLevel": 6,
+    "attrId": 12,
+    "value": 195.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 5,
+    "value": 14207.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 7,
+    "value": 1493.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 8,
+    "value": 1493.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 9,
+    "value": 747.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 10,
+    "value": 747.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 11,
+    "value": 460.0
+  },
+  {
+    "vipLevel": 7,
+    "attrId": 12,
+    "value": 230.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 5,
+    "value": 17744.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 7,
+    "value": 1864.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 8,
+    "value": 1864.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 9,
+    "value": 932.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 10,
+    "value": 932.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 11,
+    "value": 574.0
+  },
+  {
+    "vipLevel": 8,
+    "attrId": 12,
+    "value": 287.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 5,
+    "value": 30593.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 7,
+    "value": 3214.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 8,
+    "value": 3214.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "vipLevel": 9,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 5,
+    "value": 71487.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 7,
+    "value": 7510.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 8,
+    "value": 7510.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 9,
+    "value": 3755.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 10,
+    "value": 3755.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 11,
+    "value": 2311.0
+  },
+  {
+    "vipLevel": 10,
+    "attrId": 12,
+    "value": 1156.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 7,
+    "value": 16589.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 8,
+    "value": 16589.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 9,
+    "value": 8295.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 10,
+    "value": 8295.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 11,
+    "value": 5105.0
+  },
+  {
+    "vipLevel": 11,
+    "attrId": 12,
+    "value": 2553.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 5,
+    "value": 328071.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 7,
+    "value": 34464.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 8,
+    "value": 34464.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 9,
+    "value": 17232.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 10,
+    "value": 17232.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 11,
+    "value": 10605.0
+  },
+  {
+    "vipLevel": 12,
+    "attrId": 12,
+    "value": 5303.0
+  }
+]

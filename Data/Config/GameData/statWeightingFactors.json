@@ -1,0 +1,128 @@
+[
+  {
+    "statId": 1,
+    "heroId": 1,
+    "attrId": 7,
+    "value": 1.0
+  },
+  {
+    "statId": 1,
+    "heroId": 1,
+    "attrId": 9,
+    "value": 1.0
+  },
+  {
+    "statId": 1,
+    "heroId": 2,
+    "attrId": 7,
+    "value": 1.0
+  },
+  {
+    "statId": 1,
+    "heroId": 2,
+    "attrId": 9,
+    "value": 1.0
+  },
+  {
+    "statId": 1,
+    "heroId": 3,
+    "attrId": 7,
+    "value": 0.0
+  },
+  {
+    "statId": 1,
+    "heroId": 3,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "statId": 2,
+    "heroId": 1,
+    "attrId": 11,
+    "value": 1.0
+  },
+  {
+    "statId": 2,
+    "heroId": 1,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "statId": 2,
+    "heroId": 2,
+    "attrId": 11,
+    "value": 1.0
+  },
+  {
+    "statId": 2,
+    "heroId": 2,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "statId": 2,
+    "heroId": 3,
+    "attrId": 11,
+    "value": 1.0
+  },
+  {
+    "statId": 2,
+    "heroId": 3,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "statId": 3,
+    "heroId": 1,
+    "attrId": 8,
+    "value": 0.0
+  },
+  {
+    "statId": 3,
+    "heroId": 1,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "statId": 3,
+    "heroId": 2,
+    "attrId": 8,
+    "value": 0.0
+  },
+  {
+    "statId": 3,
+    "heroId": 2,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "statId": 3,
+    "heroId": 3,
+    "attrId": 8,
+    "value": 1.0
+  },
+  {
+    "statId": 3,
+    "heroId": 3,
+    "attrId": 10,
+    "value": 1.0
+  },
+  {
+    "statId": 4,
+    "heroId": 1,
+    "attrId": 5,
+    "value": 8.0
+  },
+  {
+    "statId": 4,
+    "heroId": 2,
+    "attrId": 5,
+    "value": 8.0
+  },
+  {
+    "statId": 4,
+    "heroId": 3,
+    "attrId": 5,
+    "value": 8.0
+  }
+]

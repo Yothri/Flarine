@@ -1,0 +1,122 @@
+[
+  {
+    "locationId": 1,
+    "name": "",
+    "nameKey": "LOCATION_NAME_001",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 2,
+    "name": "",
+    "nameKey": "LOCATION_NAME_002",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 3,
+    "name": "",
+    "nameKey": "LOCATION_NAME_003",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 4,
+    "name": "",
+    "nameKey": "LOCATION_NAME_004",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 5,
+    "name": "",
+    "nameKey": "LOCATION_NAME_005",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 6,
+    "name": "",
+    "nameKey": "LOCATION_NAME_006",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 7,
+    "name": "",
+    "nameKey": "LOCATION_NAME_007",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 8,
+    "name": "",
+    "nameKey": "LOCATION_NAME_019",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 101,
+    "name": "",
+    "nameKey": "LOCATION_NAME_008",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 102,
+    "name": "",
+    "nameKey": "LOCATION_NAME_009",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 103,
+    "name": "",
+    "nameKey": "LOCATION_NAME_010",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 104,
+    "name": "",
+    "nameKey": "LOCATION_NAME_011",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 105,
+    "name": "",
+    "nameKey": "LOCATION_NAME_012",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 106,
+    "name": "",
+    "nameKey": "LOCATION_NAME_013",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 107,
+    "name": "",
+    "nameKey": "LOCATION_NAME_014",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 108,
+    "name": "",
+    "nameKey": "LOCATION_NAME_015",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 109,
+    "name": "",
+    "nameKey": "LOCATION_NAME_016",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 110,
+    "name": "",
+    "nameKey": "LOCATION_NAME_017",
+    "moneyBuffEnabled": true
+  },
+  {
+    "locationId": 111,
+    "name": "",
+    "nameKey": "LOCATION_NAME_018",
+    "moneyBuffEnabled": false
+  },
+  {
+    "locationId": 112,
+    "name": "",
+    "nameKey": "LOCATION_NAME_020",
+    "moneyBuffEnabled": true
+  }
+]

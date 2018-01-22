@@ -1,0 +1,22 @@
+[
+  {
+    "ranking": 1,
+    "cashbackRate": 0.2
+  },
+  {
+    "ranking": 2,
+    "cashbackRate": 0.1
+  },
+  {
+    "ranking": 3,
+    "cashbackRate": 0.08
+  },
+  {
+    "ranking": 4,
+    "cashbackRate": 0.05
+  },
+  {
+    "ranking": 5,
+    "cashbackRate": 0.03
+  }
+]

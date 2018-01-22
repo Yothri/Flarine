@@ -1,0 +1,17 @@
+[
+  {
+    "stepId": 1,
+    "requiredMonsterCount": 30,
+    "obstacleId": 1
+  },
+  {
+    "stepId": 2,
+    "requiredMonsterCount": 0,
+    "obstacleId": 2
+  },
+  {
+    "stepId": 3,
+    "requiredMonsterCount": 0,
+    "obstacleId": 0
+  }
+]

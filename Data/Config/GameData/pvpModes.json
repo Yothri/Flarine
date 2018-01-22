@@ -1,0 +1,37 @@
+[
+  {
+    "pvpModeId": 0,
+    "name": "",
+    "nameKey": "PVP_NAME_001",
+    "description": "",
+    "descriptionKey": "PVP_DESC_001"
+  },
+  {
+    "pvpModeId": 1,
+    "name": "",
+    "nameKey": "PVP_NAME_002",
+    "description": "",
+    "descriptionKey": "PVP_DESC_002"
+  },
+  {
+    "pvpModeId": 2,
+    "name": "",
+    "nameKey": "PVP_NAME_003",
+    "description": "",
+    "descriptionKey": "PVP_DESC_003"
+  },
+  {
+    "pvpModeId": 3,
+    "name": "",
+    "nameKey": "PVP_NAME_004",
+    "description": "",
+    "descriptionKey": "PVP_DESC_004"
+  },
+  {
+    "pvpModeId": 4,
+    "name": "",
+    "nameKey": "PVP_NAME_005",
+    "description": "",
+    "descriptionKey": "PVP_DESC_005"
+  }
+]

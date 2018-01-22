@@ -1,0 +1,14 @@
+[
+  {
+    "entryId": 1,
+    "amount": 1,
+    "dailyLimit": 200,
+    "guildPoint": 10
+  },
+  {
+    "entryId": 2,
+    "amount": 200000,
+    "dailyLimit": 10,
+    "guildPoint": 200
+  }
+]

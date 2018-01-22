@@ -1,0 +1,52 @@
+[
+  {
+    "setId": 1,
+    "attrId": 29,
+    "value": 300.0
+  },
+  {
+    "setId": 1,
+    "attrId": 30,
+    "value": 300.0
+  },
+  {
+    "setId": 2,
+    "attrId": 29,
+    "value": 500.0
+  },
+  {
+    "setId": 2,
+    "attrId": 30,
+    "value": 500.0
+  },
+  {
+    "setId": 3,
+    "attrId": 29,
+    "value": 700.0
+  },
+  {
+    "setId": 3,
+    "attrId": 30,
+    "value": 700.0
+  },
+  {
+    "setId": 4,
+    "attrId": 29,
+    "value": 1000.0
+  },
+  {
+    "setId": 4,
+    "attrId": 30,
+    "value": 1000.0
+  },
+  {
+    "setId": 5,
+    "attrId": 29,
+    "value": 1200.0
+  },
+  {
+    "setId": 5,
+    "attrId": 30,
+    "value": 1200.0
+  }
+]

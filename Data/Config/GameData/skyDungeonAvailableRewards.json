@@ -1,0 +1,107 @@
+[
+  {
+    "dungeonId": 1,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 1,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 1,
+    "rewardNo": 3,
+    "itemId": 48001
+  },
+  {
+    "dungeonId": 2,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 2,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 2,
+    "rewardNo": 3,
+    "itemId": 48002
+  },
+  {
+    "dungeonId": 3,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 3,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 3,
+    "rewardNo": 3,
+    "itemId": 48003
+  },
+  {
+    "dungeonId": 4,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 4,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 4,
+    "rewardNo": 3,
+    "itemId": 48004
+  },
+  {
+    "dungeonId": 5,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 5,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 5,
+    "rewardNo": 3,
+    "itemId": 48005
+  },
+  {
+    "dungeonId": 6,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 6,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 6,
+    "rewardNo": 3,
+    "itemId": 48006
+  },
+  {
+    "dungeonId": 7,
+    "rewardNo": 1,
+    "itemId": 47001
+  },
+  {
+    "dungeonId": 7,
+    "rewardNo": 2,
+    "itemId": 47002
+  },
+  {
+    "dungeonId": 7,
+    "rewardNo": 3,
+    "itemId": 48007
+  }
+]

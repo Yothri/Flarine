@@ -1,0 +1,110 @@
+[
+  {
+    "dungeonId": 1,
+    "obstacleId": 0
+  },
+  {
+    "dungeonId": 1,
+    "obstacleId": 1
+  },
+  {
+    "dungeonId": 1,
+    "obstacleId": 4
+  },
+  {
+    "dungeonId": 1,
+    "obstacleId": 5
+  },
+  {
+    "dungeonId": 1,
+    "obstacleId": 6
+  },
+  {
+    "dungeonId": 2,
+    "obstacleId": 2
+  },
+  {
+    "dungeonId": 2,
+    "obstacleId": 5
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 0
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 1
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 2
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 3
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 4
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 5
+  },
+  {
+    "dungeonId": 3,
+    "obstacleId": 7
+  },
+  {
+    "dungeonId": 4,
+    "obstacleId": 1
+  },
+  {
+    "dungeonId": 5,
+    "obstacleId": 1
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 0
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 1
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 2
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 3
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 4
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 5
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 9
+  },
+  {
+    "dungeonId": 6,
+    "obstacleId": 10
+  },
+  {
+    "dungeonId": 7,
+    "obstacleId": 2
+  },
+  {
+    "dungeonId": 7,
+    "obstacleId": 3
+  },
+  {
+    "dungeonId": 7,
+    "obstacleId": 4
+  }
+]

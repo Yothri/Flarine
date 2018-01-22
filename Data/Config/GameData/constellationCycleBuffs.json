@@ -1,0 +1,7058 @@
+[
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 923.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 38.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 243.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 19.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 122.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 12.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 38.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 923.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 38.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 243.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 19.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 122.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 12.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 38.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 923.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 38.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 243.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 19.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 122.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 12.0
+  },
+  {
+    "constellationId": 1,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 38.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 233.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 72.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 758.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 117.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 233.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 5767.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 5767.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 233.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 72.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 758.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 117.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 233.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 233.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 5767.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 233.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 72.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 758.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 117.0
+  },
+  {
+    "constellationId": 1,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 330.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 26504.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 536.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 26504.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 330.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 536.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 26504.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 536.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 330.0
+  },
+  {
+    "constellationId": 1,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 1212.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 1968.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 97415.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 97415.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 1212.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 1968.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 97415.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 1212.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 1968.0
+  },
+  {
+    "constellationId": 1,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 38.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 122.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 29.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 923.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 94.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 243.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 47.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 923.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 29.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 38.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 94.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 243.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 47.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 122.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 923.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 94.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 243.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 47.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 122.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 29.0
+  },
+  {
+    "constellationId": 2,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 38.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 233.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 180.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 758.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 292.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 583.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 5767.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 5767.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 233.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 180.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 758.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 292.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 583.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 583.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 5767.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 233.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 180.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 758.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 292.0
+  },
+  {
+    "constellationId": 2,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 824.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 26504.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 26504.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 824.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 26504.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 824.0
+  },
+  {
+    "constellationId": 2,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 97415.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 97415.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 97415.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 2,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 32.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 103.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 29.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 781.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 94.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 206.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 47.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 781.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 29.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 32.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 94.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 206.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 47.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 103.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 781.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 94.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 206.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 47.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 103.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 29.0
+  },
+  {
+    "constellationId": 3,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 32.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 198.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 180.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 641.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 292.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 583.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 4880.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 4880.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 198.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 180.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 641.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 292.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 583.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 583.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 4880.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 198.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 180.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 641.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 292.0
+  },
+  {
+    "constellationId": 3,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 907.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 824.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 22427.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 22427.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 824.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 907.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 22427.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 824.0
+  },
+  {
+    "constellationId": 3,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 907.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 3331.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 82428.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 82428.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 3331.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 82428.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 3331.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 3,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 32.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 103.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 35.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 781.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 112.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 206.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 56.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 781.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 35.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 32.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 112.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 206.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 56.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 103.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 781.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 112.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 206.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 56.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 103.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 35.0
+  },
+  {
+    "constellationId": 4,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 32.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 198.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 216.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 641.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 350.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 699.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 4880.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 4880.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 198.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 216.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 641.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 350.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 699.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 699.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 4880.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 198.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 216.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 641.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 350.0
+  },
+  {
+    "constellationId": 4,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 907.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 22427.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 22427.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 907.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 22427.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "constellationId": 4,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 907.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 3331.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 3634.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 82428.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 82428.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 3331.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 3634.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 82428.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 3331.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 3634.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 4,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 29.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 94.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 35.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 710.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 112.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 187.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 56.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 710.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 35.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 29.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 112.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 187.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 56.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 94.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 710.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 112.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 187.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 56.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 94.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 35.0
+  },
+  {
+    "constellationId": 5,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 29.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 180.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 216.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 583.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 350.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1165.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 699.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 4436.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 4436.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 180.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 216.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 583.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 350.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1165.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 699.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 699.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 4436.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 180.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 216.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 583.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 350.0
+  },
+  {
+    "constellationId": 5,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1165.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 824.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 20388.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 5355.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 20388.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 824.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 5355.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 20388.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 5355.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 989.0
+  },
+  {
+    "constellationId": 5,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 824.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 3634.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 19680.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 74935.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 74935.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 3634.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 19680.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 74935.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 3028.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 3634.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 5,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 19680.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 84.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 52.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 639.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 168.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 168.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 84.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 639.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 52.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 168.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 168.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 84.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 84.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 639.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 168.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 168.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 84.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 84.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 52.0
+  },
+  {
+    "constellationId": 6,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 162.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 323.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 525.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 525.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 3993.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 3993.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 162.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 323.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 525.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 525.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 3993.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 162.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 323.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 525.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 525.0
+  },
+  {
+    "constellationId": 6,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 1483.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 18349.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 18349.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 1483.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 18349.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 1483.0
+  },
+  {
+    "constellationId": 6,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 2725.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 5450.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 67442.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 67442.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 2725.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 5450.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 67442.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 2725.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 5450.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 6,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 84.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 52.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 639.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 168.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 168.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 84.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 639.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 52.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 168.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 168.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 84.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 84.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 639.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 168.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 168.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 84.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 84.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 52.0
+  },
+  {
+    "constellationId": 7,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 162.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 323.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 525.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 525.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 3993.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 3993.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 162.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 323.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 525.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 525.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 3993.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 162.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 323.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 525.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 525.0
+  },
+  {
+    "constellationId": 7,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1049.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 1483.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 18349.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 18349.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 1483.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 18349.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 4819.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 2410.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 1483.0
+  },
+  {
+    "constellationId": 7,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 742.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 2725.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 5450.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 67442.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 67442.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 2725.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 5450.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 67442.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 2725.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 5450.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 8856.0
+  },
+  {
+    "constellationId": 7,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 17712.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 56.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 58.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 426.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 187.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 112.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 94.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 426.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 58.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 187.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 112.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 94.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 56.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 426.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 187.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 112.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 94.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 56.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 58.0
+  },
+  {
+    "constellationId": 8,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 108.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 359.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 350.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 583.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 699.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1165.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 2662.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 2662.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 108.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 359.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 350.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 583.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 699.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1165.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1165.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 2662.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 108.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 359.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 350.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 583.0
+  },
+  {
+    "constellationId": 8,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 699.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 1648.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 12233.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 5355.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 12233.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 1648.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 5355.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 12233.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 5355.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 1648.0
+  },
+  {
+    "constellationId": 8,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 1817.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 6056.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 19680.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 44961.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 44961.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 1817.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 6056.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 19680.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 19680.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 44961.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 1817.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 6056.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 8,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 56.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 64.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 426.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 206.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 112.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 103.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 426.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 64.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 206.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 112.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 103.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 56.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 426.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 206.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 112.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 103.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 56.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 64.0
+  },
+  {
+    "constellationId": 9,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 18.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 108.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 395.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 350.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 641.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 699.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 2662.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 2662.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 108.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 395.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 350.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 641.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 699.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 2662.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 108.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 395.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 350.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 641.0
+  },
+  {
+    "constellationId": 9,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 699.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 1813.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 12233.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 12233.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 1813.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 12233.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 3213.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 1607.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 1813.0
+  },
+  {
+    "constellationId": 9,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 495.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 1817.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 6661.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 44961.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 44961.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 1817.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 6661.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 44961.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 1817.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 6661.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 5904.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 9,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 11808.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 15.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 47.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 64.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 355.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 206.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 94.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 103.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 355.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 64.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 15.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 206.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 94.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 103.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 47.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 355.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 206.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 94.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 103.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 47.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 64.0
+  },
+  {
+    "constellationId": 10,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 15.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 90.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 395.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 292.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 641.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 583.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 2218.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 2218.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 90.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 395.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 292.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 641.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 583.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1282.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 2218.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 90.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 395.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 292.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 641.0
+  },
+  {
+    "constellationId": 10,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 583.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 412.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 1813.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 10194.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 10194.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 1813.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 412.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 10194.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 5890.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 2945.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 1813.0
+  },
+  {
+    "constellationId": 10,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 412.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 1514.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 6661.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 37468.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 37468.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 1514.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 6661.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 21648.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 37468.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 1514.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 6661.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 10824.0
+  },
+  {
+    "constellationId": 10,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 15.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 47.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 75.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 355.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 243.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 94.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 122.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 355.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 75.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 15.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 243.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 94.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 122.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 47.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 355.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 243.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 94.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 122.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 47.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 75.0
+  },
+  {
+    "constellationId": 11,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 15.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 90.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 466.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 292.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 758.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 583.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 2218.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 2218.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 90.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 466.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 292.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 758.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 583.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 2218.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 90.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 466.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 292.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 758.0
+  },
+  {
+    "constellationId": 11,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 583.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 412.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 2142.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 10194.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 10194.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 2142.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 412.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 10194.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 2678.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 1339.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 2142.0
+  },
+  {
+    "constellationId": 11,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 412.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 1514.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 7872.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 37468.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 37468.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 1514.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 7872.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 37468.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 1514.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 7872.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 4920.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 11,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 9840.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 6.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 19.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 75.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 142.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 243.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 38.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 122.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 142.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 75.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 6.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 243.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 38.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 122.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 19.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 142.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 243.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 38.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 122.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 19.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 75.0
+  },
+  {
+    "constellationId": 12,
+    "step": 1,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 6.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 36.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 466.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 117.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 758.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 233.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 888.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 888.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 36.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 466.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 117.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 758.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 233.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 1515.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 888.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 36.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 466.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 117.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 758.0
+  },
+  {
+    "constellationId": 12,
+    "step": 2,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 233.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 165.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 536.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 2142.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 4078.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 4078.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 2142.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 165.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 536.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 4078.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 6961.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 1071.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 3481.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 536.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 2142.0
+  },
+  {
+    "constellationId": 12,
+    "step": 3,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 165.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 12,
+    "value": 606.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 11,
+    "value": 7872.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 10,
+    "value": 1968.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 9,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 8,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 7,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 1,
+    "attrId": 5,
+    "value": 14987.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 5,
+    "value": 14987.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 12,
+    "value": 606.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 11,
+    "value": 7872.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 10,
+    "value": 1968.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 9,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 8,
+    "value": 3936.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 2,
+    "attrId": 7,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 7,
+    "value": 25584.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 5,
+    "value": 14987.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 12,
+    "value": 606.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 11,
+    "value": 7872.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 10,
+    "value": 1968.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 9,
+    "value": 12792.0
+  },
+  {
+    "constellationId": 12,
+    "step": 4,
+    "cycle": 3,
+    "attrId": 8,
+    "value": 3936.0
+  }
+]

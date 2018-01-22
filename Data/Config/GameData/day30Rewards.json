@@ -1,0 +1,212 @@
+[
+  {
+    "day": 1,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 44006,
+    "itemCount": 1
+  },
+  {
+    "day": 2,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 25005,
+    "itemCount": 10
+  },
+  {
+    "day": 3,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 20029,
+    "itemCount": 2
+  },
+  {
+    "day": 4,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 33001,
+    "itemCount": 1
+  },
+  {
+    "day": 5,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 30001,
+    "itemCount": 2
+  },
+  {
+    "day": 6,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 43010,
+    "itemCount": 1
+  },
+  {
+    "day": 7,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 27001,
+    "itemCount": 10
+  },
+  {
+    "day": 8,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 25005,
+    "itemCount": 20
+  },
+  {
+    "day": 9,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 20029,
+    "itemCount": 4
+  },
+  {
+    "day": 10,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 33001,
+    "itemCount": 1
+  },
+  {
+    "day": 11,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 30001,
+    "itemCount": 4
+  },
+  {
+    "day": 12,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 43010,
+    "itemCount": 1
+  },
+  {
+    "day": 13,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 10001,
+    "itemCount": 10
+  },
+  {
+    "day": 14,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 25005,
+    "itemCount": 30
+  },
+  {
+    "day": 15,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 20029,
+    "itemCount": 6
+  },
+  {
+    "day": 16,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 33001,
+    "itemCount": 1
+  },
+  {
+    "day": 17,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 30001,
+    "itemCount": 6
+  },
+  {
+    "day": 18,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 43010,
+    "itemCount": 1
+  },
+  {
+    "day": 19,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 27002,
+    "itemCount": 10
+  },
+  {
+    "day": 20,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 25005,
+    "itemCount": 40
+  },
+  {
+    "day": 21,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 20029,
+    "itemCount": 8
+  },
+  {
+    "day": 22,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 33001,
+    "itemCount": 1
+  },
+  {
+    "day": 23,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 30001,
+    "itemCount": 8
+  },
+  {
+    "day": 24,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 43010,
+    "itemCount": 1
+  },
+  {
+    "day": 25,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 10002,
+    "itemCount": 10
+  },
+  {
+    "day": 26,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 25005,
+    "itemCount": 50
+  },
+  {
+    "day": 27,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 20029,
+    "itemCount": 10
+  },
+  {
+    "day": 28,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 33001,
+    "itemCount": 1
+  },
+  {
+    "day": 29,
+    "fixedItemId": 26001,
+    "fixedItemCount": 1,
+    "itemId": 30001,
+    "itemCount": 10
+  },
+  {
+    "day": 30,
+    "fixedItemId": 26001,
+    "fixedItemCount": 2,
+    "itemId": 43012,
+    "itemCount": 1
+  }
+]

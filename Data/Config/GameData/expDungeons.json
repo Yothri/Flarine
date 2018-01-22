@@ -1,0 +1,19 @@
+[
+  {
+    "expDungeonId": 1,
+    "requiredMainQuestId": 124,
+    "enterCount": 3,
+    "waveCount": 5,
+    "startDelayTime": 10,
+    "limitTime": 600,
+    "rewardDuration": 180,
+    "startXPosition": 2.5,
+    "startYPosition": 3.0,
+    "startZPosition": -0.8,
+    "locationId": 102,
+    "rewardPick2UnOwnDia": 20,
+    "rewardPick3UnOwnDia": 50,
+    "rewardPick4UnOwnDia": 100,
+    "rewardPickAllUnOwnDia": 150
+  }
+]

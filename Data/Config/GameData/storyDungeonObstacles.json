@@ -1,0 +1,218 @@
+[
+  {
+    "storyDungeonId": 1,
+    "obstacleId": 0
+  },
+  {
+    "storyDungeonId": 1,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 1,
+    "obstacleId": 4
+  },
+  {
+    "storyDungeonId": 1,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 1,
+    "obstacleId": 6
+  },
+  {
+    "storyDungeonId": 2,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 2,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 2,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 3,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 3,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 0
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 6
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 7
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 9
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 10
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 11
+  },
+  {
+    "storyDungeonId": 4,
+    "obstacleId": 13
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 0
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 3
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 4
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 5,
+    "obstacleId": 7
+  },
+  {
+    "storyDungeonId": 6,
+    "obstacleId": 0
+  },
+  {
+    "storyDungeonId": 6,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 6,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 7,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 8,
+    "obstacleId": 3
+  },
+  {
+    "storyDungeonId": 8,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 9,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 0
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 1
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 3
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 4
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 9
+  },
+  {
+    "storyDungeonId": 11,
+    "obstacleId": 10
+  },
+  {
+    "storyDungeonId": 12,
+    "obstacleId": 0
+  },
+  {
+    "storyDungeonId": 12,
+    "obstacleId": 3
+  },
+  {
+    "storyDungeonId": 12,
+    "obstacleId": 4
+  },
+  {
+    "storyDungeonId": 12,
+    "obstacleId": 9
+  },
+  {
+    "storyDungeonId": 12,
+    "obstacleId": 15
+  },
+  {
+    "storyDungeonId": 13,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 13,
+    "obstacleId": 3
+  },
+  {
+    "storyDungeonId": 13,
+    "obstacleId": 4
+  },
+  {
+    "storyDungeonId": 14,
+    "obstacleId": 2
+  },
+  {
+    "storyDungeonId": 14,
+    "obstacleId": 4
+  },
+  {
+    "storyDungeonId": 14,
+    "obstacleId": 5
+  },
+  {
+    "storyDungeonId": 14,
+    "obstacleId": 6
+  }
+]

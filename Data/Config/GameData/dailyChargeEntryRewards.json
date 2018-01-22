@@ -1,0 +1,140 @@
+[
+  {
+    "entryId": 1,
+    "rewardNo": 1,
+    "itemId": 25005,
+    "count": 1
+  },
+  {
+    "entryId": 1,
+    "rewardNo": 2,
+    "itemId": 20016,
+    "count": 1
+  },
+  {
+    "entryId": 1,
+    "rewardNo": 3,
+    "itemId": 10001,
+    "count": 1
+  },
+  {
+    "entryId": 2,
+    "rewardNo": 1,
+    "itemId": 25005,
+    "count": 5
+  },
+  {
+    "entryId": 2,
+    "rewardNo": 2,
+    "itemId": 20016,
+    "count": 5
+  },
+  {
+    "entryId": 2,
+    "rewardNo": 3,
+    "itemId": 10001,
+    "count": 5
+  },
+  {
+    "entryId": 2,
+    "rewardNo": 4,
+    "itemId": 37001,
+    "count": 5
+  },
+  {
+    "entryId": 3,
+    "rewardNo": 1,
+    "itemId": 25005,
+    "count": 6
+  },
+  {
+    "entryId": 3,
+    "rewardNo": 2,
+    "itemId": 20016,
+    "count": 6
+  },
+  {
+    "entryId": 3,
+    "rewardNo": 3,
+    "itemId": 10001,
+    "count": 6
+  },
+  {
+    "entryId": 3,
+    "rewardNo": 4,
+    "itemId": 21001,
+    "count": 1
+  },
+  {
+    "entryId": 4,
+    "rewardNo": 1,
+    "itemId": 25005,
+    "count": 12
+  },
+  {
+    "entryId": 4,
+    "rewardNo": 2,
+    "itemId": 20016,
+    "count": 12
+  },
+  {
+    "entryId": 4,
+    "rewardNo": 3,
+    "itemId": 10001,
+    "count": 12
+  },
+  {
+    "entryId": 4,
+    "rewardNo": 4,
+    "itemId": 21001,
+    "count": 2
+  },
+  {
+    "entryId": 5,
+    "rewardNo": 1,
+    "itemId": 25005,
+    "count": 18
+  },
+  {
+    "entryId": 5,
+    "rewardNo": 2,
+    "itemId": 20016,
+    "count": 18
+  },
+  {
+    "entryId": 5,
+    "rewardNo": 3,
+    "itemId": 10001,
+    "count": 18
+  },
+  {
+    "entryId": 5,
+    "rewardNo": 4,
+    "itemId": 21001,
+    "count": 3
+  },
+  {
+    "entryId": 6,
+    "rewardNo": 1,
+    "itemId": 25005,
+    "count": 24
+  },
+  {
+    "entryId": 6,
+    "rewardNo": 2,
+    "itemId": 20016,
+    "count": 24
+  },
+  {
+    "entryId": 6,
+    "rewardNo": 3,
+    "itemId": 10001,
+    "count": 24
+  },
+  {
+    "entryId": 6,
+    "rewardNo": 4,
+    "itemId": 21001,
+    "count": 4
+  }
+]

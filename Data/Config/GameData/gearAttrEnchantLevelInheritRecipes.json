@@ -1,0 +1,602 @@
+[
+  {
+    "attrEnchantLevel": 1,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 2,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 3,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 4,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 5,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 6,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 7,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 8,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 9,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "attrEnchantLevel": 10,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 11,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 12,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 13,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 14,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 15,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 16,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 17,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 18,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 19,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "attrEnchantLevel": 20,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 21,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 22,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 23,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 24,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 25,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 26,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 27,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 28,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 29,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "attrEnchantLevel": 30,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 31,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 32,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 33,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 34,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 35,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 36,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 37,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 38,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 39,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "attrEnchantLevel": 40,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 41,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 42,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 43,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 44,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 45,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 46,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 47,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 48,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 49,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "attrEnchantLevel": 50,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 51,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 52,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 53,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 54,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 55,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 56,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 57,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 58,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 59,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "attrEnchantLevel": 60,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 61,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 62,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 63,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 64,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 65,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 66,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 67,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 68,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 69,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "attrEnchantLevel": 70,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 71,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 72,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 73,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 74,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 75,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 76,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 77,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 78,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 79,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "attrEnchantLevel": 80,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 81,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 82,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 83,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 84,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 85,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 86,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 87,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 88,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 89,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "attrEnchantLevel": 90,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 91,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 92,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 93,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 94,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 95,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 96,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 97,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 98,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 99,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "attrEnchantLevel": 100,
+    "gold": 1800000,
+    "goldRate": 150,
+    "unOwnDia": 1000
+  }
+]

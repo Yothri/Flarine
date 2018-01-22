@@ -1,0 +1,247 @@
+[
+  {
+    "continentId": 1,
+    "attrId": 5,
+    "value": 627.0
+  },
+  {
+    "continentId": 1,
+    "attrId": 7,
+    "value": 165.0
+  },
+  {
+    "continentId": 1,
+    "attrId": 8,
+    "value": 165.0
+  },
+  {
+    "continentId": 1,
+    "attrId": 9,
+    "value": 83.0
+  },
+  {
+    "continentId": 1,
+    "attrId": 10,
+    "value": 83.0
+  },
+  {
+    "continentId": 1,
+    "attrId": 11,
+    "value": 51.0
+  },
+  {
+    "continentId": 1,
+    "attrId": 12,
+    "value": 26.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 5,
+    "value": 2465.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 7,
+    "value": 648.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 8,
+    "value": 648.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 9,
+    "value": 324.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 10,
+    "value": 324.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 11,
+    "value": 200.0
+  },
+  {
+    "continentId": 2,
+    "attrId": 12,
+    "value": 100.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 5,
+    "value": 7098.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 7,
+    "value": 1864.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 8,
+    "value": 1864.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 9,
+    "value": 932.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 10,
+    "value": 932.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 11,
+    "value": 574.0
+  },
+  {
+    "continentId": 3,
+    "attrId": 12,
+    "value": 287.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 5,
+    "value": 29628.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 7,
+    "value": 7782.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 8,
+    "value": 7782.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 9,
+    "value": 3891.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 10,
+    "value": 3891.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 11,
+    "value": 2395.0
+  },
+  {
+    "continentId": 4,
+    "attrId": 12,
+    "value": 1198.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 5,
+    "value": 44360.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 7,
+    "value": 11650.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 8,
+    "value": 11650.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 9,
+    "value": 5825.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 10,
+    "value": 5825.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 11,
+    "value": 3585.0
+  },
+  {
+    "continentId": 5,
+    "attrId": 12,
+    "value": 1793.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 5,
+    "value": 100476.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 7,
+    "value": 26388.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 8,
+    "value": 26388.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 9,
+    "value": 13194.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 10,
+    "value": 13194.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 11,
+    "value": 8120.0
+  },
+  {
+    "continentId": 6,
+    "attrId": 12,
+    "value": 4060.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 5,
+    "value": 203874.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 7,
+    "value": 53543.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 8,
+    "value": 53543.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 9,
+    "value": 26772.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 10,
+    "value": 26772.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 11,
+    "value": 16475.0
+  },
+  {
+    "continentId": 7,
+    "attrId": 12,
+    "value": 8238.0
+  }
+]

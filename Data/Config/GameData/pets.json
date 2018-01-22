@@ -1,0 +1,442 @@
+[
+  {
+    "petId": 1001,
+    "name": "",
+    "nameKey": "PET_NAME_0001",
+    "phaseId": 1,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1002,
+    "name": "",
+    "nameKey": "PET_NAME_0002",
+    "phaseId": 1,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1003,
+    "name": "",
+    "nameKey": "PET_NAME_0003",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1004,
+    "name": "",
+    "nameKey": "PET_NAME_0004",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1005,
+    "name": "",
+    "nameKey": "PET_NAME_0005",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1006,
+    "name": "",
+    "nameKey": "PET_NAME_0006",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1007,
+    "name": "",
+    "nameKey": "PET_NAME_0015",
+    "phaseId": 1,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1008,
+    "name": "",
+    "nameKey": "PET_NAME_0016",
+    "phaseId": 1,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 1009,
+    "name": "",
+    "nameKey": "PET_NAME_0017",
+    "phaseId": 1,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2001,
+    "name": "",
+    "nameKey": "PET_NAME_0007",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2002,
+    "name": "",
+    "nameKey": "PET_NAME_0008",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2003,
+    "name": "",
+    "nameKey": "PET_NAME_0009",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.65
+  },
+  {
+    "petId": 2004,
+    "name": "",
+    "nameKey": "PET_NAME_0010",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.65
+  },
+  {
+    "petId": 2005,
+    "name": "",
+    "nameKey": "PET_NAME_0018",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2006,
+    "name": "",
+    "nameKey": "PET_NAME_0019",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2007,
+    "name": "",
+    "nameKey": "PET_NAME_0020",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2008,
+    "name": "",
+    "nameKey": "PET_NAME_0021",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2009,
+    "name": "",
+    "nameKey": "PET_NAME_0022",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 2010,
+    "name": "",
+    "nameKey": "PET_NAME_0023",
+    "phaseId": 2,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 3001,
+    "name": "",
+    "nameKey": "PET_NAME_0011",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.9
+  },
+  {
+    "petId": 3002,
+    "name": "",
+    "nameKey": "PET_NAME_0012",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.9
+  },
+  {
+    "petId": 3003,
+    "name": "",
+    "nameKey": "PET_NAME_0013",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.9
+  },
+  {
+    "petId": 3004,
+    "name": "",
+    "nameKey": "PET_NAME_0014",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.75
+  },
+  {
+    "petId": 4001,
+    "name": "",
+    "nameKey": "PET_NAME_0401",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4002,
+    "name": "",
+    "nameKey": "PET_NAME_0402",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4003,
+    "name": "",
+    "nameKey": "PET_NAME_0403",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4004,
+    "name": "",
+    "nameKey": "PET_NAME_0404",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4005,
+    "name": "",
+    "nameKey": "PET_NAME_0405",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4006,
+    "name": "",
+    "nameKey": "PET_NAME_0406",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4007,
+    "name": "",
+    "nameKey": "PET_NAME_0407",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4008,
+    "name": "",
+    "nameKey": "PET_NAME_0408",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4009,
+    "name": "",
+    "nameKey": "PET_NAME_0409",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4010,
+    "name": "",
+    "nameKey": "PET_NAME_0410",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4011,
+    "name": "",
+    "nameKey": "PET_NAME_0411",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4012,
+    "name": "",
+    "nameKey": "PET_NAME_0412",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4013,
+    "name": "",
+    "nameKey": "PET_NAME_0413",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4014,
+    "name": "",
+    "nameKey": "PET_NAME_0414",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4015,
+    "name": "",
+    "nameKey": "PET_NAME_0415",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4016,
+    "name": "",
+    "nameKey": "PET_NAME_0416",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4017,
+    "name": "",
+    "nameKey": "PET_NAME_0417",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 4018,
+    "name": "",
+    "nameKey": "PET_NAME_0418",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 90001,
+    "name": "",
+    "nameKey": "PET_NAME_90001",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.9
+  },
+  {
+    "petId": 90002,
+    "name": "",
+    "nameKey": "PET_NAME_90002",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.65
+  },
+  {
+    "petId": 90003,
+    "name": "",
+    "nameKey": "PET_NAME_90003",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": true,
+    "viewScale": 0.9
+  }
+]

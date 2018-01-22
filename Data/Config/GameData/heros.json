@@ -1,0 +1,41 @@
+[
+  {
+    "heroId": 1,
+    "name": "",
+    "nameKey": "HERO_NAME_0001",
+    "description": "",
+    "descriptionKey": "HERO_DESC_0001",
+    "attackRange": 3.0,
+    "hitRange": 3.0,
+    "statStrength": 5,
+    "statStamina": 3,
+    "statAgility": 2,
+    "statIntelligence": 0
+  },
+  {
+    "heroId": 2,
+    "name": "",
+    "nameKey": "HERO_NAME_0002",
+    "description": "",
+    "descriptionKey": "HERO_DESC_0002",
+    "attackRange": 7.0,
+    "hitRange": 3.0,
+    "statStrength": 5,
+    "statStamina": 3,
+    "statAgility": 2,
+    "statIntelligence": 0
+  },
+  {
+    "heroId": 3,
+    "name": "",
+    "nameKey": "HERO_NAME_0003",
+    "description": "",
+    "descriptionKey": "HERO_DESC_0003",
+    "attackRange": 7.0,
+    "hitRange": 3.0,
+    "statStrength": 0,
+    "statStamina": 3,
+    "statAgility": 2,
+    "statIntelligence": 5
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "placeId": 1,
+    "name": "",
+    "nameKey": "AIRPORTAL_NAME_001",
+    "continentId": 1,
+    "xPosition": 398.94,
+    "yPosition": 98.0,
+    "zPosition": 364.56,
+    "locationId": 104
+  },
+  {
+    "placeId": 2,
+    "name": "",
+    "nameKey": "AIRPORTAL_NAME_002",
+    "continentId": 2,
+    "xPosition": 303.0,
+    "yPosition": 107.0,
+    "zPosition": 180.0,
+    "locationId": 104
+  },
+  {
+    "placeId": 3,
+    "name": "",
+    "nameKey": "AIRPORTAL_NAME_003",
+    "continentId": 3,
+    "xPosition": 148.8,
+    "yPosition": 106.0,
+    "zPosition": 173.4,
+    "locationId": 104
+  },
+  {
+    "placeId": 4,
+    "name": "",
+    "nameKey": "AIRPORTAL_NAME_004",
+    "continentId": 3,
+    "xPosition": 200.23,
+    "yPosition": 106.0,
+    "zPosition": 128.22,
+    "locationId": 104
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "productId": 1,
+    "requiredGuildLevel": 1,
+    "dailyChangeLimit": 2,
+    "guildPoint": 400,
+    "itemId": 10001,
+    "count": 1,
+    "sortNo": 1
+  },
+  {
+    "productId": 2,
+    "requiredGuildLevel": 1,
+    "dailyChangeLimit": 5,
+    "guildPoint": 50,
+    "itemId": 27001,
+    "count": 5,
+    "sortNo": 2
+  },
+  {
+    "productId": 3,
+    "requiredGuildLevel": 1,
+    "dailyChangeLimit": 2,
+    "guildPoint": 200,
+    "itemId": 27002,
+    "count": 2,
+    "sortNo": 3
+  },
+  {
+    "productId": 4,
+    "requiredGuildLevel": 2,
+    "dailyChangeLimit": 2,
+    "guildPoint": 100,
+    "itemId": 37001,
+    "count": 1,
+    "sortNo": 4
+  },
+  {
+    "productId": 5,
+    "requiredGuildLevel": 2,
+    "dailyChangeLimit": 2,
+    "guildPoint": 200,
+    "itemId": 36001,
+    "count": 1,
+    "sortNo": 5
+  },
+  {
+    "productId": 6,
+    "requiredGuildLevel": 3,
+    "dailyChangeLimit": 2,
+    "guildPoint": 200,
+    "itemId": 37001,
+    "count": 2,
+    "sortNo": 6
+  },
+  {
+    "productId": 7,
+    "requiredGuildLevel": 3,
+    "dailyChangeLimit": 2,
+    "guildPoint": 400,
+    "itemId": 36001,
+    "count": 2,
+    "sortNo": 7
+  },
+  {
+    "productId": 8,
+    "requiredGuildLevel": 3,
+    "dailyChangeLimit": 2,
+    "guildPoint": 800,
+    "itemId": 10001,
+    "count": 2,
+    "sortNo": 8
+  },
+  {
+    "productId": 9,
+    "requiredGuildLevel": 4,
+    "dailyChangeLimit": 2,
+    "guildPoint": 300,
+    "itemId": 34001,
+    "count": 3,
+    "sortNo": 9
+  },
+  {
+    "productId": 10,
+    "requiredGuildLevel": 5,
+    "dailyChangeLimit": 2,
+    "guildPoint": 600,
+    "itemId": 37001,
+    "count": 3,
+    "sortNo": 10
+  }
+]

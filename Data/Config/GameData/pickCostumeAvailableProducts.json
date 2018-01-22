@@ -1,0 +1,26 @@
+[
+  {
+    "storeId": 4,
+    "categoryId": 6,
+    "itemId": 46003,
+    "sortNo": 1
+  },
+  {
+    "storeId": 4,
+    "categoryId": 6,
+    "itemId": 46005,
+    "sortNo": 2
+  },
+  {
+    "storeId": 4,
+    "categoryId": 6,
+    "itemId": 46006,
+    "sortNo": 3
+  },
+  {
+    "storeId": 4,
+    "categoryId": 6,
+    "itemId": 49001,
+    "sortNo": 4
+  }
+]

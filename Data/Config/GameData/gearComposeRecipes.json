@@ -1,0 +1,30 @@
+[
+  {
+    "tier": 2,
+    "magicPowder": 4000
+  },
+  {
+    "tier": 3,
+    "magicPowder": 16000
+  },
+  {
+    "tier": 4,
+    "magicPowder": 32000
+  },
+  {
+    "tier": 5,
+    "magicPowder": 52000
+  },
+  {
+    "tier": 6,
+    "magicPowder": 76000
+  },
+  {
+    "tier": 7,
+    "magicPowder": 104000
+  },
+  {
+    "tier": 8,
+    "magicPowder": 136000
+  }
+]

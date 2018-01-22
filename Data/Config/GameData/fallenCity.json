@@ -1,0 +1,23 @@
+{
+  "requiredMainQuestId": 163,
+  "enterCount": 1,
+  "maxMemberCount": 5,
+  "startDelayTime": 10,
+  "limitTime": 1800,
+  "rewardDuration": 180,
+  "exp": 649,
+  "ownGold": 100000,
+  "failRewardFactor": 0.0,
+  "startXPosition": -0.6,
+  "startYPosition": 2.85,
+  "startZPosition": 2.3,
+  "startRadius": 3.0,
+  "sceneName": "TheFallenCity",
+  "bossMonsterId": 31006,
+  "locationId": 103,
+  "requiredMountTier": 2,
+  "rewardPick2UnOwnDia": 20,
+  "rewardPick3UnOwnDia": 50,
+  "rewardPick4UnOwnDia": 100,
+  "rewardPickAllUnOwnDia": 150
+}

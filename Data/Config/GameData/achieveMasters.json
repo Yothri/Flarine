@@ -1,0 +1,47 @@
+[
+  {
+    "achieveMasterId": 1,
+    "name": "모험의 시작",
+    "nameKey": "ACHMASTER_NAME_0001"
+  },
+  {
+    "achieveMasterId": 2,
+    "name": "영웅의 길",
+    "nameKey": "ACHMASTER_NAME_0002"
+  },
+  {
+    "achieveMasterId": 3,
+    "name": "마드리갈 명예시민",
+    "nameKey": "ACHMASTER_NAME_0003"
+  },
+  {
+    "achieveMasterId": 4,
+    "name": "골드 수집가",
+    "nameKey": "ACHMASTER_NAME_0004"
+  },
+  {
+    "achieveMasterId": 5,
+    "name": "마드리갈의 수호자",
+    "nameKey": "ACHMASTER_NAME_0005"
+  },
+  {
+    "achieveMasterId": 6,
+    "name": "보보찬의 단골손님",
+    "nameKey": "ACHMASTER_NAME_0006"
+  },
+  {
+    "achieveMasterId": 7,
+    "name": "제련소의 단골손님",
+    "nameKey": "ACHMASTER_NAME_0007"
+  },
+  {
+    "achieveMasterId": 8,
+    "name": "전장의 신",
+    "nameKey": "ACHMASTER_NAME_0008"
+  },
+  {
+    "achieveMasterId": 9,
+    "name": "구원자의 길",
+    "nameKey": "ACHMASTER_NAME_0009"
+  }
+]

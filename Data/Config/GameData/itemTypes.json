@@ -1,0 +1,374 @@
+[
+  {
+    "itemType": 1,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0001",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 2,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0002",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 3,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0003",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 4,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0004",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 5,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0005",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 6,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0006",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 7,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0007",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 8,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0008",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 9,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0009",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 10,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0010",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 11,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0011",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 12,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0012",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 13,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0013",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 14,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0014",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 15,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0015",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 16,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0016",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 17,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0017",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 18,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0018",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 19,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0019",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 20,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0020",
+    "dailyUseMaxCount": 10
+  },
+  {
+    "itemType": 21,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0021",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 22,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0022",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 23,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0023",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 24,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0024",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 25,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0025",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 26,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0026",
+    "dailyUseMaxCount": 30
+  },
+  {
+    "itemType": 27,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0027",
+    "dailyUseMaxCount": 30
+  },
+  {
+    "itemType": 28,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0028",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 29,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0029",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 30,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0030",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 31,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0031",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 32,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0032",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 33,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0033",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 34,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0034",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 35,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0035",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 36,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0036",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 37,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0037",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 38,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0038",
+    "dailyUseMaxCount": 10
+  },
+  {
+    "itemType": 39,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0039",
+    "dailyUseMaxCount": 10
+  },
+  {
+    "itemType": 40,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0040",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 41,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0041",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 42,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0042",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 43,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0043",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 44,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0044",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 45,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0045",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 46,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0046",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 47,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0047",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 48,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0048",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 49,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0049",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 50,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0050",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 51,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0051",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 52,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0052",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 53,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0053",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 54,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0054",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 55,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0055",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 56,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0056",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 57,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0057",
+    "dailyUseMaxCount": 10
+  },
+  {
+    "itemType": 58,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0058",
+    "dailyUseMaxCount": 30
+  },
+  {
+    "itemType": 63,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0063",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 80,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0080",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 81,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0081",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 99,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_9001",
+    "dailyUseMaxCount": 0
+  }
+]

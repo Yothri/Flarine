@@ -1,0 +1,38 @@
+[
+  {
+    "entryId": 1,
+    "chargeDia": 1000
+  },
+  {
+    "entryId": 2,
+    "chargeDia": 3000
+  },
+  {
+    "entryId": 3,
+    "chargeDia": 5000
+  },
+  {
+    "entryId": 4,
+    "chargeDia": 10000
+  },
+  {
+    "entryId": 5,
+    "chargeDia": 30000
+  },
+  {
+    "entryId": 6,
+    "chargeDia": 50000
+  },
+  {
+    "entryId": 7,
+    "chargeDia": 100000
+  },
+  {
+    "entryId": 8,
+    "chargeDia": 300000
+  },
+  {
+    "entryId": 9,
+    "chargeDia": 500000
+  }
+]

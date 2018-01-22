@@ -1,0 +1,26 @@
+[
+  {
+    "itemId": 9001,
+    "requiredGold": 200,
+    "jewelPieceId": 8001,
+    "count": 10
+  },
+  {
+    "itemId": 9002,
+    "requiredGold": 200,
+    "jewelPieceId": 8002,
+    "count": 10
+  },
+  {
+    "itemId": 9003,
+    "requiredGold": 200,
+    "jewelPieceId": 8003,
+    "count": 10
+  },
+  {
+    "itemId": 9004,
+    "requiredGold": 200,
+    "jewelPieceId": 8004,
+    "count": 10
+  }
+]

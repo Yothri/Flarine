@@ -1,0 +1,102 @@
+[
+  {
+    "chapterId": 1,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0001",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0001",
+    "buffName": "혼란",
+    "buffNameKey": "CHAPTBUFF_NAME_0001",
+    "mainQuestCount": 19
+  },
+  {
+    "chapterId": 2,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0002",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0002",
+    "buffName": "의문의 배후",
+    "buffNameKey": "CHAPTBUFF_NAME_0002",
+    "mainQuestCount": 26
+  },
+  {
+    "chapterId": 3,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0003",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0003",
+    "buffName": "사라진 아이들",
+    "buffNameKey": "CHAPTBUFF_NAME_0003",
+    "mainQuestCount": 34
+  },
+  {
+    "chapterId": 4,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0004",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0004",
+    "buffName": "윤의 부활",
+    "buffNameKey": "CHAPTBUFF_NAME_0004",
+    "mainQuestCount": 47
+  },
+  {
+    "chapterId": 5,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0005",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0005",
+    "buffName": "깨져가는 신뢰",
+    "buffNameKey": "CHAPTBUFF_NAME_0005",
+    "mainQuestCount": 51
+  },
+  {
+    "chapterId": 6,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0006",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0006",
+    "buffName": "절반의 성공",
+    "buffNameKey": "CHAPTBUFF_NAME_0006",
+    "mainQuestCount": 60
+  },
+  {
+    "chapterId": 7,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0007",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0007",
+    "buffName": "희귀한 광물",
+    "buffNameKey": "CHAPTBUFF_NAME_0007",
+    "mainQuestCount": 55
+  },
+  {
+    "chapterId": 8,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0008",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0008",
+    "buffName": "마왕 에킨",
+    "buffNameKey": "CHAPTBUFF_NAME_0008",
+    "mainQuestCount": 55
+  },
+  {
+    "chapterId": 9,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0009",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0009",
+    "buffName": "황혼의 대륙",
+    "buffNameKey": "CHAPTBUFF_NAME_0009",
+    "mainQuestCount": 70
+  },
+  {
+    "chapterId": 10,
+    "name": "",
+    "nameKey": "CHAPTER_NAME_0010",
+    "description": "",
+    "descriptionKey": "CHAPTER_DESC_0010",
+    "buffName": "계곡 속에 숨은 진실",
+    "buffNameKey": "CHAPTBUFF_NAME_0010",
+    "mainQuestCount": 100
+  }
+]

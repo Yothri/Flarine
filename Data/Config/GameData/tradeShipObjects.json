@@ -1,0 +1,178 @@
+[
+  {
+    "tradition": -1,
+    "objectId": 1,
+    "monsterId": 60010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": -1,
+    "objectId": 2,
+    "monsterId": 60012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 0,
+    "objectId": 1,
+    "monsterId": 61010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 0,
+    "objectId": 2,
+    "monsterId": 61012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 1,
+    "objectId": 1,
+    "monsterId": 62010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 1,
+    "objectId": 2,
+    "monsterId": 62012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 2,
+    "objectId": 1,
+    "monsterId": 63010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 2,
+    "objectId": 2,
+    "monsterId": 63012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 3,
+    "objectId": 1,
+    "monsterId": 64010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 3,
+    "objectId": 2,
+    "monsterId": 64012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 4,
+    "objectId": 1,
+    "monsterId": 65010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 4,
+    "objectId": 2,
+    "monsterId": 65012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 5,
+    "objectId": 1,
+    "monsterId": 66010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 5,
+    "objectId": 2,
+    "monsterId": 66012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 6,
+    "objectId": 1,
+    "monsterId": 67010,
+    "xPosition": -0.57,
+    "yPosition": 2.8,
+    "zPosition": 100.48,
+    "stepId": 2,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  },
+  {
+    "tradition": 6,
+    "objectId": 2,
+    "monsterId": 67012,
+    "xPosition": 0.34,
+    "yPosition": 3.11,
+    "zPosition": 137.64,
+    "stepId": 3,
+    "hitMessageDisplayable": true,
+    "hitMessageDisplayInterval": 1
+  }
+]

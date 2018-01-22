@@ -1,0 +1,19 @@
+{
+  "requiredMainQuestId": 145,
+  "recommendPower": 100000,
+  "sceneName": "Arena",
+  "startXPosition": 1.5,
+  "startYPosition": 9.2,
+  "startZPosition": -0.7,
+  "startDelayTime": 180,
+  "limitTime": 300,
+  "resurrectionInvincibleTime": 5,
+  "maxMemberCount": 50,
+  "pointPerKill": 5,
+  "winnerPoint": 100,
+  "winnerBuffDuration": 82800,
+  "locationId": 108,
+  "teleportConsumeFp": 0,
+  "maxPlayCount": 1,
+  "requiredMountTier": 2
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "elementalLevel": 1,
+    "gold": 30000
+  },
+  {
+    "elementalLevel": 2,
+    "gold": 120000
+  },
+  {
+    "elementalLevel": 3,
+    "gold": 270000
+  },
+  {
+    "elementalLevel": 4,
+    "gold": 480000
+  },
+  {
+    "elementalLevel": 5,
+    "gold": 750000
+  },
+  {
+    "elementalLevel": 6,
+    "gold": 1080000
+  },
+  {
+    "elementalLevel": 7,
+    "gold": 1470000
+  },
+  {
+    "elementalLevel": 8,
+    "gold": 1920000
+  },
+  {
+    "elementalLevel": 9,
+    "gold": 2430000
+  },
+  {
+    "elementalLevel": 10,
+    "gold": 3000000
+  },
+  {
+    "elementalLevel": 11,
+    "gold": 3630000
+  },
+  {
+    "elementalLevel": 12,
+    "gold": 4320000
+  },
+  {
+    "elementalLevel": 13,
+    "gold": 5070000
+  },
+  {
+    "elementalLevel": 14,
+    "gold": 5880000
+  },
+  {
+    "elementalLevel": 15,
+    "gold": 6750000
+  },
+  {
+    "elementalLevel": 16,
+    "gold": 7680000
+  },
+  {
+    "elementalLevel": 17,
+    "gold": 8670000
+  },
+  {
+    "elementalLevel": 18,
+    "gold": 9720000
+  },
+  {
+    "elementalLevel": 19,
+    "gold": 10830000
+  },
+  {
+    "elementalLevel": 20,
+    "gold": 12000000
+  }
+]

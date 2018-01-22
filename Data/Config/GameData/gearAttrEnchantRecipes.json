@@ -1,0 +1,502 @@
+[
+  {
+    "attrEnchantLevel": 1,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 2,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 3,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 4,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 5,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 6,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 7,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 8,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 9,
+    "gold": 10000,
+    "materialItemCount": 1
+  },
+  {
+    "attrEnchantLevel": 10,
+    "gold": 20000,
+    "materialItemCount": 2
+  },
+  {
+    "attrEnchantLevel": 11,
+    "gold": 20000,
+    "materialItemCount": 2
+  },
+  {
+    "attrEnchantLevel": 12,
+    "gold": 20000,
+    "materialItemCount": 2
+  },
+  {
+    "attrEnchantLevel": 13,
+    "gold": 30000,
+    "materialItemCount": 3
+  },
+  {
+    "attrEnchantLevel": 14,
+    "gold": 40000,
+    "materialItemCount": 4
+  },
+  {
+    "attrEnchantLevel": 15,
+    "gold": 40000,
+    "materialItemCount": 4
+  },
+  {
+    "attrEnchantLevel": 16,
+    "gold": 50000,
+    "materialItemCount": 5
+  },
+  {
+    "attrEnchantLevel": 17,
+    "gold": 60000,
+    "materialItemCount": 6
+  },
+  {
+    "attrEnchantLevel": 18,
+    "gold": 70000,
+    "materialItemCount": 7
+  },
+  {
+    "attrEnchantLevel": 19,
+    "gold": 80000,
+    "materialItemCount": 8
+  },
+  {
+    "attrEnchantLevel": 20,
+    "gold": 90000,
+    "materialItemCount": 9
+  },
+  {
+    "attrEnchantLevel": 21,
+    "gold": 100000,
+    "materialItemCount": 10
+  },
+  {
+    "attrEnchantLevel": 22,
+    "gold": 120000,
+    "materialItemCount": 12
+  },
+  {
+    "attrEnchantLevel": 23,
+    "gold": 130000,
+    "materialItemCount": 13
+  },
+  {
+    "attrEnchantLevel": 24,
+    "gold": 150000,
+    "materialItemCount": 15
+  },
+  {
+    "attrEnchantLevel": 25,
+    "gold": 160000,
+    "materialItemCount": 16
+  },
+  {
+    "attrEnchantLevel": 26,
+    "gold": 180000,
+    "materialItemCount": 18
+  },
+  {
+    "attrEnchantLevel": 27,
+    "gold": 200000,
+    "materialItemCount": 20
+  },
+  {
+    "attrEnchantLevel": 28,
+    "gold": 230000,
+    "materialItemCount": 23
+  },
+  {
+    "attrEnchantLevel": 29,
+    "gold": 250000,
+    "materialItemCount": 25
+  },
+  {
+    "attrEnchantLevel": 30,
+    "gold": 280000,
+    "materialItemCount": 28
+  },
+  {
+    "attrEnchantLevel": 31,
+    "gold": 300000,
+    "materialItemCount": 30
+  },
+  {
+    "attrEnchantLevel": 32,
+    "gold": 330000,
+    "materialItemCount": 33
+  },
+  {
+    "attrEnchantLevel": 33,
+    "gold": 360000,
+    "materialItemCount": 36
+  },
+  {
+    "attrEnchantLevel": 34,
+    "gold": 390000,
+    "materialItemCount": 39
+  },
+  {
+    "attrEnchantLevel": 35,
+    "gold": 430000,
+    "materialItemCount": 43
+  },
+  {
+    "attrEnchantLevel": 36,
+    "gold": 460000,
+    "materialItemCount": 46
+  },
+  {
+    "attrEnchantLevel": 37,
+    "gold": 500000,
+    "materialItemCount": 50
+  },
+  {
+    "attrEnchantLevel": 38,
+    "gold": 540000,
+    "materialItemCount": 54
+  },
+  {
+    "attrEnchantLevel": 39,
+    "gold": 590000,
+    "materialItemCount": 59
+  },
+  {
+    "attrEnchantLevel": 40,
+    "gold": 630000,
+    "materialItemCount": 63
+  },
+  {
+    "attrEnchantLevel": 41,
+    "gold": 680000,
+    "materialItemCount": 68
+  },
+  {
+    "attrEnchantLevel": 42,
+    "gold": 730000,
+    "materialItemCount": 73
+  },
+  {
+    "attrEnchantLevel": 43,
+    "gold": 780000,
+    "materialItemCount": 78
+  },
+  {
+    "attrEnchantLevel": 44,
+    "gold": 830000,
+    "materialItemCount": 83
+  },
+  {
+    "attrEnchantLevel": 45,
+    "gold": 890000,
+    "materialItemCount": 89
+  },
+  {
+    "attrEnchantLevel": 46,
+    "gold": 950000,
+    "materialItemCount": 95
+  },
+  {
+    "attrEnchantLevel": 47,
+    "gold": 1010000,
+    "materialItemCount": 101
+  },
+  {
+    "attrEnchantLevel": 48,
+    "gold": 1070000,
+    "materialItemCount": 107
+  },
+  {
+    "attrEnchantLevel": 49,
+    "gold": 1140000,
+    "materialItemCount": 114
+  },
+  {
+    "attrEnchantLevel": 50,
+    "gold": 1210000,
+    "materialItemCount": 121
+  },
+  {
+    "attrEnchantLevel": 51,
+    "gold": 1280000,
+    "materialItemCount": 128
+  },
+  {
+    "attrEnchantLevel": 52,
+    "gold": 1350000,
+    "materialItemCount": 135
+  },
+  {
+    "attrEnchantLevel": 53,
+    "gold": 1430000,
+    "materialItemCount": 143
+  },
+  {
+    "attrEnchantLevel": 54,
+    "gold": 1510000,
+    "materialItemCount": 151
+  },
+  {
+    "attrEnchantLevel": 55,
+    "gold": 1600000,
+    "materialItemCount": 160
+  },
+  {
+    "attrEnchantLevel": 56,
+    "gold": 1680000,
+    "materialItemCount": 168
+  },
+  {
+    "attrEnchantLevel": 57,
+    "gold": 1770000,
+    "materialItemCount": 177
+  },
+  {
+    "attrEnchantLevel": 58,
+    "gold": 1870000,
+    "materialItemCount": 187
+  },
+  {
+    "attrEnchantLevel": 59,
+    "gold": 1960000,
+    "materialItemCount": 196
+  },
+  {
+    "attrEnchantLevel": 60,
+    "gold": 2060000,
+    "materialItemCount": 206
+  },
+  {
+    "attrEnchantLevel": 61,
+    "gold": 2170000,
+    "materialItemCount": 217
+  },
+  {
+    "attrEnchantLevel": 62,
+    "gold": 2270000,
+    "materialItemCount": 227
+  },
+  {
+    "attrEnchantLevel": 63,
+    "gold": 2380000,
+    "materialItemCount": 238
+  },
+  {
+    "attrEnchantLevel": 64,
+    "gold": 2500000,
+    "materialItemCount": 250
+  },
+  {
+    "attrEnchantLevel": 65,
+    "gold": 2610000,
+    "materialItemCount": 261
+  },
+  {
+    "attrEnchantLevel": 66,
+    "gold": 2730000,
+    "materialItemCount": 273
+  },
+  {
+    "attrEnchantLevel": 67,
+    "gold": 2860000,
+    "materialItemCount": 286
+  },
+  {
+    "attrEnchantLevel": 68,
+    "gold": 2980000,
+    "materialItemCount": 298
+  },
+  {
+    "attrEnchantLevel": 69,
+    "gold": 3110000,
+    "materialItemCount": 311
+  },
+  {
+    "attrEnchantLevel": 70,
+    "gold": 3250000,
+    "materialItemCount": 325
+  },
+  {
+    "attrEnchantLevel": 71,
+    "gold": 3390000,
+    "materialItemCount": 339
+  },
+  {
+    "attrEnchantLevel": 72,
+    "gold": 3530000,
+    "materialItemCount": 353
+  },
+  {
+    "attrEnchantLevel": 73,
+    "gold": 3680000,
+    "materialItemCount": 368
+  },
+  {
+    "attrEnchantLevel": 74,
+    "gold": 3830000,
+    "materialItemCount": 383
+  },
+  {
+    "attrEnchantLevel": 75,
+    "gold": 3990000,
+    "materialItemCount": 399
+  },
+  {
+    "attrEnchantLevel": 76,
+    "gold": 4140000,
+    "materialItemCount": 414
+  },
+  {
+    "attrEnchantLevel": 77,
+    "gold": 4310000,
+    "materialItemCount": 431
+  },
+  {
+    "attrEnchantLevel": 78,
+    "gold": 4480000,
+    "materialItemCount": 448
+  },
+  {
+    "attrEnchantLevel": 79,
+    "gold": 4650000,
+    "materialItemCount": 465
+  },
+  {
+    "attrEnchantLevel": 80,
+    "gold": 4820000,
+    "materialItemCount": 482
+  },
+  {
+    "attrEnchantLevel": 81,
+    "gold": 4990000,
+    "materialItemCount": 499
+  },
+  {
+    "attrEnchantLevel": 82,
+    "gold": 5160000,
+    "materialItemCount": 516
+  },
+  {
+    "attrEnchantLevel": 83,
+    "gold": 5330000,
+    "materialItemCount": 533
+  },
+  {
+    "attrEnchantLevel": 84,
+    "gold": 5500000,
+    "materialItemCount": 550
+  },
+  {
+    "attrEnchantLevel": 85,
+    "gold": 5670000,
+    "materialItemCount": 567
+  },
+  {
+    "attrEnchantLevel": 86,
+    "gold": 5840000,
+    "materialItemCount": 584
+  },
+  {
+    "attrEnchantLevel": 87,
+    "gold": 6010000,
+    "materialItemCount": 601
+  },
+  {
+    "attrEnchantLevel": 88,
+    "gold": 6180000,
+    "materialItemCount": 618
+  },
+  {
+    "attrEnchantLevel": 89,
+    "gold": 6350000,
+    "materialItemCount": 635
+  },
+  {
+    "attrEnchantLevel": 90,
+    "gold": 6520000,
+    "materialItemCount": 652
+  },
+  {
+    "attrEnchantLevel": 91,
+    "gold": 6690000,
+    "materialItemCount": 669
+  },
+  {
+    "attrEnchantLevel": 92,
+    "gold": 6860000,
+    "materialItemCount": 686
+  },
+  {
+    "attrEnchantLevel": 93,
+    "gold": 7030000,
+    "materialItemCount": 703
+  },
+  {
+    "attrEnchantLevel": 94,
+    "gold": 7200000,
+    "materialItemCount": 720
+  },
+  {
+    "attrEnchantLevel": 95,
+    "gold": 7370000,
+    "materialItemCount": 737
+  },
+  {
+    "attrEnchantLevel": 96,
+    "gold": 7540000,
+    "materialItemCount": 754
+  },
+  {
+    "attrEnchantLevel": 97,
+    "gold": 7710000,
+    "materialItemCount": 771
+  },
+  {
+    "attrEnchantLevel": 98,
+    "gold": 7880000,
+    "materialItemCount": 788
+  },
+  {
+    "attrEnchantLevel": 99,
+    "gold": 8050000,
+    "materialItemCount": 805
+  },
+  {
+    "attrEnchantLevel": 100,
+    "gold": 8220000,
+    "materialItemCount": 822
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "setId": 3,
+    "grade": 4,
+    "count": 8,
+    "blessed": false
+  },
+  {
+    "setId": 4,
+    "grade": 4,
+    "count": 8,
+    "blessed": true
+  },
+  {
+    "setId": 5,
+    "grade": 4,
+    "count": 10,
+    "blessed": true
+  },
+  {
+    "setId": 2,
+    "grade": 3,
+    "count": 8,
+    "blessed": false
+  },
+  {
+    "setId": 1,
+    "grade": 2,
+    "count": 8,
+    "blessed": false
+  }
+]

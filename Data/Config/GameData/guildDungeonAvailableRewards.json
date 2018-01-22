@@ -1,0 +1,47 @@
+[
+  {
+    "dungeonId": 1,
+    "rewardNo": 1,
+    "itemId": 38001
+  },
+  {
+    "dungeonId": 1,
+    "rewardNo": 2,
+    "itemId": 23001
+  },
+  {
+    "dungeonId": 1,
+    "rewardNo": 3,
+    "itemId": 24001
+  },
+  {
+    "dungeonId": 2,
+    "rewardNo": 1,
+    "itemId": 38001
+  },
+  {
+    "dungeonId": 2,
+    "rewardNo": 2,
+    "itemId": 23001
+  },
+  {
+    "dungeonId": 2,
+    "rewardNo": 3,
+    "itemId": 24001
+  },
+  {
+    "dungeonId": 3,
+    "rewardNo": 1,
+    "itemId": 38001
+  },
+  {
+    "dungeonId": 3,
+    "rewardNo": 2,
+    "itemId": 23001
+  },
+  {
+    "dungeonId": 3,
+    "rewardNo": 3,
+    "itemId": 24001
+  }
+]

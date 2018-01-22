@@ -1,0 +1,38 @@
+[
+  {
+    "grade": 2,
+    "gold": 10000,
+    "shineOrichalcumId": 12001,
+    "shineOrichalcumCount": 1,
+    "jewelId": 9001,
+    "jewelCount": 1,
+    "successRate": 4000
+  },
+  {
+    "grade": 3,
+    "gold": 50000,
+    "shineOrichalcumId": 12001,
+    "shineOrichalcumCount": 1,
+    "jewelId": 9002,
+    "jewelCount": 1,
+    "successRate": 3000
+  },
+  {
+    "grade": 4,
+    "gold": 100000,
+    "shineOrichalcumId": 12001,
+    "shineOrichalcumCount": 2,
+    "jewelId": 9003,
+    "jewelCount": 1,
+    "successRate": 2000
+  },
+  {
+    "grade": 5,
+    "gold": 500000,
+    "shineOrichalcumId": 12001,
+    "shineOrichalcumCount": 4,
+    "jewelId": 9004,
+    "jewelCount": 1,
+    "successRate": 1000
+  }
+]

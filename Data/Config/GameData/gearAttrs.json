@@ -1,0 +1,5399 @@
+[
+  {
+    "gearId": 1001,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 10,
+    "maxValue": 10
+  },
+  {
+    "gearId": 1001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 1002,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 264,
+    "maxValue": 264
+  },
+  {
+    "gearId": 1002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 1003,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 927,
+    "maxValue": 927
+  },
+  {
+    "gearId": 1003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 1004,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 2163,
+    "maxValue": 2163
+  },
+  {
+    "gearId": 1004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 1005,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 7056,
+    "maxValue": 7056
+  },
+  {
+    "gearId": 1005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 1006,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 19433,
+    "maxValue": 19433
+  },
+  {
+    "gearId": 1006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 1007,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 47277,
+    "maxValue": 47277
+  },
+  {
+    "gearId": 1007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 1008,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 107451,
+    "maxValue": 107451
+  },
+  {
+    "gearId": 1008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 2001,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 19,
+    "maxValue": 19
+  },
+  {
+    "gearId": 2001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 2002,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 502,
+    "maxValue": 502
+  },
+  {
+    "gearId": 2002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 2003,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 1764,
+    "maxValue": 1764
+  },
+  {
+    "gearId": 2003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 2004,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 4120,
+    "maxValue": 4120
+  },
+  {
+    "gearId": 2004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 2005,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 13440,
+    "maxValue": 13440
+  },
+  {
+    "gearId": 2005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 2006,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 37014,
+    "maxValue": 37014
+  },
+  {
+    "gearId": 2006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 2007,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 90051,
+    "maxValue": 90051
+  },
+  {
+    "gearId": 2007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 2008,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 204667,
+    "maxValue": 204667
+  },
+  {
+    "gearId": 2008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 3001,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 10,
+    "maxValue": 10
+  },
+  {
+    "gearId": 3001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 3002,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 264,
+    "maxValue": 264
+  },
+  {
+    "gearId": 3002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 3003,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 927,
+    "maxValue": 927
+  },
+  {
+    "gearId": 3003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 3004,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 2163,
+    "maxValue": 2163
+  },
+  {
+    "gearId": 3004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 3005,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 7056,
+    "maxValue": 7056
+  },
+  {
+    "gearId": 3005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 3006,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 19433,
+    "maxValue": 19433
+  },
+  {
+    "gearId": 3006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 3007,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 47277,
+    "maxValue": 47277
+  },
+  {
+    "gearId": 3007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 3008,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 107451,
+    "maxValue": 107451
+  },
+  {
+    "gearId": 3008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 4001,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 19,
+    "maxValue": 19
+  },
+  {
+    "gearId": 4001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 4002,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 502,
+    "maxValue": 502
+  },
+  {
+    "gearId": 4002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 4003,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 1764,
+    "maxValue": 1764
+  },
+  {
+    "gearId": 4003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 4004,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 4120,
+    "maxValue": 4120
+  },
+  {
+    "gearId": 4004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 4005,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 13440,
+    "maxValue": 13440
+  },
+  {
+    "gearId": 4005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 4006,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 37014,
+    "maxValue": 37014
+  },
+  {
+    "gearId": 4006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 4007,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 90051,
+    "maxValue": 90051
+  },
+  {
+    "gearId": 4007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 4008,
+    "type": 1,
+    "attrId": 7,
+    "minValue": 204667,
+    "maxValue": 204667
+  },
+  {
+    "gearId": 4008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 5001,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 10,
+    "maxValue": 10
+  },
+  {
+    "gearId": 5001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 5002,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 264,
+    "maxValue": 264
+  },
+  {
+    "gearId": 5002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 5003,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 927,
+    "maxValue": 927
+  },
+  {
+    "gearId": 5003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 5004,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 2163,
+    "maxValue": 2163
+  },
+  {
+    "gearId": 5004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 5005,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 7056,
+    "maxValue": 7056
+  },
+  {
+    "gearId": 5005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 5006,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 19433,
+    "maxValue": 19433
+  },
+  {
+    "gearId": 5006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 5007,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 47277,
+    "maxValue": 47277
+  },
+  {
+    "gearId": 5007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 5008,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 107451,
+    "maxValue": 107451
+  },
+  {
+    "gearId": 5008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 6001,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 19,
+    "maxValue": 19
+  },
+  {
+    "gearId": 6001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 6002,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 502,
+    "maxValue": 502
+  },
+  {
+    "gearId": 6002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 6003,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 1764,
+    "maxValue": 1764
+  },
+  {
+    "gearId": 6003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 6004,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 4120,
+    "maxValue": 4120
+  },
+  {
+    "gearId": 6004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 6005,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 13440,
+    "maxValue": 13440
+  },
+  {
+    "gearId": 6005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 6006,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 37014,
+    "maxValue": 37014
+  },
+  {
+    "gearId": 6006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 6007,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 90051,
+    "maxValue": 90051
+  },
+  {
+    "gearId": 6007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 6008,
+    "type": 1,
+    "attrId": 8,
+    "minValue": 204667,
+    "maxValue": 204667
+  },
+  {
+    "gearId": 6008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 7001,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 7001,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 7001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 7002,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 7002,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 7002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 7003,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 7003,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 7003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 7004,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 7004,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 7004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 7005,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 7005,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 7005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 7006,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 7006,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 7006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 7007,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 7007,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 7007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 7008,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 7008,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 7008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 7009,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 7009,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 7009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 7010,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 7010,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 7010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 7011,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 7011,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 7011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 7012,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 7012,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 7012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 7013,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 7013,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 7013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 7014,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 7014,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 7014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 7015,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 7015,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 7015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 7016,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 7016,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 7016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 8001,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 8001,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 8001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 8002,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 8002,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 8002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 8003,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 8003,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 8003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 8004,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 8004,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 8004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 8005,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 8005,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 8005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 8006,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 8006,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 8006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 8007,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 8007,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 8007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 8008,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 8008,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 8008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 8009,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 8009,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 8009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 8010,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 8010,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 8010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 8011,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 8011,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 8011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 8012,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 8012,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 8012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 8013,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 8013,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 8013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 8014,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 8014,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 8014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 8015,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 8015,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 8015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 8016,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 8016,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 8016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 8017,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 8017,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 8017,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 8018,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 8018,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 8018,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 8019,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 8019,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 8019,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 8020,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 8020,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 8020,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 8021,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 8021,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 8021,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 8022,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 8022,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 8022,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 8023,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 8023,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 8023,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 8024,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 8024,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 8024,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 9001,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 5,
+    "maxValue": 5
+  },
+  {
+    "gearId": 9001,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 5,
+    "maxValue": 5
+  },
+  {
+    "gearId": 9001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 9002,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 5,
+    "maxValue": 5
+  },
+  {
+    "gearId": 9002,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 5,
+    "maxValue": 5
+  },
+  {
+    "gearId": 9002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 9003,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 5,
+    "maxValue": 5
+  },
+  {
+    "gearId": 9003,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 5,
+    "maxValue": 5
+  },
+  {
+    "gearId": 9003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 9004,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 126,
+    "maxValue": 126
+  },
+  {
+    "gearId": 9004,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 126,
+    "maxValue": 126
+  },
+  {
+    "gearId": 9004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 9005,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 126,
+    "maxValue": 126
+  },
+  {
+    "gearId": 9005,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 126,
+    "maxValue": 126
+  },
+  {
+    "gearId": 9005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 9006,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 126,
+    "maxValue": 126
+  },
+  {
+    "gearId": 9006,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 126,
+    "maxValue": 126
+  },
+  {
+    "gearId": 9006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 9007,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 442,
+    "maxValue": 442
+  },
+  {
+    "gearId": 9007,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 442,
+    "maxValue": 442
+  },
+  {
+    "gearId": 9007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 9008,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 442,
+    "maxValue": 442
+  },
+  {
+    "gearId": 9008,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 442,
+    "maxValue": 442
+  },
+  {
+    "gearId": 9008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 9009,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 442,
+    "maxValue": 442
+  },
+  {
+    "gearId": 9009,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 442,
+    "maxValue": 442
+  },
+  {
+    "gearId": 9009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 9010,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1031,
+    "maxValue": 1031
+  },
+  {
+    "gearId": 9010,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1031,
+    "maxValue": 1031
+  },
+  {
+    "gearId": 9010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 9011,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1031,
+    "maxValue": 1031
+  },
+  {
+    "gearId": 9011,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1031,
+    "maxValue": 1031
+  },
+  {
+    "gearId": 9011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 9012,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1031,
+    "maxValue": 1031
+  },
+  {
+    "gearId": 9012,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1031,
+    "maxValue": 1031
+  },
+  {
+    "gearId": 9012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 9013,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 3360,
+    "maxValue": 3360
+  },
+  {
+    "gearId": 9013,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 3360,
+    "maxValue": 3360
+  },
+  {
+    "gearId": 9013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 9014,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 3360,
+    "maxValue": 3360
+  },
+  {
+    "gearId": 9014,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 3360,
+    "maxValue": 3360
+  },
+  {
+    "gearId": 9014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 9015,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 3360,
+    "maxValue": 3360
+  },
+  {
+    "gearId": 9015,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 3360,
+    "maxValue": 3360
+  },
+  {
+    "gearId": 9015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 9016,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 9254,
+    "maxValue": 9254
+  },
+  {
+    "gearId": 9016,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 9254,
+    "maxValue": 9254
+  },
+  {
+    "gearId": 9016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 9017,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 9254,
+    "maxValue": 9254
+  },
+  {
+    "gearId": 9017,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 9254,
+    "maxValue": 9254
+  },
+  {
+    "gearId": 9017,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 9018,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 9254,
+    "maxValue": 9254
+  },
+  {
+    "gearId": 9018,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 9254,
+    "maxValue": 9254
+  },
+  {
+    "gearId": 9018,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 9019,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 22513,
+    "maxValue": 22513
+  },
+  {
+    "gearId": 9019,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 22513,
+    "maxValue": 22513
+  },
+  {
+    "gearId": 9019,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 9020,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 22513,
+    "maxValue": 22513
+  },
+  {
+    "gearId": 9020,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 22513,
+    "maxValue": 22513
+  },
+  {
+    "gearId": 9020,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 9021,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 22513,
+    "maxValue": 22513
+  },
+  {
+    "gearId": 9021,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 22513,
+    "maxValue": 22513
+  },
+  {
+    "gearId": 9021,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 9022,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 51167,
+    "maxValue": 51167
+  },
+  {
+    "gearId": 9022,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 51167,
+    "maxValue": 51167
+  },
+  {
+    "gearId": 9022,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 9023,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 51167,
+    "maxValue": 51167
+  },
+  {
+    "gearId": 9023,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 51167,
+    "maxValue": 51167
+  },
+  {
+    "gearId": 9023,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 9024,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 51167,
+    "maxValue": 51167
+  },
+  {
+    "gearId": 9024,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 51167,
+    "maxValue": 51167
+  },
+  {
+    "gearId": 9024,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 10001,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 10001,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 10001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 10002,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 10002,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 10002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 10003,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 10003,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 10003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 10004,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 10004,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 10004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 10005,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 10005,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 10005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 10006,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 10006,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 10006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 10007,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 10007,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 10007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 10008,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 10008,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 10008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 10009,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 10009,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 10009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 10010,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 10010,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 10010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 10011,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 10011,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 10011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 10012,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 10012,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 10012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 10013,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 10013,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 10013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 10014,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 10014,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 10014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 10015,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 10015,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 10015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 10016,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 10016,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 10016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 10017,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 10017,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 10017,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 10018,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 10018,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 10018,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 10019,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 10019,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 10019,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 10020,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 10020,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 10020,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 10021,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 10021,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 10021,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 10022,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 10022,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 10022,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 10023,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 10023,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 10023,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 10024,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 10024,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 10024,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 11001,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 11001,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 11001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 11002,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 11002,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 11002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 11003,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 11003,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 11003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 11004,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 11004,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 11004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 11005,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 11005,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 11005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 11006,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 11006,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 11006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 11007,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 11007,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 11007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 11008,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 11008,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 11008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 11009,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 11009,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 11009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 11010,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 11010,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 11010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 11011,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 11011,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 11011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 11012,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 11012,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 11012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 11013,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 11013,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 11013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 11014,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 11014,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 11014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 11015,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 11015,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 11015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 11016,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 11016,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 11016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 11017,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 11017,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 11017,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 11018,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 11018,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 11018,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 11019,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 11019,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 11019,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 11020,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 11020,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 11020,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 11021,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 11021,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 11021,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 11022,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 11022,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 11022,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 11023,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 11023,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 11023,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 11024,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 11024,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 11024,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 12001,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 12001,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 12001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 12002,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 12002,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 12002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 12003,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 12003,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 12003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 12004,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 12004,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 12004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 12005,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 12005,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 12005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 12006,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 12006,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 12006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 12007,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 12007,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 12007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 12008,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 12008,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 12008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 12009,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 12009,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 12009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 12010,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 12010,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 12010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 12011,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 12011,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 12011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 12012,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 12012,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 12012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 12013,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 12013,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 12013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 12014,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 12014,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 12014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 13001,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 13001,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 13001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 13002,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 13002,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 13002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 13003,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 13003,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 13003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 13004,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 13004,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 13004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 13005,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 13005,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 13005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 13006,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 13006,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 13006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 13007,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 13007,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 13007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 13008,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 13008,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 13008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 13009,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 13009,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 13009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 13010,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 13010,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 13010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 13011,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 13011,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 13011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 13012,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 13012,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 13012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 13013,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 13013,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 13013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 13014,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 13014,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 13014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 14001,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 14001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 14002,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 14002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 14003,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 14003,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 14003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 14004,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 14004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 14005,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 14005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 14006,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 14006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 14007,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 14007,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 14007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 14008,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 14008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 14009,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 14009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 14010,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 14010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 14011,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 14011,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 14011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 14012,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 14012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 14013,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 14013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 14014,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 14014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 14015,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 14015,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 14015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 14016,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 14016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 14017,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 14017,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 14018,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 14018,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 14019,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 14019,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 14019,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 14020,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 14020,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 14021,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 14021,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 14022,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 14022,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 14023,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 14023,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 14023,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 14024,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 14024,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 14025,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 14025,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 14026,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 14026,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 14027,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 14027,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 14027,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 14028,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 14028,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 15001,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 15001,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1,
+    "maxValue": 1
+  },
+  {
+    "gearId": 15001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 15002,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 15002,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 26,
+    "maxValue": 26
+  },
+  {
+    "gearId": 15002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 15003,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 15003,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 89,
+    "maxValue": 89
+  },
+  {
+    "gearId": 15003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 15004,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 15004,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 207,
+    "maxValue": 207
+  },
+  {
+    "gearId": 15004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 15005,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 15005,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 672,
+    "maxValue": 672
+  },
+  {
+    "gearId": 15005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 15006,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 15006,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 1851,
+    "maxValue": 1851
+  },
+  {
+    "gearId": 15006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 15007,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 15007,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 4503,
+    "maxValue": 4503
+  },
+  {
+    "gearId": 15007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 15008,
+    "type": 1,
+    "attrId": 9,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 15008,
+    "type": 1,
+    "attrId": 10,
+    "minValue": 10234,
+    "maxValue": 10234
+  },
+  {
+    "gearId": 15008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 22001,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 22001,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 22001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 22002,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 22002,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 22002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 22003,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 22003,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 22003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 22004,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 22004,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 22004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 22005,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 22005,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 22005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 22006,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 22006,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 22006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 22007,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 22007,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 22007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 22008,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 22008,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 22008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 22009,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 22009,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 22009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 22010,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 22010,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 22010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 22011,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 22011,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 22011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 22012,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 22012,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 22012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 22013,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 22013,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 22013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 22014,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 22014,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 22014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 22015,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 22015,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 22015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 22016,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 22016,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 22016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 23001,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 23001,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 23001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 23002,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 23002,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 23002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 23003,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 23003,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 23003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 23004,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 23004,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 23004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 23005,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 23005,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 23005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 23006,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 23006,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 23006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 23007,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 23007,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 23007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 23008,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 23008,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 23008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 23009,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 23009,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 23009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 23010,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 23010,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 23010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 23011,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 23011,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 23011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 23012,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 23012,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 23012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 23013,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 23013,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 23013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 23014,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 23014,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 23014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 23015,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 23015,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 23015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 23016,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 23016,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 23016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 24001,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 24001,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 24002,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 24002,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 24003,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 24003,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 24003,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 24004,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 30,
+    "maxValue": 30
+  },
+  {
+    "gearId": 24004,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 100,
+    "maxValue": 100
+  },
+  {
+    "gearId": 24005,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 24005,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 24006,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 24006,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 24007,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 24007,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 24007,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 24008,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 130,
+    "maxValue": 130
+  },
+  {
+    "gearId": 24008,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 200,
+    "maxValue": 200
+  },
+  {
+    "gearId": 24009,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 24009,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 24010,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 24010,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 24011,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 24011,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 24011,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 24012,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 230,
+    "maxValue": 230
+  },
+  {
+    "gearId": 24012,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 300,
+    "maxValue": 300
+  },
+  {
+    "gearId": 24013,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 24013,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 24014,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 24014,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 24015,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 24015,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 24015,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 24016,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 330,
+    "maxValue": 330
+  },
+  {
+    "gearId": 24016,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 400,
+    "maxValue": 400
+  },
+  {
+    "gearId": 24017,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 24017,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 24018,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 24018,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 24019,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 24019,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 24019,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 24020,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 430,
+    "maxValue": 430
+  },
+  {
+    "gearId": 24020,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 500,
+    "maxValue": 500
+  },
+  {
+    "gearId": 24021,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 24021,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 24022,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 24022,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 24023,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 24023,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 24023,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 24024,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 530,
+    "maxValue": 530
+  },
+  {
+    "gearId": 24024,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 600,
+    "maxValue": 600
+  },
+  {
+    "gearId": 24025,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 24025,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 24026,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 24026,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 24027,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 24027,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 24027,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 24028,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 630,
+    "maxValue": 630
+  },
+  {
+    "gearId": 24028,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 700,
+    "maxValue": 700
+  },
+  {
+    "gearId": 24029,
+    "type": 1,
+    "attrId": 17,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 24029,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 24030,
+    "type": 1,
+    "attrId": 18,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 24030,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 24031,
+    "type": 1,
+    "attrId": 29,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 24031,
+    "type": 1,
+    "attrId": 30,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 24031,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  },
+  {
+    "gearId": 24032,
+    "type": 1,
+    "attrId": 19,
+    "minValue": 730,
+    "maxValue": 730
+  },
+  {
+    "gearId": 24032,
+    "type": 3,
+    "attrId": 13,
+    "minValue": 800,
+    "maxValue": 800
+  }
+]

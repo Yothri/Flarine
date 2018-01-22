@@ -1,0 +1,22 @@
+{
+  "requiredMainQuestId": 145,
+  "requiredMountTier": 3,
+  "recommendPower": 100000,
+  "sceneName": "Nightmareisland",
+  "startXPosition": -2.1,
+  "startYPosition": 3.07,
+  "startZPosition": -69.61,
+  "startRadius": 5.0,
+  "startDelayTime": 180,
+  "battleDelayTime": 30,
+  "limitTime": 300,
+  "resurrectionInvincibleTime": 10,
+  "openTime": 70200,
+  "maxMemberCount": 60,
+  "maxMemberCountPerTeam": 30,
+  "pointPerKill": 5,
+  "rewardDuration": 10,
+  "maxPlayCount": 1,
+  "winPoint": 500,
+  "locationId": 111
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": 1,
+    "turn": 1,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 1,
+    "turn": 2,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 1,
+    "turn": 3,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 2,
+    "turn": 1,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 2,
+    "turn": 2,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 2,
+    "turn": 3,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 3,
+    "turn": 1,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 3,
+    "turn": 2,
+    "itemId": 52001
+  },
+  {
+    "difficulty": 3,
+    "turn": 3,
+    "itemId": 52001
+  }
+]

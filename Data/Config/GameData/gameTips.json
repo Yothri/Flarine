@@ -1,0 +1,176 @@
+[
+  {
+    "tipNo": 1,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0001",
+    "imageName": "ico_loadingmenu_03"
+  },
+  {
+    "tipNo": 2,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0002",
+    "imageName": "ico_loadingmenu_04"
+  },
+  {
+    "tipNo": 3,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0003",
+    "imageName": "ico_loadingmenu_10"
+  },
+  {
+    "tipNo": 4,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0004",
+    "imageName": "ico_loadingmenu_11"
+  },
+  {
+    "tipNo": 5,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0005",
+    "imageName": "ico_loadingmenu_02"
+  },
+  {
+    "tipNo": 6,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0006",
+    "imageName": "ico_loadingmenu_12"
+  },
+  {
+    "tipNo": 7,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0007",
+    "imageName": "ico_loadingmenu_09"
+  },
+  {
+    "tipNo": 8,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0008",
+    "imageName": "ico_loadingmenu_13"
+  },
+  {
+    "tipNo": 9,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0009",
+    "imageName": "ico_loadingmenu_06"
+  },
+  {
+    "tipNo": 10,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0010",
+    "imageName": "ico_loadingmenu_06"
+  },
+  {
+    "tipNo": 11,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0011",
+    "imageName": "ico_loadingmenu_02"
+  },
+  {
+    "tipNo": 12,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0012",
+    "imageName": "ico_loadingmenu_02"
+  },
+  {
+    "tipNo": 13,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0013",
+    "imageName": "ico_loadingmenu_02"
+  },
+  {
+    "tipNo": 14,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0014",
+    "imageName": "ico_loadingmenu_09"
+  },
+  {
+    "tipNo": 15,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0015",
+    "imageName": "ico_loadingmenu_09"
+  },
+  {
+    "tipNo": 16,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0016",
+    "imageName": "ico_loadingmenu_09"
+  },
+  {
+    "tipNo": 17,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0017",
+    "imageName": "ico_loadingmenu_09"
+  },
+  {
+    "tipNo": 18,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0018",
+    "imageName": "ico_loadingmenu_08"
+  },
+  {
+    "tipNo": 19,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0019",
+    "imageName": "ico_loadingmenu_08"
+  },
+  {
+    "tipNo": 20,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0020",
+    "imageName": "ico_loadingmenu_08"
+  },
+  {
+    "tipNo": 21,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0021",
+    "imageName": "ico_loadingmenu_09"
+  },
+  {
+    "tipNo": 22,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0022",
+    "imageName": "ico_loadingmenu_02"
+  },
+  {
+    "tipNo": 23,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0023",
+    "imageName": "ico_loadingmenu_01"
+  },
+  {
+    "tipNo": 24,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0024",
+    "imageName": "ico_loadingmenu_01"
+  },
+  {
+    "tipNo": 25,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0025",
+    "imageName": "ico_loadingmenu_01"
+  },
+  {
+    "tipNo": 26,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0026",
+    "imageName": "ico_loadingmenu_07"
+  },
+  {
+    "tipNo": 27,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0027",
+    "imageName": "ico_loadingmenu_05"
+  },
+  {
+    "tipNo": 28,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0028",
+    "imageName": "ico_loadingmenu_07"
+  },
+  {
+    "tipNo": 30,
+    "description": "",
+    "descriptionKey": "LODING_DESC_0030",
+    "imageName": "ico_loadingmenu_14"
+  }
+]

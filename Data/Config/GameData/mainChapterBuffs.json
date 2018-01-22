@@ -1,0 +1,352 @@
+[
+  {
+    "chapterId": 1,
+    "attrId": 5,
+    "value": 15.0
+  },
+  {
+    "chapterId": 1,
+    "attrId": 7,
+    "value": 2.0
+  },
+  {
+    "chapterId": 1,
+    "attrId": 8,
+    "value": 2.0
+  },
+  {
+    "chapterId": 1,
+    "attrId": 9,
+    "value": 1.0
+  },
+  {
+    "chapterId": 1,
+    "attrId": 10,
+    "value": 1.0
+  },
+  {
+    "chapterId": 1,
+    "attrId": 11,
+    "value": 1.0
+  },
+  {
+    "chapterId": 1,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 5,
+    "value": 33.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 7,
+    "value": 4.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 8,
+    "value": 4.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 11,
+    "value": 2.0
+  },
+  {
+    "chapterId": 2,
+    "attrId": 12,
+    "value": 1.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 5,
+    "value": 365.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 7,
+    "value": 39.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 8,
+    "value": 39.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 9,
+    "value": 20.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 10,
+    "value": 20.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 11,
+    "value": 12.0
+  },
+  {
+    "chapterId": 3,
+    "attrId": 12,
+    "value": 6.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 5,
+    "value": 550.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 7,
+    "value": 58.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 8,
+    "value": 58.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 9,
+    "value": 29.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 10,
+    "value": 29.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 11,
+    "value": 18.0
+  },
+  {
+    "chapterId": 4,
+    "attrId": 12,
+    "value": 9.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 5,
+    "value": 654.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 7,
+    "value": 69.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 8,
+    "value": 69.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 9,
+    "value": 35.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 10,
+    "value": 35.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 11,
+    "value": 22.0
+  },
+  {
+    "chapterId": 5,
+    "attrId": 12,
+    "value": 11.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 5,
+    "value": 2630.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 7,
+    "value": 277.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 8,
+    "value": 277.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 9,
+    "value": 139.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 10,
+    "value": 139.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 11,
+    "value": 85.0
+  },
+  {
+    "chapterId": 6,
+    "attrId": 12,
+    "value": 43.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 5,
+    "value": 8872.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 7,
+    "value": 932.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 8,
+    "value": 932.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 9,
+    "value": 466.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 10,
+    "value": 466.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 11,
+    "value": 287.0
+  },
+  {
+    "chapterId": 7,
+    "attrId": 12,
+    "value": 144.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 5,
+    "value": 35744.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 7,
+    "value": 3755.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 8,
+    "value": 3755.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 9,
+    "value": 1878.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 10,
+    "value": 1878.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 11,
+    "value": 1156.0
+  },
+  {
+    "chapterId": 8,
+    "attrId": 12,
+    "value": 578.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 5,
+    "value": 55450.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 7,
+    "value": 5825.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 8,
+    "value": 5825.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 9,
+    "value": 2913.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 10,
+    "value": 2913.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 11,
+    "value": 1793.0
+  },
+  {
+    "chapterId": 9,
+    "attrId": 12,
+    "value": 897.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 5,
+    "value": 125594.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 7,
+    "value": 13194.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 8,
+    "value": 13194.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 9,
+    "value": 6597.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 10,
+    "value": 6597.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 11,
+    "value": 4060.0
+  },
+  {
+    "chapterId": 10,
+    "attrId": 12,
+    "value": 2030.0
+  }
+]

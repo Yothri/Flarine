@@ -1,0 +1,44 @@
+[
+  {
+    "expDungeonId": 1,
+    "tradition": 0,
+    "rewardNo": 1,
+    "itemId": 23001
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 1,
+    "rewardNo": 1,
+    "itemId": 23001
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 2,
+    "rewardNo": 1,
+    "itemId": 23001
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 3,
+    "rewardNo": 1,
+    "itemId": 23001
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 4,
+    "rewardNo": 1,
+    "itemId": 23001
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 5,
+    "rewardNo": 1,
+    "itemId": 23001
+  },
+  {
+    "expDungeonId": 1,
+    "tradition": 6,
+    "rewardNo": 1,
+    "itemId": 23001
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "guildMemberGrade": 1,
+    "name": "",
+    "nameKey": "GMEMBER_NAME_001"
+  },
+  {
+    "guildMemberGrade": 2,
+    "name": "",
+    "nameKey": "GMEMBER_NAME_002"
+  },
+  {
+    "guildMemberGrade": 3,
+    "name": "",
+    "nameKey": "GMEMBER_NAME_003"
+  }
+]

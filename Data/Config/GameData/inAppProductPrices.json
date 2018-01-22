@@ -1,0 +1,392 @@
+[
+  {
+    "inAppProductId": 1,
+    "storeType": 1,
+    "priceString": "$2.99"
+  },
+  {
+    "inAppProductId": 1,
+    "storeType": 2,
+    "priceString": "$2.99"
+  },
+  {
+    "inAppProductId": 1,
+    "storeType": 3,
+    "priceString": "$2.99"
+  },
+  {
+    "inAppProductId": 2,
+    "storeType": 1,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 2,
+    "storeType": 2,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 2,
+    "storeType": 3,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 3,
+    "storeType": 1,
+    "priceString": "$10.99"
+  },
+  {
+    "inAppProductId": 3,
+    "storeType": 2,
+    "priceString": "$10.99"
+  },
+  {
+    "inAppProductId": 3,
+    "storeType": 3,
+    "priceString": "$10.99"
+  },
+  {
+    "inAppProductId": 4,
+    "storeType": 1,
+    "priceString": "$32.99"
+  },
+  {
+    "inAppProductId": 4,
+    "storeType": 2,
+    "priceString": "$32.99"
+  },
+  {
+    "inAppProductId": 4,
+    "storeType": 3,
+    "priceString": "$32.99"
+  },
+  {
+    "inAppProductId": 5,
+    "storeType": 1,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 5,
+    "storeType": 2,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 5,
+    "storeType": 3,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 6,
+    "storeType": 1,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 6,
+    "storeType": 2,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 6,
+    "storeType": 3,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 8,
+    "storeType": 1,
+    "priceString": "$21.99"
+  },
+  {
+    "inAppProductId": 8,
+    "storeType": 2,
+    "priceString": "$21.99"
+  },
+  {
+    "inAppProductId": 8,
+    "storeType": 3,
+    "priceString": "$21.99"
+  },
+  {
+    "inAppProductId": 9,
+    "storeType": 1,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 9,
+    "storeType": 2,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 9,
+    "storeType": 3,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 10,
+    "storeType": 1,
+    "priceString": "$10.99"
+  },
+  {
+    "inAppProductId": 10,
+    "storeType": 2,
+    "priceString": "$10.99"
+  },
+  {
+    "inAppProductId": 10,
+    "storeType": 3,
+    "priceString": "$10.99"
+  },
+  {
+    "inAppProductId": 11,
+    "storeType": 1,
+    "priceString": "$21.99"
+  },
+  {
+    "inAppProductId": 11,
+    "storeType": 2,
+    "priceString": "$21.99"
+  },
+  {
+    "inAppProductId": 11,
+    "storeType": 3,
+    "priceString": "$21.99"
+  },
+  {
+    "inAppProductId": 12,
+    "storeType": 1,
+    "priceString": "$32.99"
+  },
+  {
+    "inAppProductId": 12,
+    "storeType": 2,
+    "priceString": "$32.99"
+  },
+  {
+    "inAppProductId": 12,
+    "storeType": 3,
+    "priceString": "$32.99"
+  },
+  {
+    "inAppProductId": 13,
+    "storeType": 1,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 13,
+    "storeType": 2,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 13,
+    "storeType": 3,
+    "priceString": "$54.99"
+  },
+  {
+    "inAppProductId": 14,
+    "storeType": 1,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 14,
+    "storeType": 2,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 14,
+    "storeType": 3,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 15,
+    "storeType": 1,
+    "priceString": "$2.99"
+  },
+  {
+    "inAppProductId": 15,
+    "storeType": 2,
+    "priceString": "$2.99"
+  },
+  {
+    "inAppProductId": 15,
+    "storeType": 3,
+    "priceString": "$2.99"
+  },
+  {
+    "inAppProductId": 16,
+    "storeType": 1,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 16,
+    "storeType": 2,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 16,
+    "storeType": 3,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 17,
+    "storeType": 1,
+    "priceString": "$24.99"
+  },
+  {
+    "inAppProductId": 17,
+    "storeType": 2,
+    "priceString": "$24.99"
+  },
+  {
+    "inAppProductId": 17,
+    "storeType": 3,
+    "priceString": "$24.99"
+  },
+  {
+    "inAppProductId": 18,
+    "storeType": 1,
+    "priceString": "$9.99"
+  },
+  {
+    "inAppProductId": 18,
+    "storeType": 2,
+    "priceString": "$9.99"
+  },
+  {
+    "inAppProductId": 18,
+    "storeType": 3,
+    "priceString": "$9.99"
+  },
+  {
+    "inAppProductId": 19,
+    "storeType": 1,
+    "priceString": "$32.99 "
+  },
+  {
+    "inAppProductId": 19,
+    "storeType": 2,
+    "priceString": "$32.99 "
+  },
+  {
+    "inAppProductId": 19,
+    "storeType": 3,
+    "priceString": "$32.99 "
+  },
+  {
+    "inAppProductId": 20,
+    "storeType": 1,
+    "priceString": "$32.99 "
+  },
+  {
+    "inAppProductId": 20,
+    "storeType": 2,
+    "priceString": "$32.99 "
+  },
+  {
+    "inAppProductId": 20,
+    "storeType": 3,
+    "priceString": "$32.99 "
+  },
+  {
+    "inAppProductId": 21,
+    "storeType": 1,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 21,
+    "storeType": 2,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 21,
+    "storeType": 3,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 22,
+    "storeType": 1,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 22,
+    "storeType": 2,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 22,
+    "storeType": 3,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 23,
+    "storeType": 1,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 23,
+    "storeType": 2,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 23,
+    "storeType": 3,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 24,
+    "storeType": 1,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 24,
+    "storeType": 2,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 24,
+    "storeType": 3,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 25,
+    "storeType": 1,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 25,
+    "storeType": 2,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 25,
+    "storeType": 3,
+    "priceString": "$54.99 "
+  },
+  {
+    "inAppProductId": 40,
+    "storeType": 1,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 40,
+    "storeType": 2,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 40,
+    "storeType": 3,
+    "priceString": "$99.99"
+  },
+  {
+    "inAppProductId": 41,
+    "storeType": 1,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 41,
+    "storeType": 2,
+    "priceString": "$4.99"
+  },
+  {
+    "inAppProductId": 41,
+    "storeType": 3,
+    "priceString": "$4.99"
+  }
+]

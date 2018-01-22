@@ -1,0 +1,19 @@
+{
+  "requiredMainQuestId": 145,
+  "requiredMountTier": 3,
+  "recommendPower": 100000,
+  "sceneName": "Gothanmine",
+  "startXPosition": 57.9,
+  "startYPosition": 3.04,
+  "startZPosition": 34.52,
+  "startRadius": 5.0,
+  "startDelayTime": 180,
+  "limitTime": 300,
+  "openTime": 73800,
+  "maxMemberCount": 60,
+  "maxMemberCountPerJob": 20,
+  "pointPerKill": 5,
+  "rewardDuration": 10,
+  "maxPlayCount": 1,
+  "locationId": 111
+}

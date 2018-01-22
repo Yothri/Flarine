@@ -1,0 +1,142 @@
+[
+  {
+    "tradition": 0,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 0,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 0,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 0,
+    "rewardNo": 4,
+    "itemId": 17002
+  },
+  {
+    "tradition": 1,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 1,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 1,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 1,
+    "rewardNo": 4,
+    "itemId": 17002
+  },
+  {
+    "tradition": 2,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 2,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 2,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 2,
+    "rewardNo": 4,
+    "itemId": 17002
+  },
+  {
+    "tradition": 3,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 3,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 3,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 3,
+    "rewardNo": 4,
+    "itemId": 17002
+  },
+  {
+    "tradition": 4,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 4,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 4,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 4,
+    "rewardNo": 4,
+    "itemId": 17002
+  },
+  {
+    "tradition": 5,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 5,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 5,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 5,
+    "rewardNo": 4,
+    "itemId": 17002
+  },
+  {
+    "tradition": 6,
+    "rewardNo": 1,
+    "itemId": 10001
+  },
+  {
+    "tradition": 6,
+    "rewardNo": 2,
+    "itemId": 10002
+  },
+  {
+    "tradition": 6,
+    "rewardNo": 3,
+    "itemId": 17001
+  },
+  {
+    "tradition": 6,
+    "rewardNo": 4,
+    "itemId": 17002
+  }
+]

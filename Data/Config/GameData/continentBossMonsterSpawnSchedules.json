@@ -1,0 +1,177 @@
+[
+  {
+    "continentId": 1,
+    "scheduleId": 1,
+    "spawnTime": 32400
+  },
+  {
+    "continentId": 1,
+    "scheduleId": 2,
+    "spawnTime": 54000
+  },
+  {
+    "continentId": 1,
+    "scheduleId": 3,
+    "spawnTime": 64800
+  },
+  {
+    "continentId": 1,
+    "scheduleId": 4,
+    "spawnTime": 72000
+  },
+  {
+    "continentId": 1,
+    "scheduleId": 5,
+    "spawnTime": 82800
+  },
+  {
+    "continentId": 2,
+    "scheduleId": 1,
+    "spawnTime": 36000
+  },
+  {
+    "continentId": 2,
+    "scheduleId": 2,
+    "spawnTime": 57600
+  },
+  {
+    "continentId": 2,
+    "scheduleId": 3,
+    "spawnTime": 68400
+  },
+  {
+    "continentId": 2,
+    "scheduleId": 4,
+    "spawnTime": 75600
+  },
+  {
+    "continentId": 2,
+    "scheduleId": 5,
+    "spawnTime": 79200
+  },
+  {
+    "continentId": 3,
+    "scheduleId": 1,
+    "spawnTime": 39600
+  },
+  {
+    "continentId": 3,
+    "scheduleId": 2,
+    "spawnTime": 50400
+  },
+  {
+    "continentId": 3,
+    "scheduleId": 3,
+    "spawnTime": 61200
+  },
+  {
+    "continentId": 3,
+    "scheduleId": 4,
+    "spawnTime": 73800
+  },
+  {
+    "continentId": 3,
+    "scheduleId": 5,
+    "spawnTime": 81000
+  },
+  {
+    "continentId": 4,
+    "scheduleId": 1,
+    "spawnTime": 32400
+  },
+  {
+    "continentId": 4,
+    "scheduleId": 2,
+    "spawnTime": 54000
+  },
+  {
+    "continentId": 4,
+    "scheduleId": 3,
+    "spawnTime": 64800
+  },
+  {
+    "continentId": 4,
+    "scheduleId": 4,
+    "spawnTime": 72000
+  },
+  {
+    "continentId": 4,
+    "scheduleId": 5,
+    "spawnTime": 82800
+  },
+  {
+    "continentId": 5,
+    "scheduleId": 1,
+    "spawnTime": 36000
+  },
+  {
+    "continentId": 5,
+    "scheduleId": 2,
+    "spawnTime": 57600
+  },
+  {
+    "continentId": 5,
+    "scheduleId": 3,
+    "spawnTime": 68400
+  },
+  {
+    "continentId": 5,
+    "scheduleId": 4,
+    "spawnTime": 75600
+  },
+  {
+    "continentId": 5,
+    "scheduleId": 5,
+    "spawnTime": 79200
+  },
+  {
+    "continentId": 6,
+    "scheduleId": 1,
+    "spawnTime": 39600
+  },
+  {
+    "continentId": 6,
+    "scheduleId": 2,
+    "spawnTime": 50400
+  },
+  {
+    "continentId": 6,
+    "scheduleId": 3,
+    "spawnTime": 61200
+  },
+  {
+    "continentId": 6,
+    "scheduleId": 4,
+    "spawnTime": 73800
+  },
+  {
+    "continentId": 6,
+    "scheduleId": 5,
+    "spawnTime": 81000
+  },
+  {
+    "continentId": 7,
+    "scheduleId": 1,
+    "spawnTime": 32400
+  },
+  {
+    "continentId": 7,
+    "scheduleId": 2,
+    "spawnTime": 54000
+  },
+  {
+    "continentId": 7,
+    "scheduleId": 3,
+    "spawnTime": 64800
+  },
+  {
+    "continentId": 7,
+    "scheduleId": 4,
+    "spawnTime": 72000
+  },
+  {
+    "continentId": 7,
+    "scheduleId": 5,
+    "spawnTime": 82800
+  }
+]

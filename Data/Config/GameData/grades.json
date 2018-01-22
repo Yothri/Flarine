@@ -1,0 +1,37 @@
+[
+  {
+    "grade": 1,
+    "name": "",
+    "nameKey": "GRADE_NAME_0001",
+    "maxGearAttrEnchantLevel": 20,
+    "runeEnchantEnabled": false
+  },
+  {
+    "grade": 2,
+    "name": "",
+    "nameKey": "GRADE_NAME_0002",
+    "maxGearAttrEnchantLevel": 40,
+    "runeEnchantEnabled": true
+  },
+  {
+    "grade": 3,
+    "name": "",
+    "nameKey": "GRADE_NAME_0003",
+    "maxGearAttrEnchantLevel": 60,
+    "runeEnchantEnabled": true
+  },
+  {
+    "grade": 4,
+    "name": "",
+    "nameKey": "GRADE_NAME_0004",
+    "maxGearAttrEnchantLevel": 80,
+    "runeEnchantEnabled": true
+  },
+  {
+    "grade": 5,
+    "name": "",
+    "nameKey": "GRADE_NAME_0005",
+    "maxGearAttrEnchantLevel": 100,
+    "runeEnchantEnabled": true
+  }
+]

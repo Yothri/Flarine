@@ -1,0 +1,562 @@
+[
+  {
+    "continentId": 1,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 1,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 1,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 2,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 2,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 3,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 3,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 4,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 4,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 5,
+    "owned": true
+  },
+  {
+    "continentId": 1,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 5,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 4,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 4,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 5,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 5,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 6,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 6,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 7,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 7,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 8,
+    "owned": true
+  },
+  {
+    "continentId": 2,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 8,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 7,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 7,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 8,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 8,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 9,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 9,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 10,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 10,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 11,
+    "owned": true
+  },
+  {
+    "continentId": 3,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 11,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 10,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 10,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 11,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 11,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 12,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 12,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 13,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 13,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 14,
+    "owned": true
+  },
+  {
+    "continentId": 4,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 14,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 13,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 13,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 14,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 14,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 15,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 15,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 16,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 16,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 17,
+    "owned": true
+  },
+  {
+    "continentId": 5,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 17,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 16,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 16,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 17,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 17,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 18,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 18,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 19,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 19,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 20,
+    "owned": true
+  },
+  {
+    "continentId": 6,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 20,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 1,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 19,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 1,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 19,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 2,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 20,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 2,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 20,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 3,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 21,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 3,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 21,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 4,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 22,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 4,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 22,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 5,
+    "entryNo": 1,
+    "itemId": 10002,
+    "count": 23,
+    "owned": true
+  },
+  {
+    "continentId": 7,
+    "round": 5,
+    "entryNo": 2,
+    "itemId": 27002,
+    "count": 23,
+    "owned": true
+  }
+]

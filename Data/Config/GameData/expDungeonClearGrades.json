@@ -1,0 +1,27 @@
+[
+  {
+    "expDungeonClearGradeId": 1,
+    "playTimeLimit": 180,
+    "expRewardRate": 10000
+  },
+  {
+    "expDungeonClearGradeId": 2,
+    "playTimeLimit": 300,
+    "expRewardRate": 9000
+  },
+  {
+    "expDungeonClearGradeId": 3,
+    "playTimeLimit": 420,
+    "expRewardRate": 8000
+  },
+  {
+    "expDungeonClearGradeId": 4,
+    "playTimeLimit": 540,
+    "expRewardRate": 7000
+  },
+  {
+    "expDungeonClearGradeId": 5,
+    "playTimeLimit": 600,
+    "expRewardRate": 6000
+  }
+]

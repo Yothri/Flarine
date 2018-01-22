@@ -1,0 +1,252 @@
+[
+  {
+    "rewardId": 1,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 2,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 3,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 4,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 5,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 6,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 7,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 8,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 9,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 10,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 11,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 12,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 13,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 14,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 15,
+    "exp": 0,
+    "starEssense": 0
+  },
+  {
+    "rewardId": 16,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 17,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 18,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 19,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 20,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 21,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 22,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 23,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 24,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 25,
+    "exp": 26312,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 26,
+    "exp": 57112,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 27,
+    "exp": 57112,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 28,
+    "exp": 57112,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 29,
+    "exp": 57112,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 30,
+    "exp": 57112,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 31,
+    "exp": 171126,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 32,
+    "exp": 171126,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 33,
+    "exp": 171126,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 34,
+    "exp": 171126,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 35,
+    "exp": 171126,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 36,
+    "exp": 510144,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 37,
+    "exp": 510144,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 38,
+    "exp": 510144,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 39,
+    "exp": 510144,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 40,
+    "exp": 510144,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 41,
+    "exp": 1520423,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 42,
+    "exp": 1520423,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 43,
+    "exp": 1520423,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 44,
+    "exp": 1520423,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 45,
+    "exp": 1520423,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 46,
+    "exp": 4528648,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 47,
+    "exp": 4528648,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 48,
+    "exp": 4528648,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 49,
+    "exp": 4528648,
+    "starEssense": 2000
+  },
+  {
+    "rewardId": 50,
+    "exp": 4528648,
+    "starEssense": 2000
+  }
+]

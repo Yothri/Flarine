@@ -1,0 +1,902 @@
+[
+  {
+    "fameId": 1,
+    "attrId": 5,
+    "value": 30.0
+  },
+  {
+    "fameId": 1,
+    "attrId": 7,
+    "value": 2.0
+  },
+  {
+    "fameId": 1,
+    "attrId": 8,
+    "value": 2.0
+  },
+  {
+    "fameId": 1,
+    "attrId": 9,
+    "value": 2.0
+  },
+  {
+    "fameId": 1,
+    "attrId": 10,
+    "value": 2.0
+  },
+  {
+    "fameId": 1,
+    "attrId": 11,
+    "value": 1.0
+  },
+  {
+    "fameId": 2,
+    "attrId": 5,
+    "value": 1308.0
+  },
+  {
+    "fameId": 2,
+    "attrId": 7,
+    "value": 69.0
+  },
+  {
+    "fameId": 2,
+    "attrId": 8,
+    "value": 69.0
+  },
+  {
+    "fameId": 2,
+    "attrId": 9,
+    "value": 52.0
+  },
+  {
+    "fameId": 2,
+    "attrId": 10,
+    "value": 52.0
+  },
+  {
+    "fameId": 2,
+    "attrId": 11,
+    "value": 22.0
+  },
+  {
+    "fameId": 3,
+    "attrId": 5,
+    "value": 3971.0
+  },
+  {
+    "fameId": 3,
+    "attrId": 7,
+    "value": 209.0
+  },
+  {
+    "fameId": 3,
+    "attrId": 8,
+    "value": 209.0
+  },
+  {
+    "fameId": 3,
+    "attrId": 9,
+    "value": 157.0
+  },
+  {
+    "fameId": 3,
+    "attrId": 10,
+    "value": 157.0
+  },
+  {
+    "fameId": 3,
+    "attrId": 11,
+    "value": 65.0
+  },
+  {
+    "fameId": 4,
+    "attrId": 5,
+    "value": 5260.0
+  },
+  {
+    "fameId": 4,
+    "attrId": 7,
+    "value": 277.0
+  },
+  {
+    "fameId": 4,
+    "attrId": 8,
+    "value": 277.0
+  },
+  {
+    "fameId": 4,
+    "attrId": 9,
+    "value": 208.0
+  },
+  {
+    "fameId": 4,
+    "attrId": 10,
+    "value": 208.0
+  },
+  {
+    "fameId": 4,
+    "attrId": 11,
+    "value": 85.0
+  },
+  {
+    "fameId": 5,
+    "attrId": 5,
+    "value": 12057.0
+  },
+  {
+    "fameId": 5,
+    "attrId": 7,
+    "value": 634.0
+  },
+  {
+    "fameId": 5,
+    "attrId": 8,
+    "value": 634.0
+  },
+  {
+    "fameId": 5,
+    "attrId": 9,
+    "value": 475.0
+  },
+  {
+    "fameId": 5,
+    "attrId": 10,
+    "value": 475.0
+  },
+  {
+    "fameId": 5,
+    "attrId": 11,
+    "value": 195.0
+  },
+  {
+    "fameId": 6,
+    "attrId": 5,
+    "value": 14207.0
+  },
+  {
+    "fameId": 6,
+    "attrId": 7,
+    "value": 747.0
+  },
+  {
+    "fameId": 6,
+    "attrId": 8,
+    "value": 747.0
+  },
+  {
+    "fameId": 6,
+    "attrId": 9,
+    "value": 560.0
+  },
+  {
+    "fameId": 6,
+    "attrId": 10,
+    "value": 560.0
+  },
+  {
+    "fameId": 6,
+    "attrId": 11,
+    "value": 230.0
+  },
+  {
+    "fameId": 7,
+    "attrId": 5,
+    "value": 17744.0
+  },
+  {
+    "fameId": 7,
+    "attrId": 7,
+    "value": 932.0
+  },
+  {
+    "fameId": 7,
+    "attrId": 8,
+    "value": 932.0
+  },
+  {
+    "fameId": 7,
+    "attrId": 9,
+    "value": 699.0
+  },
+  {
+    "fameId": 7,
+    "attrId": 10,
+    "value": 699.0
+  },
+  {
+    "fameId": 7,
+    "attrId": 11,
+    "value": 287.0
+  },
+  {
+    "fameId": 8,
+    "attrId": 5,
+    "value": 32183.0
+  },
+  {
+    "fameId": 8,
+    "attrId": 7,
+    "value": 1691.0
+  },
+  {
+    "fameId": 8,
+    "attrId": 8,
+    "value": 1691.0
+  },
+  {
+    "fameId": 8,
+    "attrId": 9,
+    "value": 1268.0
+  },
+  {
+    "fameId": 8,
+    "attrId": 10,
+    "value": 1268.0
+  },
+  {
+    "fameId": 8,
+    "attrId": 11,
+    "value": 521.0
+  },
+  {
+    "fameId": 9,
+    "attrId": 5,
+    "value": 37343.0
+  },
+  {
+    "fameId": 9,
+    "attrId": 7,
+    "value": 1962.0
+  },
+  {
+    "fameId": 9,
+    "attrId": 8,
+    "value": 1962.0
+  },
+  {
+    "fameId": 9,
+    "attrId": 9,
+    "value": 1472.0
+  },
+  {
+    "fameId": 9,
+    "attrId": 10,
+    "value": 1472.0
+  },
+  {
+    "fameId": 9,
+    "attrId": 11,
+    "value": 604.0
+  },
+  {
+    "fameId": 10,
+    "attrId": 5,
+    "value": 45832.0
+  },
+  {
+    "fameId": 10,
+    "attrId": 7,
+    "value": 2408.0
+  },
+  {
+    "fameId": 10,
+    "attrId": 8,
+    "value": 2408.0
+  },
+  {
+    "fameId": 10,
+    "attrId": 9,
+    "value": 1806.0
+  },
+  {
+    "fameId": 10,
+    "attrId": 10,
+    "value": 1806.0
+  },
+  {
+    "fameId": 10,
+    "attrId": 11,
+    "value": 741.0
+  },
+  {
+    "fameId": 11,
+    "attrId": 5,
+    "value": 74070.0
+  },
+  {
+    "fameId": 11,
+    "attrId": 7,
+    "value": 3891.0
+  },
+  {
+    "fameId": 11,
+    "attrId": 8,
+    "value": 3891.0
+  },
+  {
+    "fameId": 11,
+    "attrId": 9,
+    "value": 2918.0
+  },
+  {
+    "fameId": 11,
+    "attrId": 10,
+    "value": 2918.0
+  },
+  {
+    "fameId": 11,
+    "attrId": 11,
+    "value": 1198.0
+  },
+  {
+    "fameId": 12,
+    "attrId": 5,
+    "value": 83268.0
+  },
+  {
+    "fameId": 12,
+    "attrId": 7,
+    "value": 4374.0
+  },
+  {
+    "fameId": 12,
+    "attrId": 8,
+    "value": 4374.0
+  },
+  {
+    "fameId": 12,
+    "attrId": 9,
+    "value": 3281.0
+  },
+  {
+    "fameId": 12,
+    "attrId": 10,
+    "value": 3281.0
+  },
+  {
+    "fameId": 12,
+    "attrId": 11,
+    "value": 1346.0
+  },
+  {
+    "fameId": 13,
+    "attrId": 5,
+    "value": 99510.0
+  },
+  {
+    "fameId": 13,
+    "attrId": 7,
+    "value": 5227.0
+  },
+  {
+    "fameId": 13,
+    "attrId": 8,
+    "value": 5227.0
+  },
+  {
+    "fameId": 13,
+    "attrId": 9,
+    "value": 3921.0
+  },
+  {
+    "fameId": 13,
+    "attrId": 10,
+    "value": 3921.0
+  },
+  {
+    "fameId": 13,
+    "attrId": 11,
+    "value": 1609.0
+  },
+  {
+    "fameId": 14,
+    "attrId": 5,
+    "value": 157911.0
+  },
+  {
+    "fameId": 14,
+    "attrId": 7,
+    "value": 8295.0
+  },
+  {
+    "fameId": 14,
+    "attrId": 8,
+    "value": 8295.0
+  },
+  {
+    "fameId": 14,
+    "attrId": 9,
+    "value": 6221.0
+  },
+  {
+    "fameId": 14,
+    "attrId": 10,
+    "value": 6221.0
+  },
+  {
+    "fameId": 14,
+    "attrId": 11,
+    "value": 2553.0
+  },
+  {
+    "fameId": 15,
+    "attrId": 5,
+    "value": 167372.0
+  },
+  {
+    "fameId": 15,
+    "attrId": 7,
+    "value": 8792.0
+  },
+  {
+    "fameId": 15,
+    "attrId": 8,
+    "value": 8792.0
+  },
+  {
+    "fameId": 15,
+    "attrId": 9,
+    "value": 6594.0
+  },
+  {
+    "fameId": 15,
+    "attrId": 10,
+    "value": 6594.0
+  },
+  {
+    "fameId": 15,
+    "attrId": 11,
+    "value": 2705.0
+  },
+  {
+    "fameId": 16,
+    "attrId": 5,
+    "value": 188305.0
+  },
+  {
+    "fameId": 16,
+    "attrId": 7,
+    "value": 9891.0
+  },
+  {
+    "fameId": 16,
+    "attrId": 8,
+    "value": 9891.0
+  },
+  {
+    "fameId": 16,
+    "attrId": 9,
+    "value": 7419.0
+  },
+  {
+    "fameId": 16,
+    "attrId": 10,
+    "value": 7419.0
+  },
+  {
+    "fameId": 16,
+    "attrId": 11,
+    "value": 3044.0
+  },
+  {
+    "fameId": 17,
+    "attrId": 5,
+    "value": 225270.0
+  },
+  {
+    "fameId": 17,
+    "attrId": 7,
+    "value": 11833.0
+  },
+  {
+    "fameId": 17,
+    "attrId": 8,
+    "value": 11833.0
+  },
+  {
+    "fameId": 17,
+    "attrId": 9,
+    "value": 8875.0
+  },
+  {
+    "fameId": 17,
+    "attrId": 10,
+    "value": 8875.0
+  },
+  {
+    "fameId": 17,
+    "attrId": 11,
+    "value": 3641.0
+  },
+  {
+    "fameId": 18,
+    "attrId": 5,
+    "value": 328071.0
+  },
+  {
+    "fameId": 18,
+    "attrId": 7,
+    "value": 17232.0
+  },
+  {
+    "fameId": 18,
+    "attrId": 8,
+    "value": 17232.0
+  },
+  {
+    "fameId": 18,
+    "attrId": 9,
+    "value": 12924.0
+  },
+  {
+    "fameId": 18,
+    "attrId": 10,
+    "value": 12924.0
+  },
+  {
+    "fameId": 18,
+    "attrId": 11,
+    "value": 5303.0
+  },
+  {
+    "fameId": 19,
+    "attrId": 5,
+    "value": 338445.0
+  },
+  {
+    "fameId": 19,
+    "attrId": 7,
+    "value": 17777.0
+  },
+  {
+    "fameId": 19,
+    "attrId": 8,
+    "value": 17777.0
+  },
+  {
+    "fameId": 19,
+    "attrId": 9,
+    "value": 13333.0
+  },
+  {
+    "fameId": 19,
+    "attrId": 10,
+    "value": 13333.0
+  },
+  {
+    "fameId": 19,
+    "attrId": 11,
+    "value": 5470.0
+  },
+  {
+    "fameId": 20,
+    "attrId": 5,
+    "value": 366371.0
+  },
+  {
+    "fameId": 20,
+    "attrId": 7,
+    "value": 19244.0
+  },
+  {
+    "fameId": 20,
+    "attrId": 8,
+    "value": 19244.0
+  },
+  {
+    "fameId": 20,
+    "attrId": 9,
+    "value": 14433.0
+  },
+  {
+    "fameId": 20,
+    "attrId": 10,
+    "value": 14433.0
+  },
+  {
+    "fameId": 20,
+    "attrId": 11,
+    "value": 5922.0
+  },
+  {
+    "fameId": 21,
+    "attrId": 5,
+    "value": 420549.0
+  },
+  {
+    "fameId": 21,
+    "attrId": 7,
+    "value": 22090.0
+  },
+  {
+    "fameId": 21,
+    "attrId": 8,
+    "value": 22090.0
+  },
+  {
+    "fameId": 21,
+    "attrId": 9,
+    "value": 16568.0
+  },
+  {
+    "fameId": 21,
+    "attrId": 10,
+    "value": 16568.0
+  },
+  {
+    "fameId": 21,
+    "attrId": 11,
+    "value": 6797.0
+  },
+  {
+    "fameId": 22,
+    "attrId": 5,
+    "value": 509684.0
+  },
+  {
+    "fameId": 22,
+    "attrId": 7,
+    "value": 26772.0
+  },
+  {
+    "fameId": 22,
+    "attrId": 8,
+    "value": 26772.0
+  },
+  {
+    "fameId": 22,
+    "attrId": 9,
+    "value": 20079.0
+  },
+  {
+    "fameId": 22,
+    "attrId": 10,
+    "value": 20079.0
+  },
+  {
+    "fameId": 22,
+    "attrId": 11,
+    "value": 8238.0
+  },
+  {
+    "fameId": 23,
+    "attrId": 5,
+    "value": 614771.0
+  },
+  {
+    "fameId": 23,
+    "attrId": 7,
+    "value": 32291.0
+  },
+  {
+    "fameId": 23,
+    "attrId": 8,
+    "value": 32291.0
+  },
+  {
+    "fameId": 23,
+    "attrId": 9,
+    "value": 24219.0
+  },
+  {
+    "fameId": 23,
+    "attrId": 10,
+    "value": 24219.0
+  },
+  {
+    "fameId": 23,
+    "attrId": 11,
+    "value": 9936.0
+  },
+  {
+    "fameId": 24,
+    "attrId": 5,
+    "value": 636178.0
+  },
+  {
+    "fameId": 24,
+    "attrId": 7,
+    "value": 33416.0
+  },
+  {
+    "fameId": 24,
+    "attrId": 8,
+    "value": 33416.0
+  },
+  {
+    "fameId": 24,
+    "attrId": 9,
+    "value": 25062.0
+  },
+  {
+    "fameId": 24,
+    "attrId": 10,
+    "value": 25062.0
+  },
+  {
+    "fameId": 24,
+    "attrId": 11,
+    "value": 10282.0
+  },
+  {
+    "fameId": 25,
+    "attrId": 5,
+    "value": 693801.0
+  },
+  {
+    "fameId": 25,
+    "attrId": 7,
+    "value": 36443.0
+  },
+  {
+    "fameId": 25,
+    "attrId": 8,
+    "value": 36443.0
+  },
+  {
+    "fameId": 25,
+    "attrId": 9,
+    "value": 27332.0
+  },
+  {
+    "fameId": 25,
+    "attrId": 10,
+    "value": 27332.0
+  },
+  {
+    "fameId": 25,
+    "attrId": 11,
+    "value": 11213.0
+  },
+  {
+    "fameId": 26,
+    "attrId": 5,
+    "value": 805598.0
+  },
+  {
+    "fameId": 26,
+    "attrId": 7,
+    "value": 42315.0
+  },
+  {
+    "fameId": 26,
+    "attrId": 8,
+    "value": 42315.0
+  },
+  {
+    "fameId": 26,
+    "attrId": 9,
+    "value": 31736.0
+  },
+  {
+    "fameId": 26,
+    "attrId": 10,
+    "value": 31736.0
+  },
+  {
+    "fameId": 26,
+    "attrId": 11,
+    "value": 13020.0
+  },
+  {
+    "fameId": 27,
+    "attrId": 5,
+    "value": 989527.0
+  },
+  {
+    "fameId": 27,
+    "attrId": 7,
+    "value": 51976.0
+  },
+  {
+    "fameId": 27,
+    "attrId": 8,
+    "value": 51976.0
+  },
+  {
+    "fameId": 27,
+    "attrId": 9,
+    "value": 38982.0
+  },
+  {
+    "fameId": 27,
+    "attrId": 10,
+    "value": 38982.0
+  },
+  {
+    "fameId": 27,
+    "attrId": 11,
+    "value": 15993.0
+  },
+  {
+    "fameId": 28,
+    "attrId": 5,
+    "value": 1095022.0
+  },
+  {
+    "fameId": 28,
+    "attrId": 7,
+    "value": 57517.0
+  },
+  {
+    "fameId": 28,
+    "attrId": 8,
+    "value": 57517.0
+  },
+  {
+    "fameId": 28,
+    "attrId": 9,
+    "value": 43138.0
+  },
+  {
+    "fameId": 28,
+    "attrId": 10,
+    "value": 43138.0
+  },
+  {
+    "fameId": 28,
+    "attrId": 11,
+    "value": 17698.0
+  },
+  {
+    "fameId": 29,
+    "attrId": 5,
+    "value": 1139484.0
+  },
+  {
+    "fameId": 29,
+    "attrId": 7,
+    "value": 59852.0
+  },
+  {
+    "fameId": 29,
+    "attrId": 8,
+    "value": 59852.0
+  },
+  {
+    "fameId": 29,
+    "attrId": 9,
+    "value": 44889.0
+  },
+  {
+    "fameId": 29,
+    "attrId": 10,
+    "value": 44889.0
+  },
+  {
+    "fameId": 29,
+    "attrId": 11,
+    "value": 18416.0
+  },
+  {
+    "fameId": 30,
+    "attrId": 5,
+    "value": 1259163.0
+  },
+  {
+    "fameId": 30,
+    "attrId": 7,
+    "value": 66138.0
+  },
+  {
+    "fameId": 30,
+    "attrId": 8,
+    "value": 66138.0
+  },
+  {
+    "fameId": 30,
+    "attrId": 9,
+    "value": 49604.0
+  },
+  {
+    "fameId": 30,
+    "attrId": 10,
+    "value": 49604.0
+  },
+  {
+    "fameId": 30,
+    "attrId": 11,
+    "value": 20351.0
+  }
+]

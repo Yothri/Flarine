@@ -1,0 +1,74 @@
+[
+  {
+    "constellationId": 1,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_001",
+    "requiredHeroLevel": 1
+  },
+  {
+    "constellationId": 2,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_002",
+    "requiredHeroLevel": 1
+  },
+  {
+    "constellationId": 3,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_003",
+    "requiredHeroLevel": 101
+  },
+  {
+    "constellationId": 4,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_004",
+    "requiredHeroLevel": 101
+  },
+  {
+    "constellationId": 5,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_005",
+    "requiredHeroLevel": 201
+  },
+  {
+    "constellationId": 6,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_006",
+    "requiredHeroLevel": 201
+  },
+  {
+    "constellationId": 7,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_007",
+    "requiredHeroLevel": 301
+  },
+  {
+    "constellationId": 8,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_008",
+    "requiredHeroLevel": 301
+  },
+  {
+    "constellationId": 9,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_009",
+    "requiredHeroLevel": 401
+  },
+  {
+    "constellationId": 10,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_010",
+    "requiredHeroLevel": 401
+  },
+  {
+    "constellationId": 11,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_011",
+    "requiredHeroLevel": 501
+  },
+  {
+    "constellationId": 12,
+    "name": "",
+    "nameKey": "CONSTELL_NAME_012",
+    "requiredHeroLevel": 501
+  }
+]

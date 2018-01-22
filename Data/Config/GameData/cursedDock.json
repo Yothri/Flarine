@@ -1,0 +1,23 @@
+{
+  "requiredMainQuestId": 216,
+  "enterCount": 1,
+  "maxMemberCount": 5,
+  "startDelayTime": 10,
+  "limitTime": 600,
+  "rewardDuration": 180,
+  "exp": 1410,
+  "ownGold": 100000,
+  "startXPosition": -4.9,
+  "startYPosition": 2.81,
+  "startZPosition": -60.26,
+  "startRadius": 3.0,
+  "endXPosition": 61.53,
+  "endYPosition": 2.81,
+  "endZPosition": -96.09,
+  "locationId": 103,
+  "requiredMountTier": 2,
+  "rewardPick2UnOwnDia": 20,
+  "rewardPick3UnOwnDia": 50,
+  "rewardPick4UnOwnDia": 100,
+  "rewardPickAllUnOwnDia": 150
+}

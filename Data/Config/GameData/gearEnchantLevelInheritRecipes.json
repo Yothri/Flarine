@@ -1,0 +1,92 @@
+[
+  {
+    "enchantLevel": 1,
+    "gold": 118800,
+    "goldRate": 10000,
+    "unOwnDia": 2
+  },
+  {
+    "enchantLevel": 2,
+    "gold": 285000,
+    "goldRate": 10000,
+    "unOwnDia": 5
+  },
+  {
+    "enchantLevel": 3,
+    "gold": 540000,
+    "goldRate": 10000,
+    "unOwnDia": 10
+  },
+  {
+    "enchantLevel": 4,
+    "gold": 765000,
+    "goldRate": 10000,
+    "unOwnDia": 15
+  },
+  {
+    "enchantLevel": 5,
+    "gold": 960000,
+    "goldRate": 10000,
+    "unOwnDia": 20
+  },
+  {
+    "enchantLevel": 6,
+    "gold": 1080000,
+    "goldRate": 10000,
+    "unOwnDia": 30
+  },
+  {
+    "enchantLevel": 7,
+    "gold": 1200000,
+    "goldRate": 5000,
+    "unOwnDia": 50
+  },
+  {
+    "enchantLevel": 8,
+    "gold": 1200000,
+    "goldRate": 2500,
+    "unOwnDia": 100
+  },
+  {
+    "enchantLevel": 9,
+    "gold": 1200000,
+    "goldRate": 1200,
+    "unOwnDia": 200
+  },
+  {
+    "enchantLevel": 10,
+    "gold": 1260000,
+    "goldRate": 800,
+    "unOwnDia": 300
+  },
+  {
+    "enchantLevel": 11,
+    "gold": 1500000,
+    "goldRate": 400,
+    "unOwnDia": 500
+  },
+  {
+    "enchantLevel": 12,
+    "gold": 1680000,
+    "goldRate": 286,
+    "unOwnDia": 700
+  },
+  {
+    "enchantLevel": 13,
+    "gold": 1800000,
+    "goldRate": 150,
+    "unOwnDia": 1000
+  },
+  {
+    "enchantLevel": 14,
+    "gold": 2400000,
+    "goldRate": 70,
+    "unOwnDia": 2000
+  },
+  {
+    "enchantLevel": 15,
+    "gold": 2400000,
+    "goldRate": 30,
+    "unOwnDia": 4000
+  }
+]

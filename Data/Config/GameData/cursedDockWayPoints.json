@@ -1,0 +1,26 @@
+[
+  {
+    "wayPointNo": 1,
+    "xPosition": 12.55,
+    "yPosition": 2.81,
+    "zPosition": -47.72
+  },
+  {
+    "wayPointNo": 2,
+    "xPosition": 42.17,
+    "yPosition": 2.81,
+    "zPosition": -47.58
+  },
+  {
+    "wayPointNo": 3,
+    "xPosition": 48.01,
+    "yPosition": 2.81,
+    "zPosition": -73.52
+  },
+  {
+    "wayPointNo": 4,
+    "xPosition": 42.17,
+    "yPosition": 2.81,
+    "zPosition": -96.09
+  }
+]

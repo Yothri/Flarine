@@ -1,0 +1,21 @@
+{
+  "requiredMainQuestId": 136,
+  "sceneName": "a02_pvp_01",
+  "startDelayTime": 180,
+  "limitTime": 900,
+  "rewardDuration": 60,
+  "maxMemberCount": 50,
+  "startXPosition": -0.4,
+  "startYPosition": 3.5,
+  "startZPosition": -25.8,
+  "startRadius": 4.0,
+  "spawnXPosition": -0.1,
+  "spawnYPosition": 3.5,
+  "spawnZPosition": -0.1,
+  "spawnRadius": 7.5,
+  "bossTargetingInterval": 10,
+  "locationId": 104,
+  "teleportConsumeFp": 0,
+  "maxPlayCount": 2,
+  "requiredMountTier": 2
+}

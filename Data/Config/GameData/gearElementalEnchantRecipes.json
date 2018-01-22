@@ -1,0 +1,122 @@
+[
+  {
+    "elementalLevel": 1,
+    "gold": 10000,
+    "cardCount": 1,
+    "successRate": 10000
+  },
+  {
+    "elementalLevel": 2,
+    "gold": 15000,
+    "cardCount": 2,
+    "successRate": 9500
+  },
+  {
+    "elementalLevel": 3,
+    "gold": 20000,
+    "cardCount": 3,
+    "successRate": 9000
+  },
+  {
+    "elementalLevel": 4,
+    "gold": 25000,
+    "cardCount": 4,
+    "successRate": 8500
+  },
+  {
+    "elementalLevel": 5,
+    "gold": 30000,
+    "cardCount": 5,
+    "successRate": 8000
+  },
+  {
+    "elementalLevel": 6,
+    "gold": 35000,
+    "cardCount": 6,
+    "successRate": 7500
+  },
+  {
+    "elementalLevel": 7,
+    "gold": 40000,
+    "cardCount": 7,
+    "successRate": 7000
+  },
+  {
+    "elementalLevel": 8,
+    "gold": 45000,
+    "cardCount": 8,
+    "successRate": 6500
+  },
+  {
+    "elementalLevel": 9,
+    "gold": 50000,
+    "cardCount": 9,
+    "successRate": 6000
+  },
+  {
+    "elementalLevel": 10,
+    "gold": 55000,
+    "cardCount": 10,
+    "successRate": 5500
+  },
+  {
+    "elementalLevel": 11,
+    "gold": 60000,
+    "cardCount": 11,
+    "successRate": 5000
+  },
+  {
+    "elementalLevel": 12,
+    "gold": 65000,
+    "cardCount": 12,
+    "successRate": 4500
+  },
+  {
+    "elementalLevel": 13,
+    "gold": 70000,
+    "cardCount": 13,
+    "successRate": 4000
+  },
+  {
+    "elementalLevel": 14,
+    "gold": 75000,
+    "cardCount": 14,
+    "successRate": 3500
+  },
+  {
+    "elementalLevel": 15,
+    "gold": 80000,
+    "cardCount": 15,
+    "successRate": 3000
+  },
+  {
+    "elementalLevel": 16,
+    "gold": 85000,
+    "cardCount": 16,
+    "successRate": 2500
+  },
+  {
+    "elementalLevel": 17,
+    "gold": 90000,
+    "cardCount": 17,
+    "successRate": 2000
+  },
+  {
+    "elementalLevel": 18,
+    "gold": 95000,
+    "cardCount": 18,
+    "successRate": 1500
+  },
+  {
+    "elementalLevel": 19,
+    "gold": 100000,
+    "cardCount": 19,
+    "successRate": 1000
+  },
+  {
+    "elementalLevel": 20,
+    "gold": 105000,
+    "cardCount": 20,
+    "successRate": 500
+  }
+]

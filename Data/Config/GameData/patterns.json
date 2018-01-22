@@ -1,0 +1,42 @@
+[
+  {
+    "patternId": 1,
+    "name": "",
+    "nameKey": "PATTERN_NAME_1001",
+    "description": "",
+    "descriptionKey": "PATTERN_DESC_1001",
+    "grade": 4,
+    "lootingRange": 8.0,
+    "duration": 3600
+  },
+  {
+    "patternId": 2,
+    "name": "",
+    "nameKey": "PATTERN_NAME_1002",
+    "description": "",
+    "descriptionKey": "PATTERN_DESC_1002",
+    "grade": 4,
+    "lootingRange": 8.0,
+    "duration": 604800
+  },
+  {
+    "patternId": 3,
+    "name": "",
+    "nameKey": "PATTERN_NAME_2001",
+    "description": "",
+    "descriptionKey": "PATTERN_DESC_2001",
+    "grade": 4,
+    "lootingRange": 3.0,
+    "duration": 3600
+  },
+  {
+    "patternId": 4,
+    "name": "",
+    "nameKey": "PATTERN_NAME_3001",
+    "description": "",
+    "descriptionKey": "PATTERN_DESC_3001",
+    "grade": 4,
+    "lootingRange": 3.0,
+    "duration": 3600
+  }
+]

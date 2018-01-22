@@ -1,0 +1,110 @@
+[
+  {
+    "entryId": 1,
+    "requiredClearCount": 5,
+    "itemId": 10001,
+    "itemCount": 5
+  },
+  {
+    "entryId": 2,
+    "requiredClearCount": 10,
+    "itemId": 27001,
+    "itemCount": 5
+  },
+  {
+    "entryId": 3,
+    "requiredClearCount": 15,
+    "itemId": 30001,
+    "itemCount": 10
+  },
+  {
+    "entryId": 4,
+    "requiredClearCount": 20,
+    "itemId": 51001,
+    "itemCount": 1
+  },
+  {
+    "entryId": 5,
+    "requiredClearCount": 30,
+    "itemId": 26003,
+    "itemCount": 1
+  },
+  {
+    "entryId": 6,
+    "requiredClearCount": 40,
+    "itemId": 10002,
+    "itemCount": 5
+  },
+  {
+    "entryId": 7,
+    "requiredClearCount": 50,
+    "itemId": 27002,
+    "itemCount": 5
+  },
+  {
+    "entryId": 8,
+    "requiredClearCount": 60,
+    "itemId": 17001,
+    "itemCount": 3
+  },
+  {
+    "entryId": 9,
+    "requiredClearCount": 70,
+    "itemId": 17002,
+    "itemCount": 2
+  },
+  {
+    "entryId": 10,
+    "requiredClearCount": 80,
+    "itemId": 20013,
+    "itemCount": 1
+  },
+  {
+    "entryId": 11,
+    "requiredClearCount": 90,
+    "itemId": 20008,
+    "itemCount": 1
+  },
+  {
+    "entryId": 12,
+    "requiredClearCount": 100,
+    "itemId": 15001,
+    "itemCount": 1
+  },
+  {
+    "entryId": 13,
+    "requiredClearCount": 110,
+    "itemId": 51001,
+    "itemCount": 1
+  },
+  {
+    "entryId": 14,
+    "requiredClearCount": 125,
+    "itemId": 51002,
+    "itemCount": 1
+  },
+  {
+    "entryId": 15,
+    "requiredClearCount": 150,
+    "itemId": 15001,
+    "itemCount": 1
+  },
+  {
+    "entryId": 16,
+    "requiredClearCount": 160,
+    "itemId": 51001,
+    "itemCount": 1
+  },
+  {
+    "entryId": 17,
+    "requiredClearCount": 175,
+    "itemId": 51002,
+    "itemCount": 1
+  },
+  {
+    "entryId": 18,
+    "requiredClearCount": 200,
+    "itemId": 15001,
+    "itemCount": 1
+  }
+]

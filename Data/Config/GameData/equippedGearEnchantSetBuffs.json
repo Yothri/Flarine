@@ -1,0 +1,112 @@
+[
+  {
+    "setId": 1,
+    "attrId": 17,
+    "value": 300.0
+  },
+  {
+    "setId": 1,
+    "attrId": 18,
+    "value": 300.0
+  },
+  {
+    "setId": 2,
+    "attrId": 17,
+    "value": 500.0
+  },
+  {
+    "setId": 2,
+    "attrId": 18,
+    "value": 500.0
+  },
+  {
+    "setId": 3,
+    "attrId": 17,
+    "value": 600.0
+  },
+  {
+    "setId": 3,
+    "attrId": 18,
+    "value": 600.0
+  },
+  {
+    "setId": 4,
+    "attrId": 17,
+    "value": 700.0
+  },
+  {
+    "setId": 4,
+    "attrId": 18,
+    "value": 700.0
+  },
+  {
+    "setId": 5,
+    "attrId": 17,
+    "value": 1000.0
+  },
+  {
+    "setId": 5,
+    "attrId": 18,
+    "value": 1000.0
+  },
+  {
+    "setId": 6,
+    "attrId": 17,
+    "value": 1800.0
+  },
+  {
+    "setId": 6,
+    "attrId": 18,
+    "value": 1800.0
+  },
+  {
+    "setId": 7,
+    "attrId": 17,
+    "value": 2000.0
+  },
+  {
+    "setId": 7,
+    "attrId": 18,
+    "value": 2000.0
+  },
+  {
+    "setId": 8,
+    "attrId": 17,
+    "value": 2500.0
+  },
+  {
+    "setId": 8,
+    "attrId": 18,
+    "value": 2500.0
+  },
+  {
+    "setId": 9,
+    "attrId": 17,
+    "value": 3000.0
+  },
+  {
+    "setId": 9,
+    "attrId": 18,
+    "value": 3000.0
+  },
+  {
+    "setId": 10,
+    "attrId": 17,
+    "value": 4000.0
+  },
+  {
+    "setId": 10,
+    "attrId": 18,
+    "value": 4000.0
+  },
+  {
+    "setId": 11,
+    "attrId": 17,
+    "value": 5000.0
+  },
+  {
+    "setId": 11,
+    "attrId": 18,
+    "value": 5000.0
+  }
+]

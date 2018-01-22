@@ -1,0 +1,27 @@
+[
+  {
+    "clearGradeId": 1,
+    "npcRemainHpRate": 9000,
+    "rewardRate": 10000
+  },
+  {
+    "clearGradeId": 2,
+    "npcRemainHpRate": 7500,
+    "rewardRate": 9000
+  },
+  {
+    "clearGradeId": 3,
+    "npcRemainHpRate": 5000,
+    "rewardRate": 8000
+  },
+  {
+    "clearGradeId": 4,
+    "npcRemainHpRate": 2500,
+    "rewardRate": 7000
+  },
+  {
+    "clearGradeId": 5,
+    "npcRemainHpRate": 0,
+    "rewardRate": 6000
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "scheduleId": 1,
+    "openTime": 0
+  },
+  {
+    "scheduleId": 2,
+    "openTime": 1800
+  },
+  {
+    "scheduleId": 3,
+    "openTime": 3600
+  },
+  {
+    "scheduleId": 4,
+    "openTime": 5400
+  },
+  {
+    "scheduleId": 5,
+    "openTime": 7200
+  },
+  {
+    "scheduleId": 6,
+    "openTime": 9000
+  },
+  {
+    "scheduleId": 7,
+    "openTime": 10800
+  },
+  {
+    "scheduleId": 8,
+    "openTime": 12600
+  },
+  {
+    "scheduleId": 9,
+    "openTime": 14400
+  },
+  {
+    "scheduleId": 10,
+    "openTime": 16200
+  },
+  {
+    "scheduleId": 11,
+    "openTime": 18000
+  },
+  {
+    "scheduleId": 12,
+    "openTime": 19800
+  },
+  {
+    "scheduleId": 13,
+    "openTime": 21600
+  },
+  {
+    "scheduleId": 14,
+    "openTime": 23400
+  },
+  {
+    "scheduleId": 15,
+    "openTime": 25200
+  },
+  {
+    "scheduleId": 16,
+    "openTime": 27000
+  },
+  {
+    "scheduleId": 17,
+    "openTime": 28800
+  },
+  {
+    "scheduleId": 18,
+    "openTime": 30600
+  },
+  {
+    "scheduleId": 19,
+    "openTime": 32400
+  },
+  {
+    "scheduleId": 20,
+    "openTime": 34200
+  },
+  {
+    "scheduleId": 21,
+    "openTime": 36000
+  },
+  {
+    "scheduleId": 22,
+    "openTime": 37800
+  },
+  {
+    "scheduleId": 23,
+    "openTime": 39600
+  },
+  {
+    "scheduleId": 24,
+    "openTime": 41400
+  },
+  {
+    "scheduleId": 25,
+    "openTime": 43200
+  },
+  {
+    "scheduleId": 26,
+    "openTime": 45000
+  },
+  {
+    "scheduleId": 27,
+    "openTime": 46800
+  },
+  {
+    "scheduleId": 28,
+    "openTime": 48600
+  },
+  {
+    "scheduleId": 29,
+    "openTime": 50400
+  },
+  {
+    "scheduleId": 30,
+    "openTime": 52200
+  },
+  {
+    "scheduleId": 31,
+    "openTime": 54000
+  },
+  {
+    "scheduleId": 32,
+    "openTime": 55800
+  },
+  {
+    "scheduleId": 33,
+    "openTime": 57600
+  },
+  {
+    "scheduleId": 34,
+    "openTime": 59400
+  },
+  {
+    "scheduleId": 35,
+    "openTime": 61200
+  },
+  {
+    "scheduleId": 36,
+    "openTime": 63000
+  },
+  {
+    "scheduleId": 37,
+    "openTime": 64800
+  },
+  {
+    "scheduleId": 38,
+    "openTime": 66600
+  },
+  {
+    "scheduleId": 39,
+    "openTime": 68400
+  },
+  {
+    "scheduleId": 40,
+    "openTime": 70200
+  },
+  {
+    "scheduleId": 41,
+    "openTime": 72000
+  },
+  {
+    "scheduleId": 42,
+    "openTime": 73800
+  },
+  {
+    "scheduleId": 43,
+    "openTime": 75600
+  },
+  {
+    "scheduleId": 44,
+    "openTime": 77400
+  },
+  {
+    "scheduleId": 45,
+    "openTime": 79200
+  },
+  {
+    "scheduleId": 46,
+    "openTime": 81000
+  },
+  {
+    "scheduleId": 47,
+    "openTime": 82800
+  },
+  {
+    "scheduleId": 48,
+    "openTime": 84600
+  }
+]

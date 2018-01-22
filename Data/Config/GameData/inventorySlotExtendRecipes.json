@@ -1,0 +1,252 @@
+[
+  {
+    "slotNo": 50,
+    "unOwnDia": 10,
+    "requiredTime": 3000
+  },
+  {
+    "slotNo": 51,
+    "unOwnDia": 30,
+    "requiredTime": 9000
+  },
+  {
+    "slotNo": 52,
+    "unOwnDia": 60,
+    "requiredTime": 18000
+  },
+  {
+    "slotNo": 53,
+    "unOwnDia": 100,
+    "requiredTime": 30000
+  },
+  {
+    "slotNo": 54,
+    "unOwnDia": 150,
+    "requiredTime": 45000
+  },
+  {
+    "slotNo": 55,
+    "unOwnDia": 210,
+    "requiredTime": 63000
+  },
+  {
+    "slotNo": 56,
+    "unOwnDia": 280,
+    "requiredTime": 84000
+  },
+  {
+    "slotNo": 57,
+    "unOwnDia": 360,
+    "requiredTime": 108000
+  },
+  {
+    "slotNo": 58,
+    "unOwnDia": 450,
+    "requiredTime": 135000
+  },
+  {
+    "slotNo": 59,
+    "unOwnDia": 550,
+    "requiredTime": 165000
+  },
+  {
+    "slotNo": 60,
+    "unOwnDia": 650,
+    "requiredTime": 195000
+  },
+  {
+    "slotNo": 61,
+    "unOwnDia": 750,
+    "requiredTime": 225000
+  },
+  {
+    "slotNo": 62,
+    "unOwnDia": 850,
+    "requiredTime": 255000
+  },
+  {
+    "slotNo": 63,
+    "unOwnDia": 950,
+    "requiredTime": 285000
+  },
+  {
+    "slotNo": 64,
+    "unOwnDia": 1050,
+    "requiredTime": 315000
+  },
+  {
+    "slotNo": 65,
+    "unOwnDia": 1150,
+    "requiredTime": 345000
+  },
+  {
+    "slotNo": 66,
+    "unOwnDia": 1250,
+    "requiredTime": 375000
+  },
+  {
+    "slotNo": 67,
+    "unOwnDia": 1350,
+    "requiredTime": 405000
+  },
+  {
+    "slotNo": 68,
+    "unOwnDia": 1450,
+    "requiredTime": 435000
+  },
+  {
+    "slotNo": 69,
+    "unOwnDia": 1550,
+    "requiredTime": 465000
+  },
+  {
+    "slotNo": 70,
+    "unOwnDia": 1650,
+    "requiredTime": 495000
+  },
+  {
+    "slotNo": 71,
+    "unOwnDia": 1750,
+    "requiredTime": 525000
+  },
+  {
+    "slotNo": 72,
+    "unOwnDia": 1850,
+    "requiredTime": 555000
+  },
+  {
+    "slotNo": 73,
+    "unOwnDia": 1950,
+    "requiredTime": 585000
+  },
+  {
+    "slotNo": 74,
+    "unOwnDia": 2050,
+    "requiredTime": 615000
+  },
+  {
+    "slotNo": 75,
+    "unOwnDia": 2150,
+    "requiredTime": 645000
+  },
+  {
+    "slotNo": 76,
+    "unOwnDia": 2250,
+    "requiredTime": 675000
+  },
+  {
+    "slotNo": 77,
+    "unOwnDia": 2350,
+    "requiredTime": 705000
+  },
+  {
+    "slotNo": 78,
+    "unOwnDia": 2450,
+    "requiredTime": 735000
+  },
+  {
+    "slotNo": 79,
+    "unOwnDia": 2550,
+    "requiredTime": 765000
+  },
+  {
+    "slotNo": 80,
+    "unOwnDia": 2650,
+    "requiredTime": 795000
+  },
+  {
+    "slotNo": 81,
+    "unOwnDia": 2750,
+    "requiredTime": 825000
+  },
+  {
+    "slotNo": 82,
+    "unOwnDia": 2850,
+    "requiredTime": 855000
+  },
+  {
+    "slotNo": 83,
+    "unOwnDia": 2950,
+    "requiredTime": 885000
+  },
+  {
+    "slotNo": 84,
+    "unOwnDia": 3050,
+    "requiredTime": 915000
+  },
+  {
+    "slotNo": 85,
+    "unOwnDia": 3150,
+    "requiredTime": 945000
+  },
+  {
+    "slotNo": 86,
+    "unOwnDia": 3250,
+    "requiredTime": 975000
+  },
+  {
+    "slotNo": 87,
+    "unOwnDia": 3350,
+    "requiredTime": 1005000
+  },
+  {
+    "slotNo": 88,
+    "unOwnDia": 3450,
+    "requiredTime": 1035000
+  },
+  {
+    "slotNo": 89,
+    "unOwnDia": 3550,
+    "requiredTime": 1065000
+  },
+  {
+    "slotNo": 90,
+    "unOwnDia": 3650,
+    "requiredTime": 1095000
+  },
+  {
+    "slotNo": 91,
+    "unOwnDia": 3750,
+    "requiredTime": 1125000
+  },
+  {
+    "slotNo": 92,
+    "unOwnDia": 3850,
+    "requiredTime": 1155000
+  },
+  {
+    "slotNo": 93,
+    "unOwnDia": 3950,
+    "requiredTime": 1185000
+  },
+  {
+    "slotNo": 94,
+    "unOwnDia": 4050,
+    "requiredTime": 1215000
+  },
+  {
+    "slotNo": 95,
+    "unOwnDia": 4150,
+    "requiredTime": 1245000
+  },
+  {
+    "slotNo": 96,
+    "unOwnDia": 4250,
+    "requiredTime": 1275000
+  },
+  {
+    "slotNo": 97,
+    "unOwnDia": 4350,
+    "requiredTime": 1305000
+  },
+  {
+    "slotNo": 98,
+    "unOwnDia": 4450,
+    "requiredTime": 1335000
+  },
+  {
+    "slotNo": 99,
+    "unOwnDia": 4550,
+    "requiredTime": 1365000
+  }
+]

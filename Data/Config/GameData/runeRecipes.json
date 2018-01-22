@@ -1,0 +1,302 @@
+[
+  {
+    "itemId": 6001,
+    "requiredGold": 10000,
+    "runePieceId": 4001,
+    "count": 2
+  },
+  {
+    "itemId": 6002,
+    "requiredGold": 10000,
+    "runePieceId": 4002,
+    "count": 2
+  },
+  {
+    "itemId": 6003,
+    "requiredGold": 10000,
+    "runePieceId": 4003,
+    "count": 2
+  },
+  {
+    "itemId": 6004,
+    "requiredGold": 10000,
+    "runePieceId": 4004,
+    "count": 2
+  },
+  {
+    "itemId": 6005,
+    "requiredGold": 10000,
+    "runePieceId": 4005,
+    "count": 2
+  },
+  {
+    "itemId": 6006,
+    "requiredGold": 100000,
+    "runePieceId": 4001,
+    "count": 10
+  },
+  {
+    "itemId": 6007,
+    "requiredGold": 100000,
+    "runePieceId": 4002,
+    "count": 10
+  },
+  {
+    "itemId": 6008,
+    "requiredGold": 100000,
+    "runePieceId": 4003,
+    "count": 10
+  },
+  {
+    "itemId": 6009,
+    "requiredGold": 100000,
+    "runePieceId": 4004,
+    "count": 10
+  },
+  {
+    "itemId": 6010,
+    "requiredGold": 100000,
+    "runePieceId": 4005,
+    "count": 10
+  },
+  {
+    "itemId": 6011,
+    "requiredGold": 1000000,
+    "runePieceId": 4001,
+    "count": 50
+  },
+  {
+    "itemId": 6012,
+    "requiredGold": 1000000,
+    "runePieceId": 4002,
+    "count": 50
+  },
+  {
+    "itemId": 6013,
+    "requiredGold": 1000000,
+    "runePieceId": 4003,
+    "count": 50
+  },
+  {
+    "itemId": 6014,
+    "requiredGold": 1000000,
+    "runePieceId": 4004,
+    "count": 50
+  },
+  {
+    "itemId": 6015,
+    "requiredGold": 1000000,
+    "runePieceId": 4005,
+    "count": 50
+  },
+  {
+    "itemId": 6016,
+    "requiredGold": 10000000,
+    "runePieceId": 4001,
+    "count": 250
+  },
+  {
+    "itemId": 6017,
+    "requiredGold": 10000000,
+    "runePieceId": 4002,
+    "count": 250
+  },
+  {
+    "itemId": 6018,
+    "requiredGold": 10000000,
+    "runePieceId": 4003,
+    "count": 250
+  },
+  {
+    "itemId": 6019,
+    "requiredGold": 10000000,
+    "runePieceId": 4004,
+    "count": 250
+  },
+  {
+    "itemId": 6020,
+    "requiredGold": 10000000,
+    "runePieceId": 4005,
+    "count": 250
+  },
+  {
+    "itemId": 6021,
+    "requiredGold": 100000000,
+    "runePieceId": 4001,
+    "count": 1250
+  },
+  {
+    "itemId": 6022,
+    "requiredGold": 100000000,
+    "runePieceId": 4002,
+    "count": 1250
+  },
+  {
+    "itemId": 6023,
+    "requiredGold": 100000000,
+    "runePieceId": 4003,
+    "count": 1250
+  },
+  {
+    "itemId": 6024,
+    "requiredGold": 100000000,
+    "runePieceId": 4004,
+    "count": 1250
+  },
+  {
+    "itemId": 6025,
+    "requiredGold": 100000000,
+    "runePieceId": 4005,
+    "count": 1250
+  },
+  {
+    "itemId": 7001,
+    "requiredGold": 10000,
+    "runePieceId": 5001,
+    "count": 2
+  },
+  {
+    "itemId": 7002,
+    "requiredGold": 10000,
+    "runePieceId": 5002,
+    "count": 2
+  },
+  {
+    "itemId": 7003,
+    "requiredGold": 10000,
+    "runePieceId": 5003,
+    "count": 2
+  },
+  {
+    "itemId": 7004,
+    "requiredGold": 10000,
+    "runePieceId": 5004,
+    "count": 2
+  },
+  {
+    "itemId": 7005,
+    "requiredGold": 10000,
+    "runePieceId": 5005,
+    "count": 2
+  },
+  {
+    "itemId": 7006,
+    "requiredGold": 100000,
+    "runePieceId": 5001,
+    "count": 10
+  },
+  {
+    "itemId": 7007,
+    "requiredGold": 100000,
+    "runePieceId": 5002,
+    "count": 10
+  },
+  {
+    "itemId": 7008,
+    "requiredGold": 100000,
+    "runePieceId": 5003,
+    "count": 10
+  },
+  {
+    "itemId": 7009,
+    "requiredGold": 100000,
+    "runePieceId": 5004,
+    "count": 10
+  },
+  {
+    "itemId": 7010,
+    "requiredGold": 100000,
+    "runePieceId": 5005,
+    "count": 10
+  },
+  {
+    "itemId": 7011,
+    "requiredGold": 1000000,
+    "runePieceId": 5001,
+    "count": 50
+  },
+  {
+    "itemId": 7012,
+    "requiredGold": 1000000,
+    "runePieceId": 5002,
+    "count": 50
+  },
+  {
+    "itemId": 7013,
+    "requiredGold": 1000000,
+    "runePieceId": 5003,
+    "count": 50
+  },
+  {
+    "itemId": 7014,
+    "requiredGold": 1000000,
+    "runePieceId": 5004,
+    "count": 50
+  },
+  {
+    "itemId": 7015,
+    "requiredGold": 1000000,
+    "runePieceId": 5005,
+    "count": 50
+  },
+  {
+    "itemId": 7016,
+    "requiredGold": 10000000,
+    "runePieceId": 5001,
+    "count": 250
+  },
+  {
+    "itemId": 7017,
+    "requiredGold": 10000000,
+    "runePieceId": 5002,
+    "count": 250
+  },
+  {
+    "itemId": 7018,
+    "requiredGold": 10000000,
+    "runePieceId": 5003,
+    "count": 250
+  },
+  {
+    "itemId": 7019,
+    "requiredGold": 10000000,
+    "runePieceId": 5004,
+    "count": 250
+  },
+  {
+    "itemId": 7020,
+    "requiredGold": 10000000,
+    "runePieceId": 5005,
+    "count": 250
+  },
+  {
+    "itemId": 7021,
+    "requiredGold": 100000000,
+    "runePieceId": 5001,
+    "count": 1250
+  },
+  {
+    "itemId": 7022,
+    "requiredGold": 100000000,
+    "runePieceId": 5002,
+    "count": 1250
+  },
+  {
+    "itemId": 7023,
+    "requiredGold": 100000000,
+    "runePieceId": 5003,
+    "count": 1250
+  },
+  {
+    "itemId": 7024,
+    "requiredGold": 100000000,
+    "runePieceId": 5004,
+    "count": 1250
+  },
+  {
+    "itemId": 7025,
+    "requiredGold": 100000000,
+    "runePieceId": 5005,
+    "count": 1250
+  }
+]

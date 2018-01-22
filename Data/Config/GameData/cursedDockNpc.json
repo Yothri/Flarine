@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "nameKey": "DUNGEONNPC_NAME_0001",
+  "level": 1,
+  "maxHp": 5000000,
+  "physicalDefense": 30000,
+  "magicalDefense": 30000,
+  "dodge": 0,
+  "moveSpeed": 3.0
+}

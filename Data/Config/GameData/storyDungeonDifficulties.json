@@ -1,0 +1,450 @@
+[
+  {
+    "storyDungeonId": 1,
+    "difficulty": 0,
+    "recommandPower": 301,
+    "ownGold": 15360,
+    "exp": 9745,
+    "monsterId": 10004
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 1,
+    "recommandPower": 301,
+    "ownGold": 15360,
+    "exp": 9745,
+    "monsterId": 11004
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 2,
+    "recommandPower": 7080,
+    "ownGold": 23040,
+    "exp": 9745,
+    "monsterId": 12004
+  },
+  {
+    "storyDungeonId": 1,
+    "difficulty": 3,
+    "recommandPower": 13872,
+    "ownGold": 46080,
+    "exp": 9745,
+    "monsterId": 13004
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 0,
+    "recommandPower": 301,
+    "ownGold": 30720,
+    "exp": 9745,
+    "monsterId": 10008
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 1,
+    "recommandPower": 6372,
+    "ownGold": 30720,
+    "exp": 9745,
+    "monsterId": 11008
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 2,
+    "recommandPower": 8194,
+    "ownGold": 46080,
+    "exp": 9745,
+    "monsterId": 12008
+  },
+  {
+    "storyDungeonId": 2,
+    "difficulty": 3,
+    "recommandPower": 15742,
+    "ownGold": 92160,
+    "exp": 9745,
+    "monsterId": 13008
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 0,
+    "recommandPower": 6328,
+    "ownGold": 46080,
+    "exp": 9745,
+    "monsterId": 10024
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 1,
+    "recommandPower": 7747,
+    "ownGold": 46080,
+    "exp": 9745,
+    "monsterId": 11024
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 2,
+    "recommandPower": 29391,
+    "ownGold": 69120,
+    "exp": 9745,
+    "monsterId": 12024
+  },
+  {
+    "storyDungeonId": 3,
+    "difficulty": 3,
+    "recommandPower": 34925,
+    "ownGold": 138240,
+    "exp": 9745,
+    "monsterId": 13024
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 0,
+    "recommandPower": 13626,
+    "ownGold": 61440,
+    "exp": 29236,
+    "monsterId": 10033
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 1,
+    "recommandPower": 31186,
+    "ownGold": 61440,
+    "exp": 29236,
+    "monsterId": 11033
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 2,
+    "recommandPower": 50085,
+    "ownGold": 92160,
+    "exp": 29236,
+    "monsterId": 12033
+  },
+  {
+    "storyDungeonId": 4,
+    "difficulty": 3,
+    "recommandPower": 111514,
+    "ownGold": 184320,
+    "exp": 29236,
+    "monsterId": 13033
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 0,
+    "recommandPower": 16032,
+    "ownGold": 153600,
+    "exp": 29236,
+    "monsterId": 10045
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 1,
+    "recommandPower": 47954,
+    "ownGold": 153600,
+    "exp": 29236,
+    "monsterId": 11045
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 2,
+    "recommandPower": 111100,
+    "ownGold": 230400,
+    "exp": 29236,
+    "monsterId": 12045
+  },
+  {
+    "storyDungeonId": 5,
+    "difficulty": 3,
+    "recommandPower": 166351,
+    "ownGold": 460800,
+    "exp": 29236,
+    "monsterId": 13045
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 0,
+    "recommandPower": 61205,
+    "ownGold": 307200,
+    "exp": 84611,
+    "monsterId": 10049
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 1,
+    "recommandPower": 117676,
+    "ownGold": 307200,
+    "exp": 84611,
+    "monsterId": 11049
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 2,
+    "recommandPower": 182720,
+    "ownGold": 460800,
+    "exp": 84611,
+    "monsterId": 12049
+  },
+  {
+    "storyDungeonId": 6,
+    "difficulty": 3,
+    "recommandPower": 318899,
+    "ownGold": 921600,
+    "exp": 84611,
+    "monsterId": 13049
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 0,
+    "recommandPower": 134206,
+    "ownGold": 460800,
+    "exp": 126760,
+    "monsterId": 10053
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 1,
+    "recommandPower": 297456,
+    "ownGold": 460800,
+    "exp": 126760,
+    "monsterId": 11053
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 2,
+    "recommandPower": 361284,
+    "ownGold": 691200,
+    "exp": 126760,
+    "monsterId": 12053
+  },
+  {
+    "storyDungeonId": 7,
+    "difficulty": 3,
+    "recommandPower": 721489,
+    "ownGold": 1382400,
+    "exp": 126760,
+    "monsterId": 13053
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 0,
+    "recommandPower": 166351,
+    "ownGold": 460800,
+    "exp": 190140,
+    "monsterId": 10059
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 1,
+    "recommandPower": 308656,
+    "ownGold": 460800,
+    "exp": 190140,
+    "monsterId": 11059
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 2,
+    "recommandPower": 433090,
+    "ownGold": 691200,
+    "exp": 190140,
+    "monsterId": 12059
+  },
+  {
+    "storyDungeonId": 8,
+    "difficulty": 3,
+    "recommandPower": 747366,
+    "ownGold": 1382400,
+    "exp": 190140,
+    "monsterId": 13059
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 0,
+    "recommandPower": 320295,
+    "ownGold": 614400,
+    "exp": 377884,
+    "monsterId": 10070
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 1,
+    "recommandPower": 716654,
+    "ownGold": 614400,
+    "exp": 377884,
+    "monsterId": 11070
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 2,
+    "recommandPower": 790350,
+    "ownGold": 921600,
+    "exp": 377884,
+    "monsterId": 12070
+  },
+  {
+    "storyDungeonId": 9,
+    "difficulty": 3,
+    "recommandPower": 1618837,
+    "ownGold": 1843200,
+    "exp": 377884,
+    "monsterId": 13070
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 0,
+    "recommandPower": 472376,
+    "ownGold": 614400,
+    "exp": 566827,
+    "monsterId": 10109
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 1,
+    "recommandPower": 768880,
+    "ownGold": 614400,
+    "exp": 566827,
+    "monsterId": 11109
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 2,
+    "recommandPower": 1143024,
+    "ownGold": 921600,
+    "exp": 566827,
+    "monsterId": 12109
+  },
+  {
+    "storyDungeonId": 10,
+    "difficulty": 3,
+    "recommandPower": 1737340,
+    "ownGold": 1843200,
+    "exp": 566827,
+    "monsterId": 13109
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 0,
+    "recommandPower": 1825272,
+    "ownGold": 768000,
+    "exp": 1126239,
+    "monsterId": 10095
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 1,
+    "recommandPower": 3405522,
+    "ownGold": 768000,
+    "exp": 1126239,
+    "monsterId": 11095
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 2,
+    "recommandPower": 3798831,
+    "ownGold": 1152000,
+    "exp": 1126239,
+    "monsterId": 12095
+  },
+  {
+    "storyDungeonId": 11,
+    "difficulty": 3,
+    "recommandPower": 6378869,
+    "ownGold": 2304000,
+    "exp": 1126239,
+    "monsterId": 13095
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 0,
+    "recommandPower": 2151144,
+    "ownGold": 768000,
+    "exp": 1689359,
+    "monsterId": 10090
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 1,
+    "recommandPower": 3580112,
+    "ownGold": 768000,
+    "exp": 1689359,
+    "monsterId": 11090
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 2,
+    "recommandPower": 6377231,
+    "ownGold": 1152000,
+    "exp": 1689359,
+    "monsterId": 12090
+  },
+  {
+    "storyDungeonId": 12,
+    "difficulty": 3,
+    "recommandPower": 7675697,
+    "ownGold": 2304000,
+    "exp": 1689359,
+    "monsterId": 13090
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 0,
+    "recommandPower": 3630961,
+    "ownGold": 921600,
+    "exp": 3354554,
+    "monsterId": 10136
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 1,
+    "recommandPower": 6375729,
+    "ownGold": 921600,
+    "exp": 3354554,
+    "monsterId": 11136
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 2,
+    "recommandPower": 7036549,
+    "ownGold": 1382400,
+    "exp": 3354554,
+    "monsterId": 12136
+  },
+  {
+    "storyDungeonId": 13,
+    "difficulty": 3,
+    "recommandPower": 11351302,
+    "ownGold": 2764800,
+    "exp": 3354554,
+    "monsterId": 13136
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 0,
+    "recommandPower": 4347762,
+    "ownGold": 921600,
+    "exp": 5031831,
+    "monsterId": 10137
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 1,
+    "recommandPower": 6520205,
+    "ownGold": 921600,
+    "exp": 5031831,
+    "monsterId": 11137
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 2,
+    "recommandPower": 9649779,
+    "ownGold": 1382400,
+    "exp": 5031831,
+    "monsterId": 12137
+  },
+  {
+    "storyDungeonId": 14,
+    "difficulty": 3,
+    "recommandPower": 12719157,
+    "ownGold": 2764800,
+    "exp": 5031831,
+    "monsterId": 13137
+  }
+]

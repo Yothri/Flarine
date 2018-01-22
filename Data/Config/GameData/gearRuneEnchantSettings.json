@@ -1,0 +1,10370 @@
+[
+  {
+    "gearId": 1001,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 11.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 1001,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 32.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 124.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 32.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 124.0
+  },
+  {
+    "gearId": 1002,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 47.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 187.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 374.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 47.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 187.0
+  },
+  {
+    "gearId": 1003,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 169.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 674.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 1348.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 169.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 674.0
+  },
+  {
+    "gearId": 1004,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 512.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 2047.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 4093.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 512.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 2047.0
+  },
+  {
+    "gearId": 1005,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 1299.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 5192.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 10383.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 1299.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 5192.0
+  },
+  {
+    "gearId": 1006,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 3033.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 12132.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 24263.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 3033.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 12132.0
+  },
+  {
+    "gearId": 1007,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 6700.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 26798.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 53594.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 6700.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 26798.0
+  },
+  {
+    "gearId": 1008,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 10.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 10.0
+  },
+  {
+    "gearId": 2001,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 60.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 236.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 471.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 60.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 236.0
+  },
+  {
+    "gearId": 2002,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 90.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 356.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 711.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 90.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 356.0
+  },
+  {
+    "gearId": 2003,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 322.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 1284.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 2568.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 322.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 1284.0
+  },
+  {
+    "gearId": 2004,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 3898.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 7795.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 3898.0
+  },
+  {
+    "gearId": 2005,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 9889.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 19777.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 9889.0
+  },
+  {
+    "gearId": 2006,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 23107.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 46214.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 23107.0
+  },
+  {
+    "gearId": 2007,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 51042.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 102084.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 51042.0
+  },
+  {
+    "gearId": 2008,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 11.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 3001,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 32.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 124.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 32.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 124.0
+  },
+  {
+    "gearId": 3002,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 47.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 187.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 374.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 47.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 187.0
+  },
+  {
+    "gearId": 3003,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 169.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 674.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 1348.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 169.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 674.0
+  },
+  {
+    "gearId": 3004,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 512.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 2047.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 4093.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 512.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 2047.0
+  },
+  {
+    "gearId": 3005,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 1299.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 5192.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 10383.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 1299.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 5192.0
+  },
+  {
+    "gearId": 3006,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 3033.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 12132.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 24263.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 3033.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 12132.0
+  },
+  {
+    "gearId": 3007,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 6700.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 26798.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 53594.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 6700.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 26798.0
+  },
+  {
+    "gearId": 3008,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 10.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 10.0
+  },
+  {
+    "gearId": 4001,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 60.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 236.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 471.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 60.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 236.0
+  },
+  {
+    "gearId": 4002,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 90.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 356.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 711.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 90.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 356.0
+  },
+  {
+    "gearId": 4003,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 322.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 1284.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 2568.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 322.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 1284.0
+  },
+  {
+    "gearId": 4004,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 3898.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 7795.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 3898.0
+  },
+  {
+    "gearId": 4005,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 9889.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 19777.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 9889.0
+  },
+  {
+    "gearId": 4006,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 23107.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 46214.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 23107.0
+  },
+  {
+    "gearId": 4007,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 51042.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 102084.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 51042.0
+  },
+  {
+    "gearId": 4008,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 11.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 5001,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 32.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 124.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 37.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 32.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 124.0
+  },
+  {
+    "gearId": 5002,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 47.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 187.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 55.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 374.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 47.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 187.0
+  },
+  {
+    "gearId": 5003,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 169.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 674.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 199.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 1348.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 169.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 674.0
+  },
+  {
+    "gearId": 5004,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 7.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 512.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 2047.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 603.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 4093.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 512.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 2047.0
+  },
+  {
+    "gearId": 5005,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 1299.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 5192.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 1530.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 10383.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 1299.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 5192.0
+  },
+  {
+    "gearId": 5006,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 50.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 3033.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 12132.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 3575.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 24263.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 3033.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 12132.0
+  },
+  {
+    "gearId": 5007,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 116.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 6700.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 26798.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 7896.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 53594.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 6700.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 26798.0
+  },
+  {
+    "gearId": 5008,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 256.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 10.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 8.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 20.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 10.0
+  },
+  {
+    "gearId": 6001,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 60.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 236.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 183.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 471.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 60.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 236.0
+  },
+  {
+    "gearId": 6002,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 90.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 356.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 275.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 711.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 90.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 356.0
+  },
+  {
+    "gearId": 6003,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 322.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 1284.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 993.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 2568.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 322.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 1284.0
+  },
+  {
+    "gearId": 6004,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 3898.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 3015.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 7795.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 3898.0
+  },
+  {
+    "gearId": 6005,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 9889.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 7649.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 19777.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 9889.0
+  },
+  {
+    "gearId": 6006,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 23107.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 17872.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 46214.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 23107.0
+  },
+  {
+    "gearId": 6007,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 2,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 2,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 3,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 3,
+    "runeId": 3,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 3,
+    "runeId": 4,
+    "maxValue": 51042.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 3,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 4,
+    "runeId": 1,
+    "maxValue": 39478.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 4,
+    "runeId": 2,
+    "maxValue": 102084.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 4,
+    "runeId": 3,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 4,
+    "runeId": 4,
+    "maxValue": 51042.0
+  },
+  {
+    "gearId": 6008,
+    "grade": 4,
+    "runeId": 5,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7001,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7002,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 7003,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 7004,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 7005,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 7006,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 7007,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 7008,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 7009,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 7010,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 7011,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 7012,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 7013,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 7014,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 7015,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 7016,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8001,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8002,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8003,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8004,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8005,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 8006,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8007,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8008,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 8009,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8010,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8011,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 8012,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8013,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8014,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 8015,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8016,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8017,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 8018,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8019,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8020,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 8021,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8022,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8023,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 8024,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9001,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9002,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9003,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 3.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 30.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 30.0
+  },
+  {
+    "gearId": 9004,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 30.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 30.0
+  },
+  {
+    "gearId": 9005,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 30.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 30.0
+  },
+  {
+    "gearId": 9006,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 59.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 45.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 45.0
+  },
+  {
+    "gearId": 9007,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 45.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 45.0
+  },
+  {
+    "gearId": 9008,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 45.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 45.0
+  },
+  {
+    "gearId": 9009,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 89.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 161.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 161.0
+  },
+  {
+    "gearId": 9010,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 161.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 161.0
+  },
+  {
+    "gearId": 9011,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 161.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 161.0
+  },
+  {
+    "gearId": 9012,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 321.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 488.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 488.0
+  },
+  {
+    "gearId": 9013,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 488.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 488.0
+  },
+  {
+    "gearId": 9014,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 488.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 488.0
+  },
+  {
+    "gearId": 9015,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 975.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1237.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1237.0
+  },
+  {
+    "gearId": 9016,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1237.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1237.0
+  },
+  {
+    "gearId": 9017,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1237.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1237.0
+  },
+  {
+    "gearId": 9018,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 2473.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 2889.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 2889.0
+  },
+  {
+    "gearId": 9019,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 2889.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 2889.0
+  },
+  {
+    "gearId": 9020,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 2889.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 2889.0
+  },
+  {
+    "gearId": 9021,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 5777.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6381.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6381.0
+  },
+  {
+    "gearId": 9022,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6381.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6381.0
+  },
+  {
+    "gearId": 9023,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6381.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6381.0
+  },
+  {
+    "gearId": 9024,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 12761.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 2,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10001,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 2,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10002,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 2,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10003,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 10004,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 10005,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 10006,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 10007,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 10008,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 10009,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 10010,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 10011,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 10012,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 10013,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 10014,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 10015,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 10016,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 10017,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 10018,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 10019,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 10020,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 10021,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 10022,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 10023,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 3,
+    "runeId": 10,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 10024,
+    "grade": 4,
+    "runeId": 10,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11001,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11002,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11003,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11004,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11005,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 11006,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11007,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11008,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 11009,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11010,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11011,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 11012,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11013,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11014,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 11015,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11016,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11017,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 11018,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11019,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11020,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 11021,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11022,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11023,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 11024,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 2,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15001,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 24.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 1.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 12.0
+  },
+  {
+    "gearId": 15002,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 6.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 36.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 2.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 18.0
+  },
+  {
+    "gearId": 15003,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 9.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 129.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 5.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 65.0
+  },
+  {
+    "gearId": 15004,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 33.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 390.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 13.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 195.0
+  },
+  {
+    "gearId": 15005,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 98.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 989.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 31.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 495.0
+  },
+  {
+    "gearId": 15006,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 248.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 2311.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 73.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 1156.0
+  },
+  {
+    "gearId": 15007,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 578.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 2,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 2,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 3,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 3,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 3,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 3,
+    "runeId": 9,
+    "maxValue": 1277.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 4,
+    "runeId": 6,
+    "maxValue": 5105.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 4,
+    "runeId": 7,
+    "maxValue": 160.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 4,
+    "runeId": 8,
+    "maxValue": 2553.0
+  },
+  {
+    "gearId": 15008,
+    "grade": 4,
+    "runeId": 9,
+    "maxValue": 1277.0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "buffId": 1,
+    "name": "",
+    "nameKey": "GBUFF_NAME_001",
+    "consumeGuildPoint": 500,
+    "isGuildLevel": true
+  },
+  {
+    "buffId": 2,
+    "name": "",
+    "nameKey": "GBUFF_NAME_002",
+    "consumeGuildPoint": 500,
+    "isGuildLevel": false
+  },
+  {
+    "buffId": 3,
+    "name": "",
+    "nameKey": "GBUFF_NAME_003",
+    "consumeGuildPoint": 500,
+    "isGuildLevel": false
+  },
+  {
+    "buffId": 4,
+    "name": "",
+    "nameKey": "GBUFF_NAME_004",
+    "consumeGuildPoint": 500,
+    "isGuildLevel": false
+  }
+]

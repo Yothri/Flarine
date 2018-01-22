@@ -1,0 +1,52 @@
+[
+  {
+    "rewardId": 1,
+    "exp": 0,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 2,
+    "exp": 0,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 3,
+    "exp": 0,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 4,
+    "exp": 0,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 5,
+    "exp": 0,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 6,
+    "exp": 253835,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 7,
+    "exp": 760562,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 8,
+    "exp": 2267309,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 9,
+    "exp": 6757439,
+    "ownDia": 50
+  },
+  {
+    "rewardId": 10,
+    "exp": 20127325,
+    "ownDia": 50
+  }
+]

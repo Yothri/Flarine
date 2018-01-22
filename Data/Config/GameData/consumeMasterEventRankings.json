@@ -1,0 +1,42 @@
+[
+  {
+    "ranking": 1,
+    "minConsumeUnOwnDia": 30000
+  },
+  {
+    "ranking": 2,
+    "minConsumeUnOwnDia": 10000
+  },
+  {
+    "ranking": 3,
+    "minConsumeUnOwnDia": 5000
+  },
+  {
+    "ranking": 4,
+    "minConsumeUnOwnDia": 1000
+  },
+  {
+    "ranking": 5,
+    "minConsumeUnOwnDia": 10
+  },
+  {
+    "ranking": 6,
+    "minConsumeUnOwnDia": 10
+  },
+  {
+    "ranking": 7,
+    "minConsumeUnOwnDia": 10
+  },
+  {
+    "ranking": 8,
+    "minConsumeUnOwnDia": 10
+  },
+  {
+    "ranking": 9,
+    "minConsumeUnOwnDia": 10
+  },
+  {
+    "ranking": 10,
+    "minConsumeUnOwnDia": 10
+  }
+]

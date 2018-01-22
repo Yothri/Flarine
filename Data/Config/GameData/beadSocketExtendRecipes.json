@@ -1,0 +1,42 @@
+[
+  {
+    "socketId": 1,
+    "unOwnDia": 0
+  },
+  {
+    "socketId": 2,
+    "unOwnDia": 0
+  },
+  {
+    "socketId": 3,
+    "unOwnDia": 0
+  },
+  {
+    "socketId": 4,
+    "unOwnDia": 0
+  },
+  {
+    "socketId": 5,
+    "unOwnDia": 100
+  },
+  {
+    "socketId": 6,
+    "unOwnDia": 200
+  },
+  {
+    "socketId": 7,
+    "unOwnDia": 300
+  },
+  {
+    "socketId": 8,
+    "unOwnDia": 400
+  },
+  {
+    "socketId": 9,
+    "unOwnDia": 500
+  },
+  {
+    "socketId": 10,
+    "unOwnDia": 600
+  }
+]

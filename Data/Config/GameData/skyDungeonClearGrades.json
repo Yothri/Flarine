@@ -1,0 +1,32 @@
+[
+  {
+    "clearGradeId": 1,
+    "playTimeLimit": 180,
+    "goldRewardFactor": 1.0,
+    "expRewardFactor": 1.0
+  },
+  {
+    "clearGradeId": 2,
+    "playTimeLimit": 300,
+    "goldRewardFactor": 0.9,
+    "expRewardFactor": 0.9
+  },
+  {
+    "clearGradeId": 3,
+    "playTimeLimit": 420,
+    "goldRewardFactor": 0.8,
+    "expRewardFactor": 0.8
+  },
+  {
+    "clearGradeId": 4,
+    "playTimeLimit": 540,
+    "goldRewardFactor": 0.7,
+    "expRewardFactor": 0.7
+  },
+  {
+    "clearGradeId": 5,
+    "playTimeLimit": 600,
+    "goldRewardFactor": 0.6,
+    "expRewardFactor": 0.6
+  }
+]

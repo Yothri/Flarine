@@ -1,0 +1,8642 @@
+[
+  {
+    "gearId": 1001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 1008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 2008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 3008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 4008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 5008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 6008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 7016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8017,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8017,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8017,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8017,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8017,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8018,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8018,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8018,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8018,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8018,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8019,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8019,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8019,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8019,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8019,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8020,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8020,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8020,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8020,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8020,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8021,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8021,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8021,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8021,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8021,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8022,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8022,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8022,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8022,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8022,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8023,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8023,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8023,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8023,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8023,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8024,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8024,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8024,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8024,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 8024,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9017,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9017,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9017,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9017,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9017,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9018,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9018,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9018,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9018,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9018,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9019,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9019,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9019,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9019,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9019,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9020,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9020,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9020,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9020,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9020,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9021,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9021,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9021,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9021,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9021,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9022,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9022,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9022,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9022,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9022,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9023,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9023,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9023,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9023,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9023,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9024,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9024,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9024,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9024,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 9024,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10017,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10017,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10017,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10017,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10017,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10018,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10018,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10018,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10018,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10018,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10019,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10019,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10019,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10019,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10019,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10020,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10020,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10020,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10020,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10020,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10021,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10021,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10021,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10021,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10021,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10022,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10022,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10022,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10022,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10022,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10023,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10023,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10023,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10023,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10023,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10024,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10024,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10024,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10024,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 10024,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11017,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11017,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11017,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11017,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11017,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11018,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11018,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11018,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11018,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11018,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11019,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11019,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11019,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11019,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11019,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11020,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11020,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11020,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11020,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11020,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11021,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11021,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11021,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11021,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11021,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11022,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11022,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11022,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11022,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11022,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11023,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11023,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11023,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11023,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11023,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11024,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11024,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11024,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11024,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 11024,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 12014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 13014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14017,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14017,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14017,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14017,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14017,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14018,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14018,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14018,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14018,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14018,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14019,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14019,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14019,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14019,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14019,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14020,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14020,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14020,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14020,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14020,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14021,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14021,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14021,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14021,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14021,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14022,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14022,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14022,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14022,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14022,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14023,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14023,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14023,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14023,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14023,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14024,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14024,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14024,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14024,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14024,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14025,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14025,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14025,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14025,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14025,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14026,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14026,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14026,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14026,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14026,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14027,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14027,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14027,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14027,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14027,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14028,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14028,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14028,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14028,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 14028,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 15008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 22016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 23016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24001,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24001,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24001,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24001,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24001,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24002,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24002,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24002,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24002,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24002,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24003,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24003,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24003,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24003,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24003,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24004,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24004,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24004,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24004,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24004,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24005,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24005,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24005,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24005,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24005,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24006,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24006,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24006,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24006,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24006,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24007,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24007,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24007,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24007,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24007,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24008,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24008,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24008,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24008,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24008,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24009,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24009,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24009,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24009,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24009,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24010,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24010,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24010,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24010,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24010,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24011,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24011,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24011,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24011,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24011,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24012,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24012,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24012,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24012,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24012,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24013,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24013,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24013,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24013,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24013,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24014,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24014,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24014,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24014,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24014,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24015,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24015,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24015,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24015,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24015,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24016,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24016,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24016,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24016,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24016,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24017,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24017,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24017,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24017,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24017,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24018,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24018,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24018,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24018,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24018,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24019,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24019,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24019,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24019,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24019,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24020,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24020,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24020,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24020,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24020,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24021,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24021,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24021,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24021,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24021,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24022,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24022,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24022,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24022,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24022,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24023,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24023,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24023,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24023,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24023,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24024,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24024,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24024,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24024,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24024,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24025,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24025,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24025,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24025,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24025,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24026,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24026,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24026,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24026,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24026,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24027,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24027,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24027,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24027,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24027,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24028,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24028,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24028,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24028,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24028,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24029,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24029,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24029,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24029,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24029,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24030,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24030,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24030,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24030,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24030,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24031,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24031,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24031,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24031,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24031,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24032,
+    "grade": 1,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24032,
+    "grade": 2,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24032,
+    "grade": 3,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24032,
+    "grade": 4,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  },
+  {
+    "gearId": 24032,
+    "grade": 5,
+    "maxSkillDegree": 102300,
+    "maxDurability": 0
+  }
+]

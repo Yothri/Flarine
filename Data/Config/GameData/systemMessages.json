@@ -1,0 +1,284 @@
+[
+  {
+    "messageId": 1,
+    "description": "{0}님이 [{1}]의 (+{2}) 일반강화에 성공하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0001",
+    "applyType": 1
+  },
+  {
+    "messageId": 1002,
+    "description": "{0}님이 [{1}]의 (+{2}) 속성강화에 성공하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0002",
+    "applyType": 1
+  },
+  {
+    "messageId": 1003,
+    "description": "{0}님이 강화계승으로 (+{1}) 일반강화된 [{2}]를 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0003",
+    "applyType": 1
+  },
+  {
+    "messageId": 1004,
+    "description": "{0}님이 속성계승으로 (+{1}) 속성강화된 [{2}]를 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0004",
+    "applyType": 1
+  },
+  {
+    "messageId": 1005,
+    "description": "{0}님이 초월에 성공하여 레전드 등급의 [{1}]을 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0005",
+    "applyType": 1
+  },
+  {
+    "messageId": 6,
+    "description": "{0}님이 [{1}] 명예를 활성화 하여서 능력치가 대폭 상향되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0006",
+    "applyType": 1
+  },
+  {
+    "messageId": 7,
+    "description": "{0}님이 [{1}] 업적을 활성화 하여서 능력치가 대폭 상향되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0007",
+    "applyType": 1
+  },
+  {
+    "messageId": 8,
+    "description": "{0}님이 [{1}]길드를 창설하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0008",
+    "applyType": 1
+  },
+  {
+    "messageId": 9,
+    "description": "{0}님이 길드 가입을 신청하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0009",
+    "applyType": 3
+  },
+  {
+    "messageId": 1010,
+    "description": "길드의 강자! {0}님이 [{1}]레벨을 달성하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0010",
+    "applyType": 2
+  },
+  {
+    "messageId": 11,
+    "description": "{0}님이 길드에 가입하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0011",
+    "applyType": 2
+  },
+  {
+    "messageId": 12,
+    "description": "{0}님이 길드를 탈퇴하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0012",
+    "applyType": 2
+  },
+  {
+    "messageId": 13,
+    "description": "{0}님의 길드 직위가 [{1}]로 변경되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0013",
+    "applyType": 2
+  },
+  {
+    "messageId": 14,
+    "description": "{0}길드가 성장하여서길드원의능력치가대폭 상향되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0014",
+    "applyType": 1
+  },
+  {
+    "messageId": 15,
+    "description": "전투력 랭킹의1위를 [{0}]님이 탈환하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0015",
+    "applyType": 1
+  },
+  {
+    "messageId": 16,
+    "description": "골드 랭킹1위를 [{0}]님이 탈환하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0016",
+    "applyType": 1
+  },
+  {
+    "messageId": 17,
+    "description": "결투장 랭킹1위를 [{0}]님이 탈환하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0017",
+    "applyType": 1
+  },
+  {
+    "messageId": 1018,
+    "description": "{0}님이 첫 충전을 완료해 다양한 보상을 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0018",
+    "applyType": 1
+  },
+  {
+    "messageId": 1019,
+    "description": "{0}님이 누적 충전을 완료해 다양한 보상을 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0019",
+    "applyType": 1
+  },
+  {
+    "messageId": 1020,
+    "description": "{0}님이 매일 충전을 완료해 다양한 보상을 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0020",
+    "applyType": 1
+  },
+  {
+    "messageId": 21,
+    "description": "{0}님이 용감하게 전진하여 심연의 탑 [{1}]층을 돌파하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0021",
+    "applyType": 1
+  },
+  {
+    "messageId": 22,
+    "description": "아레나의최강자! {0}님께서 접속하셨습니다!",
+    "descriptionKey": "SYSTEM_NAME_0022",
+    "applyType": 1
+  },
+  {
+    "messageId": 23,
+    "description": "{0}님이 {1}전승을 완료하였습니다!",
+    "descriptionKey": "SYSTEM_NAME_0023",
+    "applyType": 1
+  },
+  {
+    "messageId": 24,
+    "description": "{0}님이 뽑기로 유니크 등급의 [{1}]를 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0024",
+    "applyType": 1
+  },
+  {
+    "messageId": 25,
+    "description": "고우단광산 이벤트 시간이 시작되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0025",
+    "applyType": 1
+  },
+  {
+    "messageId": 26,
+    "description": "고우단광산의 이벤트 시간이 종료되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0026",
+    "applyType": 1
+  },
+  {
+    "messageId": 27,
+    "description": "심연의 탑 랭킹1위를 [{0}]님이 탈환하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0027",
+    "applyType": 1
+  },
+  {
+    "messageId": 28,
+    "description": "{0}에 {1}출현!!! 월드보스를 제거하여 마드리갈을 지켜주세요.",
+    "descriptionKey": "SYSTEM_NAME_0028",
+    "applyType": 1
+  },
+  {
+    "messageId": 29,
+    "description": "{0}님이 {1}에게 치명적인 상처를 입혀 쓰러뜨렸습니다.",
+    "descriptionKey": "SYSTEM_NAME_0029",
+    "applyType": 1
+  },
+  {
+    "messageId": 30,
+    "description": "팀 전투에서'{0}'팀이 승리 하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0030",
+    "applyType": 1
+  },
+  {
+    "messageId": 31,
+    "description": "직업 전투에서'{0}'팀이승리 하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0031",
+    "applyType": 1
+  },
+  {
+    "messageId": 32,
+    "description": "길드 전투에서'{0}'길드가 승리 하였습니다",
+    "descriptionKey": "SYSTEM_NAME_0032",
+    "applyType": 1
+  },
+  {
+    "messageId": 33,
+    "description": "{0}님이 수호펫 [{1}]를 획득하셨습니다.",
+    "descriptionKey": "SYSTEM_NAME_0033",
+    "applyType": 1
+  },
+  {
+    "messageId": 34,
+    "description": "잠시 후 {0}이(가) 시작됩니다.",
+    "descriptionKey": "SYSTEM_NAME_0034",
+    "applyType": 1
+  },
+  {
+    "messageId": 35,
+    "description": "곧 {0}이(가) 시작됩니다.",
+    "descriptionKey": "SYSTEM_NAME_0035",
+    "applyType": 1
+  },
+  {
+    "messageId": 36,
+    "description": "아레나에서 '{0}'님이 승리 하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0036",
+    "applyType": 1
+  },
+  {
+    "messageId": 37,
+    "description": "{0}길드가 {1}에서 승리하여 최강 길드가 되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0037",
+    "applyType": 1
+  },
+  {
+    "messageId": 38,
+    "description": "최강 길드 {0}의 마스터! {1}님께서 접속하셨습니다!",
+    "descriptionKey": "SYSTEM_NAME_0038",
+    "applyType": 1
+  },
+  {
+    "messageId": 39,
+    "description": "{0}님이 {1}연속 처치 중입니다.",
+    "descriptionKey": "SYSTEM_NAME_0039",
+    "applyType": 1
+  },
+  {
+    "messageId": 40,
+    "description": "{0}님이 1위를 탈환 하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0040",
+    "applyType": 1
+  },
+  {
+    "messageId": 41,
+    "description": "{0}팀이 1위를 탈환 하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0041",
+    "applyType": 1
+  },
+  {
+    "messageId": 42,
+    "description": "{0}길드가 1위를 탈환 하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0042",
+    "applyType": 1
+  },
+  {
+    "messageId": 43,
+    "description": "길드 마스터가 해산을 신청하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0043",
+    "applyType": 2
+  },
+  {
+    "messageId": 44,
+    "description": "해산 완료까지 {0}시간 남았습니다.",
+    "descriptionKey": "SYSTEM_NAME_0044",
+    "applyType": 2
+  },
+  {
+    "messageId": 45,
+    "description": "길드가 해산되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0045",
+    "applyType": 2
+  },
+  {
+    "messageId": 46,
+    "description": "길드 해산이 취소되었습니다.",
+    "descriptionKey": "SYSTEM_NAME_0046",
+    "applyType": 2
+  },
+  {
+    "messageId": 47,
+    "description": "{0}님이 코스튬 {1} 를 획득하였습니다.",
+    "descriptionKey": "SYSTEM_NAME_0047",
+    "applyType": 1
+  }
+]

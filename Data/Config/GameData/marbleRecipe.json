@@ -1,0 +1,8 @@
+{
+  "requiredGold": 500000,
+  "marblePieceId": 17001,
+  "marblePieceCount": 1,
+  "questionPieceId": 17002,
+  "questionPieceCount": 1,
+  "successRate": 5000
+}

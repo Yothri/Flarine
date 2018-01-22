@@ -1,0 +1,20 @@
+{
+  "requiredMainQuestId": 145,
+  "requiredMountTier": 3,
+  "recommendPower": 100000,
+  "sceneName": "Losttown",
+  "startXPosition": -4.02,
+  "startYPosition": 3.15,
+  "startZPosition": -9.45,
+  "startRadius": 5.0,
+  "startDelayTime": 180,
+  "limitTime": 300,
+  "resurrectionInvincibleTime": 5,
+  "openTime": 77400,
+  "maxMemberCount": 60,
+  "maxMemberCountPerGuild": 10,
+  "pointPerKill": 5,
+  "rewardDuration": 10,
+  "maxPlayCount": 1,
+  "locationId": 111
+}

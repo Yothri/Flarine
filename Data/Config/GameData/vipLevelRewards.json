@@ -1,0 +1,326 @@
+[
+  {
+    "vipLevel": 1,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 5,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 1,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 5,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 1,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 20024,
+    "count": 10,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 2,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 15,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 2,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 8,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 2,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 33001,
+    "count": 2,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 3,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 25,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 3,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 10,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 3,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 10001,
+    "count": 2,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 4,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 35,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 4,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 15,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 4,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 15001,
+    "count": 2,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 5,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 45,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 5,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 20,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 5,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 33001,
+    "count": 4,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 6,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 55,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 6,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 25,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 6,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 10001,
+    "count": 5,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 7,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 65,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 7,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 30,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 7,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 33001,
+    "count": 6,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 8,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 75,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 8,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 35,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 8,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 33001,
+    "count": 8,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 9,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 65,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 9,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 40,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 9,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 15001,
+    "count": 5,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 10,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 27001,
+    "count": 75,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 10,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27002,
+    "count": 45,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 10,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 33001,
+    "count": 10,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 11,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 37001,
+    "count": 20,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 11,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 27001,
+    "count": 99,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 11,
+    "rewardNo": 3,
+    "type": 1,
+    "itemId": 15001,
+    "count": 5,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 12,
+    "rewardNo": 1,
+    "type": 1,
+    "itemId": 36001,
+    "count": 99,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 12,
+    "rewardNo": 2,
+    "type": 1,
+    "itemId": 15001,
+    "count": 5,
+    "petId": 0,
+    "petInstanceId": 0
+  },
+  {
+    "vipLevel": 12,
+    "rewardNo": 3,
+    "type": 2,
+    "itemId": 0,
+    "count": 0,
+    "petId": 90002,
+    "petInstanceId": 11
+  }
+]

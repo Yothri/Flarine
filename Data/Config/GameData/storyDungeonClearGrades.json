@@ -1,0 +1,32 @@
+[
+  {
+    "storyDungeonClearGradeId": 1,
+    "playTimeLimit": 180,
+    "goldRewardRate": 10000,
+    "expRewardRate": 10000
+  },
+  {
+    "storyDungeonClearGradeId": 2,
+    "playTimeLimit": 300,
+    "goldRewardRate": 9000,
+    "expRewardRate": 9000
+  },
+  {
+    "storyDungeonClearGradeId": 3,
+    "playTimeLimit": 420,
+    "goldRewardRate": 8000,
+    "expRewardRate": 8000
+  },
+  {
+    "storyDungeonClearGradeId": 4,
+    "playTimeLimit": 540,
+    "goldRewardRate": 7000,
+    "expRewardRate": 7000
+  },
+  {
+    "storyDungeonClearGradeId": 5,
+    "playTimeLimit": 600,
+    "goldRewardRate": 6000,
+    "expRewardRate": 6000
+  }
+]

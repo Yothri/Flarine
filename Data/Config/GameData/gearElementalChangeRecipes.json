@@ -1,0 +1,82 @@
+[
+  {
+    "elementalLevel": 1,
+    "dia": 10
+  },
+  {
+    "elementalLevel": 2,
+    "dia": 20
+  },
+  {
+    "elementalLevel": 3,
+    "dia": 40
+  },
+  {
+    "elementalLevel": 4,
+    "dia": 80
+  },
+  {
+    "elementalLevel": 5,
+    "dia": 120
+  },
+  {
+    "elementalLevel": 6,
+    "dia": 180
+  },
+  {
+    "elementalLevel": 7,
+    "dia": 240
+  },
+  {
+    "elementalLevel": 8,
+    "dia": 320
+  },
+  {
+    "elementalLevel": 9,
+    "dia": 400
+  },
+  {
+    "elementalLevel": 10,
+    "dia": 500
+  },
+  {
+    "elementalLevel": 11,
+    "dia": 600
+  },
+  {
+    "elementalLevel": 12,
+    "dia": 720
+  },
+  {
+    "elementalLevel": 13,
+    "dia": 840
+  },
+  {
+    "elementalLevel": 14,
+    "dia": 980
+  },
+  {
+    "elementalLevel": 15,
+    "dia": 1120
+  },
+  {
+    "elementalLevel": 16,
+    "dia": 1280
+  },
+  {
+    "elementalLevel": 17,
+    "dia": 1440
+  },
+  {
+    "elementalLevel": 18,
+    "dia": 1620
+  },
+  {
+    "elementalLevel": 19,
+    "dia": 1800
+  },
+  {
+    "elementalLevel": 20,
+    "dia": 2000
+  }
+]

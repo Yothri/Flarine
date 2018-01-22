@@ -1,0 +1,20 @@
+{
+  "requiredMainQuestId": 58,
+  "enterCount": 3,
+  "sceneName": "TradeShip",
+  "startDelayTime": 180,
+  "limitTime": 600,
+  "rewardDuration": 60,
+  "maxMemberCount": 10,
+  "startXPosition": 0.34,
+  "startYPosition": 2.7,
+  "startZPosition": 23.32,
+  "startRadius": 5.0,
+  "objectPoint": 0,
+  "exp2xUnOwnDia": 20,
+  "exp3xUnOwnDia": 40,
+  "locationId": 104,
+  "teleportConsumeFp": 0,
+  "requiredMountTier": 1,
+  "pkEnabled": false
+}

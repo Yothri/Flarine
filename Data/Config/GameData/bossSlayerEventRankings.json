@@ -1,0 +1,42 @@
+[
+  {
+    "ranking": 1,
+    "minKillCount": 150
+  },
+  {
+    "ranking": 2,
+    "minKillCount": 100
+  },
+  {
+    "ranking": 3,
+    "minKillCount": 50
+  },
+  {
+    "ranking": 4,
+    "minKillCount": 20
+  },
+  {
+    "ranking": 5,
+    "minKillCount": 1
+  },
+  {
+    "ranking": 6,
+    "minKillCount": 1
+  },
+  {
+    "ranking": 7,
+    "minKillCount": 1
+  },
+  {
+    "ranking": 8,
+    "minKillCount": 1
+  },
+  {
+    "ranking": 9,
+    "minKillCount": 1
+  },
+  {
+    "ranking": 10,
+    "minKillCount": 1
+  }
+]

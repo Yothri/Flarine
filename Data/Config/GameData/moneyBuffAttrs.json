@@ -1,0 +1,42 @@
+[
+  {
+    "buffId": 1,
+    "attrId": 17,
+    "value": 3000.0
+  },
+  {
+    "buffId": 1,
+    "attrId": 18,
+    "value": 3000.0
+  },
+  {
+    "buffId": 1,
+    "attrId": 29,
+    "value": 3000.0
+  },
+  {
+    "buffId": 1,
+    "attrId": 30,
+    "value": 3000.0
+  },
+  {
+    "buffId": 2,
+    "attrId": 17,
+    "value": 5000.0
+  },
+  {
+    "buffId": 2,
+    "attrId": 18,
+    "value": 5000.0
+  },
+  {
+    "buffId": 2,
+    "attrId": 29,
+    "value": 5000.0
+  },
+  {
+    "buffId": 2,
+    "attrId": 30,
+    "value": 5000.0
+  }
+]

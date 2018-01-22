@@ -1,0 +1,50 @@
+[
+  {
+    "tradition": -1,
+    "recommendPower": 30,
+    "exp": 0,
+    "ownGold": 0
+  },
+  {
+    "tradition": 0,
+    "recommendPower": 301,
+    "exp": 43313,
+    "ownGold": 50000
+  },
+  {
+    "tradition": 1,
+    "recommendPower": 16032,
+    "exp": 129939,
+    "ownGold": 100000
+  },
+  {
+    "tradition": 2,
+    "recommendPower": 29390,
+    "exp": 338447,
+    "ownGold": 200000
+  },
+  {
+    "tradition": 3,
+    "recommendPower": 109206,
+    "exp": 1041116,
+    "ownGold": 300000
+  },
+  {
+    "tradition": 4,
+    "recommendPower": 295941,
+    "exp": 2981091,
+    "ownGold": 400000
+  },
+  {
+    "tradition": 5,
+    "recommendPower": 716638,
+    "exp": 8509368,
+    "ownGold": 500000
+  },
+  {
+    "tradition": 6,
+    "recommendPower": 1618445,
+    "exp": 24600064,
+    "ownGold": 600000
+  }
+]

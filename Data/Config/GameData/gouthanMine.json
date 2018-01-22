@@ -1,0 +1,14 @@
+{
+  "requiredMainQuestId": 186,
+  "miningCount": 30,
+  "startXPosition": 14.13,
+  "startYPosition": 2.52,
+  "startZPosition": -13.24,
+  "startRadius": 2.0,
+  "safezoneXPosition": 13.44,
+  "safezoneYPosition": 2.62,
+  "safezoneZPosition": -13.3,
+  "safezoneRadius": 4.5,
+  "locationId": 105,
+  "pkEnabled": false
+}
