@@ -25,8 +25,7 @@ namespace Flarine.Game
         {
             DatabaseService.SetEngine(GameConfig.DatabaseEngine);
             DatabaseService.GetContext().Database.Migrate();
-
-            GameDatas = new WPDGameDatas();
+            
             LoginSessions = new List<LoginSession>();
             GameSessions = new ObservableCollection<GameSession>();
         }

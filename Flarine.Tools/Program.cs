@@ -29,9 +29,16 @@ namespace Flarine.Tools
 
             //var obj = JObject.Parse(File.ReadAllText(@"C:\Users\Johan\Desktop\GameDatas.json"));
 
-            var path = @"C:\Users\Johan\Desktop\GameDatas";
+            //var path = @"C:\Users\Johan\Desktop\GameDatas";
 
-            var gameDatas = LoadGameDatasFromDisk(path);
+            //var gameDatas = LoadGameDatasFromDisk(path);
+
+            var data = @"C:\Users\Johan\Desktop\accountheroinfo.txt";
+            WPDAccountHeroInfo info = new WPDAccountHeroInfo();
+            info.DeserializeFromBase64String(File.ReadAllText(data));
+
+            var bla =JsonConvert.SerializeObject(info);
+            File.WriteAllText(@"C:\Users\johan\desktop\test.json", bla);
 
             //if (!Directory.Exists(path))
             //    Directory.CreateDirectory(path);

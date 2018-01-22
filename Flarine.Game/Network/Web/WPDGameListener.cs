@@ -27,7 +27,8 @@ namespace Flarine.Game.Network.Web
         protected override Dictionary<string, Type> Handlers => new Dictionary<string, Type>
         {
             { "GameLogin", typeof(GameLoginRequest) },
-            { "GameMetaDatas", typeof(GameMetaDatasRequest) }
+            { "GameMetaDatas", typeof(GameMetaDatasRequest) },
+            { "CreateAccountHero", typeof(CreateAccountHeroRequest) }
         };
     }
 }
