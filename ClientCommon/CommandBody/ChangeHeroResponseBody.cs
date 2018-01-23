@@ -1,10 +1,13 @@
-﻿using System;
-
-namespace ClientCommon.CommandBody
+﻿namespace ClientCommon.CommandBody
 {
-	public class ChangeHeroResponseBody : ResponseBody
+    public class ChangeHeroResponseBody : ResponseBody
 	{
-		public ChangeHeroResponseBody()
+        public override byte[] Serialize()
+        {
+            return null;
+        }
+
+        public ChangeHeroResponseBody()
 		{
 		}
 	}

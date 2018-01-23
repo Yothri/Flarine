@@ -45,7 +45,9 @@ namespace Flarine.Game.Network.Photon.Common
 
         private Dictionary<ClientCommandName, Type> CommandHandlers = new Dictionary<ClientCommandName, Type>
         {
-            { ClientCommandName.kCommand_Login,  typeof(LoginHandler<LoginCommandBody>) }
+            { ClientCommandName.kCommand_Login,  typeof(LoginHandler<LoginCommandBody>) },
+            { ClientCommandName.kCommand_ChangeHero, typeof(ChangeHeroHandler<ChangeHeroCommandBody>) },
+            { ClientCommandName.kCommand_MyAccountHeroInfo, typeof(MyAccountHeroInfoHandler<MyAccountHeroInfoCommandBody>) }
         };
 
         private Dictionary<ClientEventName, Type> EventHandlers = new Dictionary<ClientEventName, Type>

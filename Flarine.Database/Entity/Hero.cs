@@ -70,6 +70,7 @@ namespace Flarine.Database.Entity
         public bool StatAutoDistribution { get; set; } = true;
         public int LastCompletedMainChapterId { get; set; }
         public int OpenedContinentId { get; set; }
+        public int ContinentId { get; set; }
         public int MonsterKillCount { get; set; }
         public int BossMonsterKillCount { get; set; }
         public int ComposeSuccessCount { get; set; }

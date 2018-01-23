@@ -1,5 +1,6 @@
 ﻿using ClientCommon;
 using Flarine.Core.Context;
+using Flarine.Database;
 using Flarine.Game.Network.Photon.Common;
 
 namespace Flarine.Game.Network.Photon.Handler
@@ -9,5 +10,6 @@ namespace Flarine.Game.Network.Photon.Handler
         public abstract void Handle(PhotonGameConnection connection, T requestBody);
 
         protected GameContext GameContext { get => ContextBase.GetInstance<GameContext>(); }
+        protected DatabaseContext DataContext { get => DatabaseService.GetContext(); }
     }
 }
