@@ -5,19 +5,13 @@ using Newtonsoft.Json;
 
 namespace Flarine.Login.Network.Web.Request
 {
-    internal sealed class SystemSettingsRequest : WPDRequest
+    internal sealed class SystemSettingsRequest : LoginWPDRequest
     {
         public override WPDResponse Handle()
         {
             return new SystemSettingsResponse
             {
-                SystemSettings = new SystemSetting[]
-                {
-                    new SystemSetting{ Name = "clientTextVersion", Value = "2018011501" },
-                    new SystemSetting { Name = "clientVersion", Value = "1.0.12" },
-                    new SystemSetting { Name = "isMaintenance", Value = "N" },
-                    new SystemSetting { Name = "assetBundleUrl", Value = "http://akamai.mobblo.com/EN/Live17/" },
-                }
+                SystemSettings = LoginContext.LoginConfig.SystemSettings.ToArray()
             };
         }
 
