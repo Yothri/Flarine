@@ -28,7 +28,8 @@ namespace Flarine.Game.Network.Web
         {
             { "GameLogin", typeof(GameLoginRequest) },
             { "GameMetaDatas", typeof(GameMetaDatasRequest) },
-            { "CreateAccountHero", typeof(CreateAccountHeroRequest) }
+            { "CreateAccountHero", typeof(CreateAccountHeroRequest) },
+            { "AccountHeroPacketInfo", typeof(AccountHeroInfoRequest) }
         };
     }
 }

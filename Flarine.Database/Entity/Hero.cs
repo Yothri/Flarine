@@ -24,6 +24,8 @@ namespace Flarine.Database.Entity
         public string FameTitleKey { get; set; } = string.Empty;
         public int FamePoint { get; set; }
         public int OwnDia { get; set; }
+        public int Dia { get; set; }
+        public int TotalPurchasedDia { get; set; }
         public int Gold { get; set; }
         public int OwnGold { get; set; }
         public int WarehouseGold { get; set; }
@@ -88,6 +90,7 @@ namespace Flarine.Database.Entity
         public bool IsLootJewel { get; set; } = true;
         public bool IsLootGold { get; set; } = true;
         public bool IsLootMonsterEssense { get; set; } = true;
+        public bool IsLootPotion { get; set; }
         public bool IsLootEtc { get; set; } = true;
         public bool PartyInviteRefused { get; set; }
         public bool WhisperRefused { get; set; }
@@ -102,5 +105,8 @@ namespace Flarine.Database.Entity
         public int CurrentFieldOfHonorSuccessiveVictories { get; set; }
         public int BestFieldOfHonorSuccessiveVictories { get; set; }
         public string FieldOfHonorRankingRewardTime { get; set; }
+        public int BeadSocketCount { get; set; }
+        public int PkPoint { get; set; }
+        public int VipLevel { get; set; }
     }
 }

@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using Flarine.Core.Config;
+﻿using Flarine.Core.Config;
 using Flarine.Core.Context.Model;
 using Flarine.Login.Context.Model;
 
@@ -12,7 +11,7 @@ namespace Flarine.Login.Config.Model
         public string ISCServerHost { get; set; } = "192.168.0.122";
         public int ISCServerPort { get; set; } = 8011;
         public Language DefaultLanguageId { get; set; } = Language.English;
-        public List<SystemSetting> SystemSettings { get; set; } = new List<SystemSetting>
+        public SystemSetting[] SystemSettings { get; set; } = new SystemSetting[]
         {
             new SystemSetting { Name = "clientTextVersion", Value = "2018011501" },
             new SystemSetting { Name = "clientVersion", Value = "1.0.12" },

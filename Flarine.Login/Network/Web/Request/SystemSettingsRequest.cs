@@ -11,7 +11,7 @@ namespace Flarine.Login.Network.Web.Request
         {
             return new SystemSettingsResponse
             {
-                SystemSettings = LoginContext.LoginConfig.SystemSettings.ToArray()
+                SystemSettings = LoginContext.LoginConfig.SystemSettings
             };
         }
 
