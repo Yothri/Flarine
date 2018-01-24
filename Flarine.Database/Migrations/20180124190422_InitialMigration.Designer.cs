@@ -11,8 +11,8 @@ using System;
 namespace Flarine.Database.Migrations
 {
     [DbContext(typeof(MySQLContext))]
-    [Migration("20180123220057_HeroUpdate02")]
-    partial class HeroUpdate02
+    [Migration("20180124190422_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -257,7 +257,8 @@ namespace Flarine.Database.Migrations
                 {
                     b.HasOne("Flarine.Database.Entity.Account")
                         .WithMany("AccountHeros")
-                        .HasForeignKey("AccountId");
+                        .HasForeignKey("AccountId")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }

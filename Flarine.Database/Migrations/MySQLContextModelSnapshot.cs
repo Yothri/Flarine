@@ -256,7 +256,8 @@ namespace Flarine.Database.Migrations
                 {
                     b.HasOne("Flarine.Database.Entity.Account")
                         .WithMany("AccountHeros")
-                        .HasForeignKey("AccountId");
+                        .HasForeignKey("AccountId")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }
