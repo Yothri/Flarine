@@ -16,7 +16,8 @@ namespace Flarine.Login.Config.Model
             new SystemSetting { Name = "clientTextVersion", Value = "2018011501" },
             new SystemSetting { Name = "clientVersion", Value = "1.0.12" },
             new SystemSetting { Name = "isMaintenance", Value = "N" },
-            new SystemSetting { Name = "assetBundleUrl", Value = "http://akamai.mobblo.com/EN/Live17/" }
+            new SystemSetting { Name = "assetBundleUrl", Value = "http://akamai.mobblo.com/EN/Live17/" },
+            new SystemSetting { Name = "loggingYn", Value = "N" }
         };
         public GameServerGroup[] GameServerGroups { get; set; } = new GameServerGroup[] { new GameServerGroup() { GroupId = 1, Name = "Default", RecommendGameServerId = 1 } };
     }

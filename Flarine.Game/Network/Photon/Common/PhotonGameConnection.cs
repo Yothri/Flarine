@@ -30,16 +30,16 @@ namespace Flarine.Game.Network.Photon.Common
             }
             else
             {
-                if (CommandHandlers.TryGetValue((ClientCommandName)request.Parameters[0], out Type type))
+                if (EventHandlers.TryGetValue((ClientEventName)request.Parameters[0], out Type type))
                 {
                     var constraint = type.GetGenericArguments()[0];
                     var handleAction = type.GetMethod("Handle");
                     var activator = Activator.CreateInstance(type);
                     handleAction.Invoke(activator, new object[] { this, Body.DeserializeRaw((byte[])request.Parameters[1], constraint, out long InReadCount) });
-                    Logger.Log($"{Enum.GetName(typeof(ClientCommandName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                    Logger.Log($"{Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
                 }
                 else
-                    Logger.Log($"Unhandled {Enum.GetName(typeof(ClientCommandName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                    Logger.Log($"Unhandled {Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
             }
         }
 
@@ -47,7 +47,8 @@ namespace Flarine.Game.Network.Photon.Common
         {
             { ClientCommandName.kCommand_Login,  typeof(LoginHandler<LoginCommandBody>) },
             { ClientCommandName.kCommand_ChangeHero, typeof(ChangeHeroHandler<ChangeHeroCommandBody>) },
-            { ClientCommandName.kCommand_MyAccountHeroInfo, typeof(MyAccountHeroInfoHandler<MyAccountHeroInfoCommandBody>) }
+            { ClientCommandName.kCommand_MyAccountHeroInfo, typeof(MyAccountHeroInfoHandler<MyAccountHeroInfoCommandBody>) },
+            { ClientCommandName.kCommand_HeroLogin, typeof(HeroLoginHandler<HeroLoginCommandBody>) }
         };
 
         private Dictionary<ClientEventName, Type> EventHandlers = new Dictionary<ClientEventName, Type>

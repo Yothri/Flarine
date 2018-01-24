@@ -8,5 +8,6 @@ namespace Flarine.Game.Context.Model
         public NetUser NetUser { get; set; }
         public User User { get; set; }
         public string GameAccessToken { get; set; }
+        public int SelectedPlayCharacter { get; set; }
     }
 }

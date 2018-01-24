@@ -137,7 +137,40 @@ namespace Flarine.Game.Network.Web.Request
                 accountHeroGears = new WPDAccountHeroGear[] { },
                 accountHeroMenuActivations = new WPDAccountHeroMenuActivation[] { },
                 accountHeroMonsterBooks = new WPDAccountHeroMonsterBook[] { },
-                accountHeroSkills = new WPDAccountHeroSkill[] { },
+                accountHeroSkills = new WPDAccountHeroSkill[] 
+                {
+                    new WPDAccountHeroSkill()
+                    {
+                        accountHeroId = hero.Id,
+                         slotId = 0,
+                          heroSkillId = 1
+                    },new WPDAccountHeroSkill()
+                    {
+                        accountHeroId = hero.Id,
+                         slotId = 1,
+                          heroSkillId = 1
+                    },new WPDAccountHeroSkill()
+                    {
+                        accountHeroId = hero.Id,
+                         slotId = 2,
+                          heroSkillId = 1
+                    },new WPDAccountHeroSkill()
+                    {
+                        accountHeroId = hero.Id,
+                         slotId = 3,
+                          heroSkillId = 1
+                    },new WPDAccountHeroSkill()
+                    {
+                        accountHeroId = hero.Id,
+                         slotId = 4,
+                          heroSkillId = 1
+                    },new WPDAccountHeroSkill()
+                    {
+                        accountHeroId = hero.Id,
+                         slotId = 5,
+                          heroSkillId = 1
+                    },
+                },
                 accountHeroVipLevelRewards = new WPDAccountHeroVipLevelReward[] { },
                 accumulateLoginRewardItems = new WPDAccumulateLoginRewardItem[] { },
                 accumulateLoginRewards = new WPDAccumulateLoginReward[] { },
