@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using ClientCommon;
-using ClientCommon.CommandBody;
 using Flarine.Core.Log;
-using Flarine.Game.Network.Photon.Handler.Command;
 using Flarine.Network.Photon.Common;
 using Flarine.Network.Photon.IO.Protocol;
 
@@ -43,17 +41,7 @@ namespace Flarine.Game.Network.Photon.Common
             }
         }
 
-        private Dictionary<ClientCommandName, Type> CommandHandlers = new Dictionary<ClientCommandName, Type>
-        {
-            { ClientCommandName.kCommand_Login,  typeof(LoginHandler<LoginCommandBody>) },
-            { ClientCommandName.kCommand_ChangeHero, typeof(ChangeHeroHandler<ChangeHeroCommandBody>) },
-            { ClientCommandName.kCommand_MyAccountHeroInfo, typeof(MyAccountHeroInfoHandler<MyAccountHeroInfoCommandBody>) },
-            { ClientCommandName.kCommand_HeroLogin, typeof(HeroLoginHandler<HeroLoginCommandBody>) }
-        };
-
-        private Dictionary<ClientEventName, Type> EventHandlers = new Dictionary<ClientEventName, Type>
-        {
-
-        };
+        public static readonly Dictionary<ClientCommandName, Type> CommandHandlers = new Dictionary<ClientCommandName, Type>();
+        public static readonly Dictionary<ClientEventName, Type> EventHandlers = new Dictionary<ClientEventName, Type>();
     }
 }

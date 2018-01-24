@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
+using System.Threading.Tasks;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
 using Flarine.Core.Log;
 using Flarine.Core.Network.Web;
-using Flarine.Core.Util;
 using Flarine.Database;
 using Flarine.Game.Config.Model;
 using Flarine.Game.Context.Model;
@@ -40,21 +40,22 @@ namespace Flarine.Game
             SaveConfiguration(GameConfig, CONFIG_PATH);
         }
 
-        public override void LoadAssets()
+        public async override void LoadAssets()
         {
-            if (!Directory.Exists(GAMEDATA_PATH))
-                Logger.Log($"GameData not found, please provide GameData in directory {GAMEDATA_PATH} first.", LogLevel.Fatal);
-            else
+            await Task.Factory.StartNew(() =>
             {
-                SetStatus("Loading GameData...");
-                var startTime = Environment.TickCount;
-                GameDatas = GameDatas.FromPath(GAMEDATA_PATH);
-                SetStatus("Compressing GameData...");
-                CompressedGameDatas = WPDUtil.ZipToBase64(GameDatas.SerializeBase64String());
-                var timeDiff = Environment.TickCount - startTime;
+                if (!Directory.Exists(GAMEDATA_PATH))
+                    Logger.Log($"GameData not found, please provide GameData in directory {GAMEDATA_PATH} first.", LogLevel.Fatal);
+                else
+                {
+                    var startTime = Environment.TickCount;
+                    GameDatas = GameDatas.FromPath(GAMEDATA_PATH);
+                    CompressedGameDatas = WPDUtil.ZipToBase64(GameDatas.SerializeBase64String());
+                    var timeDiff = Environment.TickCount - startTime;
 
-                Logger.Log($"GameData has been loaded in {timeDiff} ms.");
-            }
+                    Logger.Log($"GameData has been loaded in {timeDiff} ms.");
+                }
+            });
         }
 
         internal GameConfig GameConfig { get; private set; }

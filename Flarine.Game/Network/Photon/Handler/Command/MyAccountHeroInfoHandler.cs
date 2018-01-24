@@ -1,9 +1,11 @@
 ﻿using System.Linq;
 using ClientCommon.CommandBody;
+using Flarine.Core.Network.Photon;
 using Flarine.Game.Network.Photon.Common;
 
 namespace Flarine.Game.Network.Photon.Handler.Command
 {
+    [PhotonCommandHandler(ClientCommon.ClientCommandName.kCommand_MyAccountHeroInfo, typeof(MyAccountHeroInfoCommandBody))]
     internal sealed class MyAccountHeroInfoHandler<T> : OperationHandler<T> where T : MyAccountHeroInfoCommandBody
     {
         public override void Handle(PhotonGameConnection connection, T requestBody)
