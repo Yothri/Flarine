@@ -67,7 +67,8 @@ namespace Flarine.Game.Network.Photon.Handler.Command
                     abnormalStateEffects = new PDAbnormalStateEffect[] { },
                     equippedGearExs = new PDAccountHeroGearEx[] { },
                     equippedGears = new PDAccountHeroGear[] { },
-                    position = new PDVector3(0, 0, 0)
+                    position = new PDVector3(0, 0, 0),
+                    isGM = true
                 },
                 purchaseProductBuyCounts = new PDPurchaseProductBuyCount[] { },
                 spawnedContinentBossMonsters = new int[] { },

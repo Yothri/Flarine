@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using ClientCommon;
 using Flarine.Core.Log;
 using Flarine.Network.Photon.Common;
@@ -34,7 +35,9 @@ namespace Flarine.Game.Network.Photon.Common
                     var handleAction = type.GetMethod("Handle");
                     var activator = Activator.CreateInstance(type);
                     handleAction.Invoke(activator, new object[] { this, Body.DeserializeRaw((byte[])request.Parameters[1], constraint, out long InReadCount) });
-                    Logger.Log($"{Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                    
+                    if(!EventLoggingBlacklist.Any(t => t == (ClientEventName)request.Parameters[0]))
+                        Logger.Log($"{Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
                 }
                 else
                     Logger.Log($"Unhandled {Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
@@ -43,5 +46,11 @@ namespace Flarine.Game.Network.Photon.Common
 
         public static readonly Dictionary<ClientCommandName, Type> CommandHandlers = new Dictionary<ClientCommandName, Type>();
         public static readonly Dictionary<ClientEventName, Type> EventHandlers = new Dictionary<ClientEventName, Type>();
+        public static readonly List<ClientEventName> EventLoggingBlacklist = new List<ClientEventName>
+        {
+            ClientEventName.kEvent_HeroMove,
+            ClientEventName.kEvent_HeroMoveStart,
+            ClientEventName.kEvent_HeroMoveEnd
+        };
     }
 }
