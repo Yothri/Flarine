@@ -34,7 +34,7 @@ namespace Flarine.Game.Network.Web.Request
                 accountHero = new WPDAccountHero
                 {
                     accountHeroId = hero.Id,
-                    accountId = account.AccountId,
+                    accountId = account.AccountGuid,
                     accuracy = hero.Accuracy,
                     achieveId = hero.AchieveId,
                     achievePoint = hero.AchievePoint,

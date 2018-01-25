@@ -25,7 +25,7 @@ namespace Flarine.Database.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<string>("AccountId");
+                    b.Property<string>("AccountGuid");
 
                     b.Property<string>("UserId");
 
@@ -33,15 +33,13 @@ namespace Flarine.Database.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("tbl_accounts");
+                    b.ToTable("Accounts");
                 });
 
             modelBuilder.Entity("Flarine.Database.Entity.Hero", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
-
-                    b.Property<int?>("AccountId");
 
                     b.Property<int>("Accuracy");
 
@@ -187,6 +185,8 @@ namespace Flarine.Database.Migrations
 
                     b.Property<int>("OwnGold");
 
+                    b.Property<int?>("ParentAccountId");
+
                     b.Property<bool>("PartyInviteRefused");
 
                     b.Property<int>("PetEquipSlotCout");
@@ -247,17 +247,16 @@ namespace Flarine.Database.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AccountId");
+                    b.HasIndex("ParentAccountId");
 
-                    b.ToTable("tbl_heros");
+                    b.ToTable("Heros");
                 });
 
             modelBuilder.Entity("Flarine.Database.Entity.Hero", b =>
                 {
-                    b.HasOne("Flarine.Database.Entity.Account")
+                    b.HasOne("Flarine.Database.Entity.Account", "ParentAccount")
                         .WithMany("AccountHeros")
-                        .HasForeignKey("AccountId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("ParentAccountId");
                 });
 #pragma warning restore 612, 618
         }

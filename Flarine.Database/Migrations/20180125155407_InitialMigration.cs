@@ -10,27 +10,26 @@ namespace Flarine.Database.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "tbl_accounts",
+                name: "Accounts",
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    AccountId = table.Column<string>(nullable: true),
+                    AccountGuid = table.Column<string>(nullable: true),
                     UserId = table.Column<string>(nullable: true),
                     UserSecret = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_tbl_accounts", x => x.Id);
+                    table.PrimaryKey("PK_Accounts", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "tbl_heros",
+                name: "Heros",
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    AccountId = table.Column<int>(nullable: true),
                     Accuracy = table.Column<int>(nullable: false),
                     AchieveId = table.Column<int>(nullable: false),
                     AchievePoint = table.Column<int>(nullable: false),
@@ -103,6 +102,7 @@ namespace Flarine.Database.Migrations
                     OpenedContinentId = table.Column<int>(nullable: false),
                     OwnDia = table.Column<int>(nullable: false),
                     OwnGold = table.Column<int>(nullable: false),
+                    ParentAccountId = table.Column<int>(nullable: true),
                     PartyInviteRefused = table.Column<bool>(nullable: false),
                     PetEquipSlotCout = table.Column<int>(nullable: false),
                     PhysicalDefense = table.Column<int>(nullable: false),
@@ -135,28 +135,28 @@ namespace Flarine.Database.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_tbl_heros", x => x.Id);
+                    table.PrimaryKey("PK_Heros", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_tbl_heros_tbl_accounts_AccountId",
-                        column: x => x.AccountId,
-                        principalTable: "tbl_accounts",
+                        name: "FK_Heros_Accounts_ParentAccountId",
+                        column: x => x.ParentAccountId,
+                        principalTable: "Accounts",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_tbl_heros_AccountId",
-                table: "tbl_heros",
-                column: "AccountId");
+                name: "IX_Heros_ParentAccountId",
+                table: "Heros",
+                column: "ParentAccountId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "tbl_heros");
+                name: "Heros");
 
             migrationBuilder.DropTable(
-                name: "tbl_accounts");
+                name: "Accounts");
         }
     }
 }

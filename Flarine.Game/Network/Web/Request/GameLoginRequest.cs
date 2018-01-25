@@ -38,7 +38,7 @@ namespace Flarine.Game.Network.Web.Request
 
             var gameAccessToken = new JObject();
             gameAccessToken["gameServerId"] = ctx.GameConfig.GameServerConfig.GameServerId;
-            gameAccessToken["accountId"] = account.AccountId;
+            gameAccessToken["accountId"] = account.AccountGuid;
             gameAccessToken["accessSecret"] = Utils.RandomString(20);
             gameAccessToken["checkCode"] = Utils.RandomString(32);
 
@@ -51,14 +51,14 @@ namespace Flarine.Game.Network.Web.Request
             List<AccountHero> accountHeros = new List<AccountHero>();
             foreach (var hero in account.AccountHeros)
             {
-                accountHeros.Add(new AccountHero(hero, account.AccountId));
+                accountHeros.Add(new AccountHero(hero, account.AccountGuid));
             }
 
             return new GameLoginResponse
             {
                 IsMaintenance = ctx.GameConfig.GameServerConfig.IsMaintenance,
                 GameAccessToken = gameAccessToken.ToString(),
-                AccountId = account.AccountId,
+                AccountId = account.AccountGuid,
                 LastAccountHeroId = 0,
                 ServerTime = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss zzz"),
                 AccountHeros = accountHeros.ToArray()

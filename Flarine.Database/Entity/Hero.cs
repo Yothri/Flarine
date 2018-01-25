@@ -1,12 +1,11 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations.Schema;
 using Flarine.Database.Interface;
 
 namespace Flarine.Database.Entity
 {
-    [Table("tbl_heros")]
     public sealed class Hero : IDatabaseEntity
     {
+        public Account ParentAccount { get; set; }
         public int Id { get; set; }
         public int HeroId { get; set; }
         public int FaceId { get; set; }

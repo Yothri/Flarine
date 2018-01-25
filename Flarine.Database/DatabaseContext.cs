@@ -11,9 +11,9 @@ namespace Flarine.Database
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Account>()
-                .HasMany(h => h.AccountHeros)
-                .WithOne();
+            modelBuilder.Entity<Hero>()
+                .HasOne(h => h.ParentAccount)
+                .WithMany(a => a.AccountHeros);
         }
 
         protected DatabaseConfiguration Configuration { get; set; }

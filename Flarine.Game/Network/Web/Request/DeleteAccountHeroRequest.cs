@@ -27,11 +27,8 @@ namespace Flarine.Game.Network.Web.Request
                 .Where(h => h.Id == AccountHeroId)
                 .FirstOrDefault();
 
-            if(account.AccountHeros.RemoveAll(h => h.Id == AccountHeroId) == 1)
-            {
-                DataContext.Heros.Remove(hero);
-                DataContext.SaveChanges();
-            }
+            DataContext.Heros.Remove(hero);
+            var changes = DataContext.SaveChanges();
 
             return new DeleteAccountHeroResponse { DeletedAccountHeroId = AccountHeroId };
         }

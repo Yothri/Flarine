@@ -86,10 +86,11 @@ namespace Flarine.Network.Web
                 return BadRequest(context.Response);
             }
 
-            var request = JsonConvert.DeserializeObject(requestBody, type) as WPDRequest;
-
-            using (var writer = new StreamWriter(context.Response.OutputStream))
-                writer.Write(request.Handle().GetResponseBody());
+            using (var request = JsonConvert.DeserializeObject(requestBody, type) as WPDRequest)
+            {
+                using (var writer = new StreamWriter(context.Response.OutputStream))
+                    writer.Write(request.Handle().GetResponseBody());
+            }
 
             return context.Response;
         }

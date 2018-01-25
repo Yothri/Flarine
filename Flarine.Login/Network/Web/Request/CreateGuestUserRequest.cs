@@ -15,7 +15,7 @@ namespace Flarine.Login.Network.Web.Request
             {
                 UserId = Utils.RandomString(10),
                 UserSecret = Utils.RandomString(15),
-                AccountId = Guid.NewGuid().ToString()
+                AccountGuid = Guid.NewGuid().ToString()
             };
 
             using (var context = DatabaseService.GetContext())

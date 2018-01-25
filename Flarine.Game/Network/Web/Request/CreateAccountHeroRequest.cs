@@ -33,6 +33,7 @@ namespace Flarine.Game.Network.Web.Request
 
                 var hero = new Hero
                 {
+                    ParentAccount = account,
                     HeroId = HeroId,
                     FaceId = FaceId,
                     CostumeId = 0,
