@@ -18,8 +18,4 @@
     <ProjectReference Include="..\WebCommon\WebCommon.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Network\Photon\Handler\Event\" />
-  </ItemGroup>
-
 </Project>

@@ -108,5 +108,9 @@ namespace Flarine.Database.Entity
         public int BeadSocketCount { get; set; }
         public int PkPoint { get; set; }
         public int VipLevel { get; set; }
+        public float X { get; set; }
+        public float Y { get; set; }
+        public float Z { get; set; }
+        public float RotationY { get; set; }
     }
 }

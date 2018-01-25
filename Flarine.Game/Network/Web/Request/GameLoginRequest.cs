@@ -39,13 +39,26 @@ namespace Flarine.Game.Network.Web.Request
 
             ctx.GameSessions.Add(new GameSession
             {
-                User = loginSession.User
+                User = loginSession.User,
+                AccountHeros = account.AccountHeros.Select(h => new Character(h, account.AccountGuid)).ToList()
             });
 
-            List<AccountHero> accountHeros = new List<AccountHero>();
+            List<object> accountHeros = new List<object>();
             foreach (var hero in account.AccountHeros)
             {
-                accountHeros.Add(new AccountHero(hero, account.AccountGuid));
+                accountHeros.Add(new
+                {
+                    accountId = account.AccountGuid,
+                    accountHeroId = hero.Id,
+                    heroId = hero.HeroId,
+                    faceId = hero.FaceId,
+                    name = hero.Name,
+                    level = hero.Level,
+                    tradition = hero.Tradition,
+                    costumeId = hero.CostumeId,
+                    costumeVisible = hero.CostumeVisible,
+                    mountTier = hero.MountTier
+                });
             }
 
             return new GameLoginResponse

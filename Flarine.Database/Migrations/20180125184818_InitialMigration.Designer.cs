@@ -11,7 +11,7 @@ using System;
 namespace Flarine.Database.Migrations
 {
     [DbContext(typeof(MySQLContext))]
-    [Migration("20180125155407_InitialMigration")]
+    [Migration("20180125184818_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -206,6 +206,8 @@ namespace Flarine.Database.Migrations
 
                     b.Property<int>("ReceivedCheerCount");
 
+                    b.Property<float>("RotationY");
+
                     b.Property<int>("Stamina");
 
                     b.Property<int>("StarEssense");
@@ -245,6 +247,12 @@ namespace Flarine.Database.Migrations
                     b.Property<int>("WarehouseSlotCount");
 
                     b.Property<bool>("WhisperRefused");
+
+                    b.Property<float>("X");
+
+                    b.Property<float>("Y");
+
+                    b.Property<float>("Z");
 
                     b.HasKey("Id");
 

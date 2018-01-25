@@ -112,6 +112,7 @@ namespace Flarine.Database.Migrations
                     PushEnabled = table.Column<bool>(nullable: false),
                     ReceiveMailPushEnabled = table.Column<bool>(nullable: false),
                     ReceivedCheerCount = table.Column<int>(nullable: false),
+                    RotationY = table.Column<float>(nullable: false),
                     Stamina = table.Column<int>(nullable: false),
                     StarEssense = table.Column<int>(nullable: false),
                     StatAgility = table.Column<int>(nullable: false),
@@ -131,7 +132,10 @@ namespace Flarine.Database.Migrations
                     WarehouseGold = table.Column<int>(nullable: false),
                     WarehouseOwnGold = table.Column<int>(nullable: false),
                     WarehouseSlotCount = table.Column<int>(nullable: false),
-                    WhisperRefused = table.Column<bool>(nullable: false)
+                    WhisperRefused = table.Column<bool>(nullable: false),
+                    X = table.Column<float>(nullable: false),
+                    Y = table.Column<float>(nullable: false),
+                    Z = table.Column<float>(nullable: false)
                 },
                 constraints: table =>
                 {

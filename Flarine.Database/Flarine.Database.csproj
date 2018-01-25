@@ -21,5 +21,9 @@
     <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.1" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Flarine.Core\Flarine.Core.csproj" />
+  </ItemGroup>
 
 </Project>

@@ -78,7 +78,7 @@ namespace Flarine.Login
             SaveConfiguration(LoginConfig, CONFIG_PATH);
         }
 
-        private void Sessions_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
+        private void Sessions_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
         {
             if(e.Action == NotifyCollectionChangedAction.Add)
             {

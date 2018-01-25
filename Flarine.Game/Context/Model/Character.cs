@@ -1,11 +1,11 @@
-﻿using Flarine.Database.Entity;
-using Newtonsoft.Json;
+﻿using System.Numerics;
+using Flarine.Database.Entity;
 
 namespace Flarine.Game.Context.Model
 {
-    internal sealed class AccountHero
+    internal sealed class Character
     {
-        public AccountHero(Hero hero, string accountId)
+        public Character(Hero hero, string accountId)
         {
             AccountId = accountId;
             AccountHeroId = hero.Id;
@@ -17,36 +17,21 @@ namespace Flarine.Game.Context.Model
             CostumeId = hero.CostumeId;
             CostumeVisible = hero.CostumeVisible;
             MountTier = hero.MountTier;
+            Position = new Vector3(hero.X, hero.Y, hero.Z);
+            RotationY = hero.RotationY;
         }
-
-        [JsonProperty("accountId")]
-        public string AccountId { get; set; }
-
-        [JsonProperty("accountHeroId")]
-        public int AccountHeroId { get; set; }
         
-        [JsonProperty("heroId")]
+        public string AccountId { get; set; }
+        public int AccountHeroId { get; set; }
         public int HeroId { get; set; }
-
-        [JsonProperty("faceId")]
         public int FaceId { get; set; }
-
-        [JsonProperty("name")]
         public string Name { get; set; }
-
-        [JsonProperty("level")]
         public int Level { get; set; }
-
-        [JsonProperty("tradition")]
         public int Tradition { get; set; }
-
-        [JsonProperty("costumeId")]
         public int CostumeId { get; set; }
-
-        [JsonProperty("costumeVisible")]
         public bool CostumeVisible { get; set; }
-
-        [JsonProperty("mountTier")]
         public int MountTier { get; set; }
+        public Vector3 Position { get; set; }
+        public float RotationY { get; set; }
     }
 }

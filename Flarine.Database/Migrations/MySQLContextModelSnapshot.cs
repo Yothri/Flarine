@@ -205,6 +205,8 @@ namespace Flarine.Database.Migrations
 
                     b.Property<int>("ReceivedCheerCount");
 
+                    b.Property<float>("RotationY");
+
                     b.Property<int>("Stamina");
 
                     b.Property<int>("StarEssense");
@@ -244,6 +246,12 @@ namespace Flarine.Database.Migrations
                     b.Property<int>("WarehouseSlotCount");
 
                     b.Property<bool>("WhisperRefused");
+
+                    b.Property<float>("X");
+
+                    b.Property<float>("Y");
+
+                    b.Property<float>("Z");
 
                     b.HasKey("Id");
 
