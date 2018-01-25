@@ -41,7 +41,7 @@ namespace Flarine.Login.Network.Web.Request
                 UserType = 1,
                 UserId = account.UserId,
                 UserSecret = account.UserSecret,
-                AccessToken = accessToken.ToString(),
+                UserAccessToken = accessToken.ToString(),
                 LastVirtualGameServer = 0
             };
 
@@ -59,14 +59,14 @@ namespace Flarine.Login.Network.Web.Request
             {
                 packet.Write((short)OpCode.REGISTER_USER);
                 packet.Write(user.UserId);
-                packet.Write(user.AccessToken);
+                packet.Write(user.UserAccessToken);
                 loginCtx.GetService<ISCServer>().SendTo(loginCtx.GameServers.Select(d => d.Key), packet);
             }
 
             return new LoginResponse
             {
                 UserType = user.UserType,
-                AccessToken = user.AccessToken,
+                AccessToken = user.UserAccessToken,
                 LastVirtualGameServerId = user.LastVirtualGameServer
             };
         }

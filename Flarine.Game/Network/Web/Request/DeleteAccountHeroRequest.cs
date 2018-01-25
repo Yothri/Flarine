@@ -11,7 +11,7 @@ namespace Flarine.Game.Network.Web.Request
         public override WPDResponse Handle()
         {
             var session = GameContext.GameSessions
-                .Where(s => s.GameAccessToken == GameAccessToken)
+                .Where(s => s.User.GameAccessToken == GameAccessToken)
                 .FirstOrDefault();
 
             if (session == null) return new DeleteAccountHeroResponse { Result = 102 };

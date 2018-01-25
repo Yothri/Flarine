@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using Flarine.Core.Context;
 using Flarine.Core.Util;
-using Flarine.Database;
-using Flarine.Database.Entity;
 using Flarine.Game.Context.Model;
 using Flarine.Game.Network.Web.Response;
 using Flarine.Network.Web;
@@ -14,22 +12,18 @@ using Newtonsoft.Json.Linq;
 
 namespace Flarine.Game.Network.Web.Request
 {
-    internal sealed class GameLoginRequest : WPDRequest
+    internal sealed class GameLoginRequest : GameWPDRequest
     {
         public override WPDResponse Handle()
         {
-            var loginSession = ContextBase.GetInstance<GameContext>().LoginSessions.FirstOrDefault(s => s.User.AccessToken == UserAccessToken);
+            var loginSession = ContextBase.GetInstance<GameContext>().LoginSessions.FirstOrDefault(s => s.User.UserAccessToken == UserAccessToken);
             if (loginSession == null)
                 return new GameLoginResponse { Result = 1 };
 
-            var account = default(Account);
-            using (var dbCtx = DatabaseService.GetContext())
-            {
-                account = dbCtx.Accounts
+            var account = DataContext.Accounts
                     .Where(a => a.UserId == loginSession.User.UserId)
                     .Include(a => a.AccountHeros)
                     .FirstOrDefault();
-            }
 
             if (account == null)
                 return new GameLoginResponse { Result = 1 };
@@ -41,11 +35,11 @@ namespace Flarine.Game.Network.Web.Request
             gameAccessToken["accountId"] = account.AccountGuid;
             gameAccessToken["accessSecret"] = Utils.RandomString(20);
             gameAccessToken["checkCode"] = Utils.RandomString(32);
+            loginSession.User.GameAccessToken = gameAccessToken.ToString();
 
             ctx.GameSessions.Add(new GameSession
             {
-                User = loginSession.User,
-                GameAccessToken = gameAccessToken.ToString()
+                User = loginSession.User
             });
 
             List<AccountHero> accountHeros = new List<AccountHero>();

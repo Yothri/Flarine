@@ -18,7 +18,7 @@ namespace Flarine.Game.Network.ISC.Handler
                 User = new User
                 {
                     UserId = userId,
-                    AccessToken = accessToken
+                    UserAccessToken = accessToken
                 }
             });
 

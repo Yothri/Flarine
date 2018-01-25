@@ -12,7 +12,7 @@ namespace Flarine.Game.Network.Web.Request
         public override WPDResponse Handle()
         {
             var session = GameContext.GameSessions
-                .Where(s => s.GameAccessToken == GameAccessToken).FirstOrDefault();
+                .Where(s => s.User.GameAccessToken == GameAccessToken).FirstOrDefault();
 
             if (session == null) return new AccountHeroInfoResponse { Result = 1 };
 

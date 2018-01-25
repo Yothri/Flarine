@@ -12,7 +12,7 @@ namespace Flarine.Game.Network.Photon.Handler.Command
         public override void Handle(PhotonGameConnection connection, T requestBody)
         {
             var session = GameContext.GameSessions
-                .Where(s => s.NetUser == connection)
+                .Where(s => s.Connection == connection)
                 .FirstOrDefault();
 
             if (session == null) return;

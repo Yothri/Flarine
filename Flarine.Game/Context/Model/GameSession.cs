@@ -5,9 +5,8 @@ namespace Flarine.Game.Context.Model
 {
     internal sealed class GameSession
     {
-        public NetUser NetUser { get; set; }
+        public NetUser Connection { get; set; }
         public User User { get; set; }
-        public string GameAccessToken { get; set; }
         public int SelectedPlayCharacter { get; set; }
     }
 }

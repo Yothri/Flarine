@@ -11,13 +11,13 @@ namespace Flarine.Game.Network.Photon.Handler.Command
         public override void Handle(PhotonGameConnection connection, T requestBody)
         {
             var session = GameContext.GameSessions
-                .Where(s => s.GameAccessToken == requestBody.accessToken).FirstOrDefault();
+                .Where(s => s.User.GameAccessToken == requestBody.accessToken).FirstOrDefault();
 
             if (session == null)
                 return;
 
             // Associate PhotonConnection with GameSession.
-            session.NetUser = connection;
+            session.Connection = connection;
 
             connection.SendResponse(new LoginResponseBody(), ClientCommon.ClientCommandName.kCommand_Login);
         }
