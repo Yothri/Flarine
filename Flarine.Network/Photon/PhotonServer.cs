@@ -1,5 +1,5 @@
-﻿using Ether.Network;
-using Ether.Network.Interfaces;
+﻿using Ether.Network.Packets;
+using Ether.Network.Server;
 using Flarine.Network.Photon.Common;
 
 namespace Flarine.Network.Photon

@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using ClientCommon;
-using ClientCommon.ClientEventBody;
 using ClientCommon.CommandBody;
 using ClientCommon.ServerEventBody;
-using Ether.Network;
-using Ether.Network.Interfaces;
+using Ether.Network.Common;
 using Ether.Network.Packets;
 using Flarine.Core.Util;
 using Flarine.Network.Photon.IO;

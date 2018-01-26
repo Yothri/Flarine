@@ -1,5 +1,5 @@
-﻿using Ether.Network;
-using Ether.Network.Interfaces;
+﻿using Ether.Network.Common;
+using Ether.Network.Packets;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
 using Flarine.Network.ISC.Handler;

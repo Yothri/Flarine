@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net.Sockets;
-using Ether.Network;
-using Ether.Network.Interfaces;
+using Ether.Network.Client;
 using Ether.Network.Packets;
 using Flarine.Core.Context;
 using Flarine.Core.Log;

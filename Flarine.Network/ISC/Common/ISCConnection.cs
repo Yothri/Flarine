@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ether.Network;
+using Ether.Network.Common;
 using Flarine.Core.Network.ISC;
 
 namespace Flarine.Network.ISC.Common

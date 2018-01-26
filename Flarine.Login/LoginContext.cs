@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.IO;
-using Ether.Network;
+using Ether.Network.Common;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
 using Flarine.Core.Log;

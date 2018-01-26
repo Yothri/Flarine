@@ -1,5 +1,5 @@
-﻿using Ether.Network;
-using Ether.Network.Interfaces;
+﻿using Ether.Network.Common;
+using Ether.Network.Packets;
 
 namespace Flarine.Network.ISC.Handler
 {

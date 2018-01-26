@@ -1,5 +1,5 @@
 ﻿using System;
-using Ether.Network;
+using Ether.Network.Server;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
 using Flarine.Core.Log;
