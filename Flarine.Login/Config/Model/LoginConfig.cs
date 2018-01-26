@@ -8,7 +8,7 @@ namespace Flarine.Login.Config.Model
     {
         public string DatabaseEngine { get; set; } = "MySql";
         public string WPDListenPrefix { get; set; } = "http://*:8010/auth/";
-        public string ISCServerHost { get; set; } = "192.168.0.122";
+        public string ISCServerHost { get; set; } = "0.0.0.0";
         public int ISCServerPort { get; set; } = 8011;
         public Language DefaultLanguageId { get; set; } = Language.English;
         public SystemSetting[] SystemSettings { get; set; } = new SystemSetting[]

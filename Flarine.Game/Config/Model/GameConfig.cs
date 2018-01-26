@@ -8,7 +8,7 @@ namespace Flarine.Game.Config.Model
         public string WPDListenPrefix { get; set; } = "http://*:8020/game/";
         public string LoginISCHost { get; set; } = "192.168.0.122";
         public int LoginISCPort { get; set; } = 8011;
-        public string ISCServerHost { get; set; } = "192.168.0.122";
+        public string ISCServerHost { get; set; } = "0.0.0.0";
         public int ISCServerPort { get; set; } = 8021;
         public string GameServerHost { get; set; } = "192.168.0.122";
         public int GameServerPort { get; set; } = 8022;

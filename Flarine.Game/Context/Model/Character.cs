@@ -1,4 +1,5 @@
 ﻿using System.Numerics;
+using ClientCommon.PacketData;
 using Flarine.Database.Entity;
 
 namespace Flarine.Game.Context.Model
@@ -33,5 +34,24 @@ namespace Flarine.Game.Context.Model
         public int MountTier { get; set; }
         public Vector3 Position { get; set; }
         public float RotationY { get; set; }
+
+        public PDAccountHero GetPDAccountHero()
+        {
+            return new PDAccountHero
+            {
+                accountHeroId = AccountHeroId,
+                name = Name,
+                heroId = HeroId,
+                faceId = FaceId,
+                level = Level,
+                position = new PDVector3(Position.X, Position.Y, Position.Z),
+                rotationY = RotationY,
+                hp = 25,
+                abnormalStateEffects = new PDAbnormalStateEffect[] { },
+                equippedGearExs = new PDAccountHeroGearEx[] { },
+                equippedGears = new PDAccountHeroGear[] { },
+                moveSpeed = 7.0f
+            };
+        }
     }
 }

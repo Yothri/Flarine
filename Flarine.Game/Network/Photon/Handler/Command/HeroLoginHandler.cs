@@ -20,15 +20,20 @@ namespace Flarine.Game.Network.Photon.Handler.Command
 
             if (session == null) return;
 
-            var hero = DataContext.Heros
-                .Where(h => h.Id == session.SelectedPlayCharacter)
+            var character = session
+                .AccountHeros
+                .Where(h => h.AccountHeroId == session.SelectedPlayCharacter)
                 .FirstOrDefault();
 
-            if (hero == null) return;
+            var otherCharacters = GameContext.GameSessions
+                .Where(s => s.Connection != connection)
+                .SelectMany(s => s.AccountHeros).ToArray();
+
+            if (character == null) return;
 
             var heroLoginResponse = new HeroLoginResponseBody
             {
-                accountHeroes = new PDAccountHero[] { },
+                accountHeroes = otherCharacters.ToList().Select(c => c.GetPDAccountHero()).ToArray(),
                 arenaStatue = new PDArenaStatue() { },
                 abyssTowerFloor = 0,
                 abyssTowerSweepCount = 0,
@@ -61,17 +66,7 @@ namespace Flarine.Game.Network.Photon.Handler.Command
                 levelUpPackageEvent3EntryLogs = new int[] { },
                 levelUpPackageEventEntryLogs = new int[] { },
                 monsters = new PDMonsterInstance[] { },
-                myAccountHero = new PDAccountHero()
-                {
-                    accountHeroId = hero.Id,
-                    name = hero.Name,
-                    level = hero.Level,
-                    abnormalStateEffects = new PDAbnormalStateEffect[] { },
-                    equippedGearExs = new PDAccountHeroGearEx[] { },
-                    equippedGears = new PDAccountHeroGear[] { },
-                    position = new PDVector3(0, 0, 0),
-                    isGM = true
-                },
+                myAccountHero = character.GetPDAccountHero(),
                 purchaseProductBuyCounts = new PDPurchaseProductBuyCount[] { },
                 spawnedContinentBossMonsters = new int[] { },
                 storyDungeonPlayCounts = new PDStoryDungeonPlayCount[] { },
@@ -84,12 +79,12 @@ namespace Flarine.Game.Network.Photon.Handler.Command
             // Send Hero Login to other clients
             // Later maybe check whether in range
             GameContext.GameSessions
-                .Where(s => s.Connection != connection)
+                .Where(s => s.Connection != null && s.Connection != connection)
                 .ToList()
-                .ForEach(s => s.Connection.SendEvent(new SEBInterestTargetChangeEventBody
+                .ForEach(s => s.Connection.SendEvent(new SEBHeroEnterEventBody
                 {
-                    addedAccountHeroes = new PDAccountHero[] { heroLoginResponse.myAccountHero }
-                }, ServerEventName.kEvent_InterestTargetChange));
+                    accountHero = heroLoginResponse.myAccountHero
+                }, ServerEventName.kEvent_HeroEnter));
         }
     }
 }

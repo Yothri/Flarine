@@ -1,8 +1,12 @@
 ﻿using System;
+using System.Linq;
 using System.Reflection;
+using ClientCommon;
+using ClientCommon.ServerEventBody;
 using Flarine.Core.Context;
 using Flarine.Core.Log;
 using Flarine.Core.Network.Photon;
+using Flarine.Database;
 using Flarine.Game.Network.Photon.Common;
 using Flarine.Network.Photon;
 
@@ -50,6 +54,39 @@ namespace Flarine.Game.Network.Photon
 
         protected override void OnClientDisconnected(PhotonGameConnection connection)
         {
+            var session = ContextBase.GetInstance<GameContext>().GameSessions
+                .Where(s => s.Connection == connection)
+                .FirstOrDefault();
+
+            using (var dbCtx = DatabaseService.GetContext())
+            {
+                var hero = dbCtx.Heros
+                    .Where(h => h.Id == session.SelectedPlayCharacter)
+                    .FirstOrDefault();
+
+                var character = session.AccountHeros
+                    .Where(h => h.AccountHeroId == session.SelectedPlayCharacter)
+                    .FirstOrDefault();
+
+                hero.X = character.Position.X;
+                hero.Y = character.Position.Y;
+                hero.Z = character.Position.Z;
+                hero.RotationY = character.RotationY;
+                dbCtx.SaveChanges();
+            }
+
+                // disconnect user to other clients
+                ContextBase.GetInstance<GameContext>().GameSessions
+                    .Where(s => s.Connection != null && s.Connection != connection)
+                    .ToList()
+                    .ForEach(s => s.Connection.SendEvent(new SEBHeroExitEventBody
+                    {
+                        accountHeroId = session.SelectedPlayCharacter
+                    }, ServerEventName.kEvent_HeroExit));
+
+            ContextBase.GetInstance<GameContext>().GameSessions.Remove(session);
+
+
             Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from GameServer.");
         }
 
