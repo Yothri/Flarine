@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Linq;
+using ClientCommon;
 using ClientCommon.CommandBody;
 using ClientCommon.PacketData;
+using ClientCommon.ServerEventBody;
 using Flarine.Core.Network.Photon;
 using Flarine.Game.Network.Photon.Common;
 
 namespace Flarine.Game.Network.Photon.Handler.Command
 {
-    [PhotonCommandHandler(ClientCommon.ClientCommandName.kCommand_HeroLogin, typeof(HeroLoginCommandBody))]
+    [PhotonCommandHandler(ClientCommandName.kCommand_HeroLogin, typeof(HeroLoginCommandBody))]
     internal sealed class HeroLoginHandler<T> : OperationHandler<T> where T : HeroLoginCommandBody
     {
         public override void Handle(PhotonGameConnection connection, T requestBody)
@@ -24,10 +26,10 @@ namespace Flarine.Game.Network.Photon.Handler.Command
 
             if (hero == null) return;
 
-            connection.SendResponse(new HeroLoginResponseBody
+            var heroLoginResponse = new HeroLoginResponseBody
             {
-                accountHeroes = new ClientCommon.PacketData.PDAccountHero[] { },
-                arenaStatue = new ClientCommon.PacketData.PDArenaStatue() { },
+                accountHeroes = new PDAccountHero[] { },
+                arenaStatue = new PDArenaStatue() { },
                 abyssTowerFloor = 0,
                 abyssTowerSweepCount = 0,
                 accumulateChargeRewardReceiveEntryIds = new int[] { },
@@ -74,8 +76,20 @@ namespace Flarine.Game.Network.Photon.Handler.Command
                 spawnedContinentBossMonsters = new int[] { },
                 storyDungeonPlayCounts = new PDStoryDungeonPlayCount[] { },
                 suppressionQuest = new PDAccountHeroSuppressionQuest() { }
+            };
 
-            }, ClientCommon.ClientCommandName.kCommand_HeroLogin);
+            connection.SendResponse(heroLoginResponse, ClientCommandName.kCommand_HeroLogin);
+
+
+            // Send Hero Login to other clients
+            // Later maybe check whether in range
+            GameContext.GameSessions
+                .Where(s => s.Connection != connection)
+                .ToList()
+                .ForEach(s => s.Connection.SendEvent(new SEBInterestTargetChangeEventBody
+                {
+                    addedAccountHeroes = new PDAccountHero[] { heroLoginResponse.myAccountHero }
+                }, ServerEventName.kEvent_InterestTargetChange));
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using ClientCommon;
 using ClientCommon.ClientEventBody;
 using ClientCommon.CommandBody;
+using ClientCommon.ServerEventBody;
 using Ether.Network;
 using Ether.Network.Interfaces;
 using Ether.Network.Packets;
@@ -124,7 +125,7 @@ namespace Flarine.Network.Photon.Common
             }
         }
 
-        public void SendEvent(CEBClientEventBody body, ServerEventName name)
+        public void SendEvent(SEBServerEventBody body, ServerEventName name)
         {
             SendEventData(new OperationRequest
             {
