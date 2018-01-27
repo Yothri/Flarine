@@ -75,16 +75,16 @@ namespace Flarine.Game.Network.Photon
                 dbCtx.SaveChanges();
             }
 
-                // disconnect user to other clients
-                ContextBase.GetInstance<GameContext>().GameSessions
-                    .Where(s => s.Connection != null && s.Connection != connection)
-                    .ToList()
-                    .ForEach(s => s.Connection.SendEvent(new SEBHeroExitEventBody
-                    {
-                        accountHeroId = session.SelectedPlayCharacter
-                    }, ServerEventName.kEvent_HeroExit));
+            // disconnect user to other clients
+            GameContext.GameSessions
+                .Where(s => s.Connection != null && s.Connection != connection)
+                .ToList()
+                .ForEach(s => s.Connection.SendEvent(new SEBHeroExitEventBody
+                {
+                    accountHeroId = session.SelectedPlayCharacter
+                }, ServerEventName.kEvent_HeroExit));
 
-            ContextBase.GetInstance<GameContext>().GameSessions.Remove(session);
+            GameContext.GameSessions.Remove(session);
 
 
             Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from GameServer.");
@@ -94,5 +94,7 @@ namespace Flarine.Game.Network.Photon
         {
             Logger.Log($"{exception.StackTrace}", LogLevel.Exception);
         }
+
+        private GameContext GameContext => ContextBase.GetInstance<GameContext>();
     }
 }
