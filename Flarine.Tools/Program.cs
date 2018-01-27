@@ -37,7 +37,7 @@ namespace Flarine.Tools
             WPDAccountHeroInfo info = new WPDAccountHeroInfo();
             info.DeserializeFromBase64String(File.ReadAllText(data));
 
-            var bla =JsonConvert.SerializeObject(info);
+            var bla =JsonConvert.SerializeObject(info, Formatting.Indented);
             File.WriteAllText(@"C:\Users\johan\desktop\test.json", bla);
 
             //if (!Directory.Exists(path))

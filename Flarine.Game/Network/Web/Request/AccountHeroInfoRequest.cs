@@ -137,7 +137,7 @@ namespace Flarine.Game.Network.Web.Request
                 accountHeroGears = new WPDAccountHeroGear[] { },
                 accountHeroMenuActivations = new WPDAccountHeroMenuActivation[] { },
                 accountHeroMonsterBooks = new WPDAccountHeroMonsterBook[] { },
-                accountHeroSkills = new WPDAccountHeroSkill[] 
+                accountHeroSkills = new WPDAccountHeroSkill[]
                 {
                     new WPDAccountHeroSkill()
                     {
@@ -201,7 +201,29 @@ namespace Flarine.Game.Network.Web.Request
                 limitedProductMasters = new WPDLimitedProductMaster[] { },
                 limitedProducts = new WPDLimitedProduct[] { },
                 magicPowderExchangeProducts = new WPDMagicPowderExchangeProduct[] { },
-                mainQuest = null, // new WPDMainQuest() {  },
+                mainQuest = new WPDMainQuest()
+                {
+                    mainQuestId = 1,
+                    chapterId = 1,
+                    objectiveCompleted = false,
+                    completed = false,
+                    monsterKilledCount = 0,
+                    name = string.Empty,
+                    nameKey = "MAINQUEST_NAME_0001",
+                    targetGuide = string.Empty,
+                    targetGuideKey = "TGUIDE_NAME_0001",
+                    completeGuide = string.Empty,
+                    completeGuideKey = "CGUIDE_NAME_0001",
+                    type = 1,
+                    completeNpcId = 2,
+                    completeDialogue = string.Empty,
+                    completeDialogueKey = "COMPDIAL_NAME_0001",
+                    exp = 18,
+                    gold = 1972,
+                    nextMainQuestId = 2,
+                    requiredHeroLevel = 1,
+                    moveType = 1
+                },
                 mainQuestComplete = new WPDMainQuestComplete() { chapterId = 1, mainQuestCompletedCount = 0 },
                 mainQuestDialogues = new WPDMainQuestDialogue[] { },
                 mainQuestRewards = new WPDMainQuestReward[] { },

@@ -70,7 +70,7 @@ namespace Flarine.Game.Network.Photon.Handler.Command
                 purchaseProductBuyCounts = new PDPurchaseProductBuyCount[] { },
                 spawnedContinentBossMonsters = new int[] { },
                 storyDungeonPlayCounts = new PDStoryDungeonPlayCount[] { },
-                suppressionQuest = new PDAccountHeroSuppressionQuest() { }
+                suppressionQuest = new PDAccountHeroSuppressionQuest() { },
             };
 
             connection.SendResponse(heroLoginResponse, ClientCommandName.kCommand_HeroLogin);

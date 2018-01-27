@@ -16,12 +16,12 @@ namespace Flarine.Game.Network.Photon
     {
         public PhotonGameServer()
         {
-            Configuration.Host = ContextBase.GetInstance<GameContext>().GameConfig.GameServerHost;
-            Configuration.Port = ContextBase.GetInstance<GameContext>().GameConfig.GameServerPort;
+            Configuration.Host = GameContext.GameConfig.GameServerHost;
+            Configuration.Port = GameContext.GameConfig.GameServerPort;
             Configuration.Blocking = false;
             Configuration.BufferSize = 8192;
             Configuration.Backlog = 100;
-            Configuration.MaximumNumberOfConnections = ContextBase.GetInstance<GameContext>().GameConfig.MaxGameServerConnections;
+            Configuration.MaximumNumberOfConnections = GameContext.GameConfig.MaxGameServerConnections;
         }
 
         protected override void Initialize()
