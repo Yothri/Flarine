@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using ClientCommon;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Network.Photon.Common;
 using Flarine.Network.Photon.IO.Protocol;
 

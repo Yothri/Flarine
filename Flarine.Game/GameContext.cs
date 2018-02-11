@@ -5,7 +5,7 @@ using System.IO;
 using System.Threading.Tasks;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Core.Network.Web;
 using Flarine.Database;
 using Flarine.Game.Config.Model;

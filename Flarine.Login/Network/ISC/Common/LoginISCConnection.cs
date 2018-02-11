@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Ether.Network.Packets;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Core.Network.ISC;
 using Flarine.Login.Network.ISC.Handler;
 using Flarine.Network.ISC.Common;

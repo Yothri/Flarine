@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using Flarine.Core.Config;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Newtonsoft.Json;
 
 namespace Flarine.Core.Context

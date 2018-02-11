@@ -4,7 +4,7 @@ using System.Net.Sockets;
 using Ether.Network.Client;
 using Ether.Network.Packets;
 using Flarine.Core.Context;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Core.Network.ISC;
 using Flarine.Game.Network.ISC.Handler;
 using Flarine.Network.ISC.Handler;

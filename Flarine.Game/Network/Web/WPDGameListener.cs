@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Flarine.Core.Context;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Game.Network.Web.Request;
 using Flarine.Network.Web;
 

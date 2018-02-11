@@ -4,7 +4,7 @@ using System.Reflection;
 using ClientCommon;
 using ClientCommon.ServerEventBody;
 using Flarine.Core.Context;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Core.Network.Photon;
 using Flarine.Database;
 using Flarine.Game.Network.Photon.Common;

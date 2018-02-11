@@ -6,7 +6,7 @@ using System.IO;
 using Ether.Network.Common;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Database;
 using Flarine.Login.Config.Model;
 using Flarine.Login.Context.Model;

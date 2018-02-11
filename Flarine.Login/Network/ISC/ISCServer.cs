@@ -2,7 +2,7 @@
 using Ether.Network.Server;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Login.Network.ISC.Common;
 
 namespace Flarine.Login.Network.ISC

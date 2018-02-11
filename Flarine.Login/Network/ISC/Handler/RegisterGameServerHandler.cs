@@ -3,7 +3,7 @@ using Ether.Network.Common;
 using Ether.Network.Packets;
 using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Core.Network.ISC;
 using Flarine.Network.ISC.Handler;
 

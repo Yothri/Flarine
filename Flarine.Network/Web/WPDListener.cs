@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 

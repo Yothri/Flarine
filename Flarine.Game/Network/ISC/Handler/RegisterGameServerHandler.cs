@@ -1,6 +1,6 @@
 ﻿using Ether.Network.Common;
 using Ether.Network.Packets;
-using Flarine.Core.Log;
+using Flarine.Core.Logging;
 using Flarine.Network.ISC.Handler;
 
 namespace Flarine.Game.Network.ISC.Handler
