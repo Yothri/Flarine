@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFrameworks>netcoreapp2.0;net461</TargetFrameworks>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ether.Network\src\Ether.Network\Ether.Network.csproj" />
     <ProjectReference Include="..\Flarine.Core\Flarine.Core.csproj" />
     <ProjectReference Include="..\Flarine.Network\Flarine.Network.csproj" />
   </ItemGroup>
