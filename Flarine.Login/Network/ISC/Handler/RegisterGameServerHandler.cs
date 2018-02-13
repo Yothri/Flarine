@@ -6,6 +6,7 @@ using Flarine.Core.Context.Model;
 using Flarine.Core.Logging;
 using Flarine.Core.Network.ISC;
 using Flarine.Network.ISC.Handler;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Login.Network.ISC.Handler
 {
@@ -36,13 +37,13 @@ namespace Flarine.Login.Network.ISC.Handler
             if (ctx.GameServers.Values.Any(g => g.GameServerId == gameServer.GameServerId || g.VirtualGameServerId == gameServer.VirtualGameServerId))
             {
                 packet.Write(false);
-                Logger.Log($"GameServer registration for {gameServer.Name} with id {gameServer.GameServerId} was rejected.");
+                Logger.Get<RegisterGameServerHandler>().LogWarning($"GameServer registration for {gameServer.Name} with id {gameServer.GameServerId} was rejected.");
             }
             else
             {
                 ctx.GameServers.Add(connection, gameServer);
                 packet.Write(true);
-                Logger.Log($"GameServer registration for {gameServer.Name} with id {gameServer.GameServerId} was granted.");
+                Logger.Get<RegisterGameServerHandler>().LogInformation($"GameServer registration for {gameServer.Name} with id {gameServer.GameServerId} was granted.");
             }
             return packet;
         }

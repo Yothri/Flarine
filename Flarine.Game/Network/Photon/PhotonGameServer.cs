@@ -9,6 +9,7 @@ using Flarine.Core.Network.Photon;
 using Flarine.Database;
 using Flarine.Game.Network.Photon.Common;
 using Flarine.Network.Photon;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Game.Network.Photon
 {
@@ -43,13 +44,13 @@ namespace Flarine.Game.Network.Photon
                 }
             }
 
-            Logger.Log($"Loaded {PhotonGameConnection.CommandHandlers.Count} CommandHandlers and {PhotonGameConnection.EventHandlers.Count} EventHandlers.");
-            Logger.Log($"PhotonGameServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
+            Logger.Get<PhotonGameServer>().LogInformation($"Loaded {PhotonGameConnection.CommandHandlers.Count} CommandHandlers and {PhotonGameConnection.EventHandlers.Count} EventHandlers.");
+            Logger.Get<PhotonGameServer>().LogInformation($"PhotonGameServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
         }
 
         protected override void OnClientConnected(PhotonGameConnection connection)
         {
-            Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} connected to GameServer.");
+            Logger.Get<PhotonGameServer>().LogInformation($"{connection.Socket.RemoteEndPoint.ToString()} connected to GameServer.");
         }
 
         protected override void OnClientDisconnected(PhotonGameConnection connection)
@@ -87,12 +88,12 @@ namespace Flarine.Game.Network.Photon
             GameContext.GameSessions.Remove(session);
 
 
-            Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from GameServer.");
+            Logger.Get<PhotonGameServer>().LogInformation($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from GameServer.");
         }
 
         protected override void OnError(Exception exception)
         {
-            Logger.Log($"{exception.StackTrace}", LogLevel.Exception);
+            Logger.Get<PhotonGameServer>().LogTrace($"{exception.StackTrace}");
         }
 
         private GameContext GameContext => ContextBase.GetInstance<GameContext>();

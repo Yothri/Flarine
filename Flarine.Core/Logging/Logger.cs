@@ -1,58 +1,35 @@
-﻿using System;
+﻿using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 
 namespace Flarine.Core.Logging
 {
-    public enum LogLevel
+    public class Logger
     {
-        Info,
-        Warning,
-        Error,
-        Exception,
-        Fatal
-    }
-
-    public static class Logger
-    {
-
-        private static bool initialized;
-        private static readonly Dictionary<LogLevel, ConsoleColor> LogLevelColors = new Dictionary<LogLevel, ConsoleColor>()
+        static Logger()
         {
-            { LogLevel.Info, ConsoleColor.White },
-            { LogLevel.Warning,  ConsoleColor.Yellow },
-            { LogLevel.Error, ConsoleColor.Red },
-            { LogLevel.Exception, ConsoleColor.Magenta },
-            { LogLevel.Fatal, ConsoleColor.DarkRed }
-        };
-
-        public static string GlobalTag { get; private set; }
-
-        public static void Initialize(string globalTag)
-        {
-            if (!initialized)
-                initialized = true;
-
-            GlobalTag = globalTag;
+            _loggerDict = new Dictionary<Type, ILogger>();
+            _loggerFactory = new LoggerFactory(new[] { new FlarineLogProvider() });
         }
 
-        public static void Log(string message, LogLevel level = LogLevel.Info)
+        public static ILogger Get<T>()
         {
-            if (!initialized)
-                throw new InvalidOperationException("Logger has not been initialized yet.");
+            if (!Loggers.ContainsKey(typeof(T)))
+                Loggers.Add(typeof(T), LoggerFactory.CreateLogger<T>());
 
-            Console.ForegroundColor = LogLevelColors[level];
-            if (message.StartsWith("["))
-                Console.WriteLine(message);
-            else
-                Console.WriteLine(string.Format("[{0}] {1}", GlobalTag, message));
-
-            Console.ResetColor();
+            return Loggers[typeof(T)];
         }
 
-        public static void Log(string tag, string message, LogLevel level = LogLevel.Info)
+        public static void CleanUp()
         {
-            Log(string.Format("[{0}] {1}", tag, message), level);
+            Loggers?.Clear();
+            LoggerFactory?.Dispose();
         }
 
+        public static IDictionary<Type, ILogger> Loggers => _loggerDict;
+        private static readonly Dictionary<Type, ILogger> _loggerDict;
+
+        public static ILoggerFactory LoggerFactory => _loggerFactory;
+        private readonly static ILoggerFactory _loggerFactory;
     }
 }

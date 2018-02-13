@@ -8,6 +8,7 @@ using Flarine.Core.Logging;
 using Flarine.Core.Network.ISC;
 using Flarine.Game.Network.ISC.Handler;
 using Flarine.Network.ISC.Handler;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Game.Network.ISC
 {
@@ -20,7 +21,7 @@ namespace Flarine.Game.Network.ISC
 
         protected override void OnConnected()
         {
-            Logger.Log("Connection to LoginISC has been established.");
+            Logger.Get<ISCClient>().LogInformation("Connection to LoginISC has been established.");
 
             var gsConfig = ContextBase.GetInstance<GameContext>().GameConfig.GameServerConfig;
             using (var packet = new NetPacket())
@@ -50,7 +51,7 @@ namespace Flarine.Game.Network.ISC
             OpCode code = (OpCode)packet.Read<short>();
             var type = default(Type);
             if (!Handlers.TryGetValue(code, out type))
-                Logger.Log($"Unhandled ISC OpCode {Enum.GetName(typeof(OpCode), code)}.", LogLevel.Warning);
+                Logger.Get<ISCClient>().LogWarning($"Unhandled ISC OpCode {Enum.GetName(typeof(OpCode), code)}.");
             else
             {
                 var response = (Activator.CreateInstance(type) as ISCHandler).Handle(this, packet);
@@ -61,12 +62,12 @@ namespace Flarine.Game.Network.ISC
 
         protected override void OnDisconnected()
         {
-            Logger.Log("Connection from LoginISC has been dropped.");
+            Logger.Get<ISCClient>().LogInformation("Connection from LoginISC has been dropped.");
         }
 
         protected override void OnSocketError(SocketError socketError)
         {
-            Logger.Log($"Socket Error {Enum.GetName(typeof(SocketError), socketError)} occured.", LogLevel.Error);
+            Logger.Get<ISCClient>().LogError($"Socket Error {Enum.GetName(typeof(SocketError), socketError)} occured.");
         }
 
         private readonly Dictionary<OpCode, Type> Handlers = new Dictionary<OpCode, Type>

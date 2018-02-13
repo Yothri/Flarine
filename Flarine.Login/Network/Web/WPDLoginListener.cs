@@ -4,6 +4,7 @@ using Flarine.Core.Context;
 using Flarine.Core.Logging;
 using Flarine.Login.Network.Web.Request;
 using Flarine.Network.Web;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Login.Network.Web
 {
@@ -16,12 +17,12 @@ namespace Flarine.Login.Network.Web
         
         protected override void OnListenerStart()
         {
-            Logger.Log("WPDLoginListener has been started.");
+            Logger.Get<WPDLoginListener>().LogInformation("WPDLoginListener has been started.");
         }
 
         protected override void OnListenerStop()
         {
-            Logger.Log("WPDLoginListener has been stopped.");
+            Logger.Get<WPDLoginListener>().LogInformation("WPDLoginListener has been stopped.");
         }
 
         protected override Dictionary<string, Type> Handlers => new Dictionary<string, Type>

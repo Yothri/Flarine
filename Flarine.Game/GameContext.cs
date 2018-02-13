@@ -12,6 +12,7 @@ using Flarine.Game.Config.Model;
 using Flarine.Game.Context.Model;
 using Flarine.Network.Web;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using WebCommon;
 
 namespace Flarine.Game
@@ -45,7 +46,7 @@ namespace Flarine.Game
             await Task.Factory.StartNew(() =>
             {
                 if (!Directory.Exists(GAMEDATA_PATH))
-                    Logger.Log($"GameData not found, please provide GameData in directory {GAMEDATA_PATH} first.", LogLevel.Fatal);
+                    Logger.Get<GameContext>().LogCritical($"GameData not found, please provide GameData in directory {GAMEDATA_PATH} first.");
                 else
                 {
                     var startTime = Environment.TickCount;
@@ -53,7 +54,7 @@ namespace Flarine.Game
                     CompressedGameDatas = WPDUtil.ZipToBase64(GameDatas.SerializeBase64String());
                     var timeDiff = Environment.TickCount - startTime;
 
-                    Logger.Log($"GameData has been loaded in {timeDiff} ms.");
+                    Logger.Get<GameContext>().LogInformation($"GameData has been loaded in {timeDiff} ms.");
                 }
             });
         }

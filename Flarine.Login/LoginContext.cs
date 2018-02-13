@@ -11,6 +11,7 @@ using Flarine.Database;
 using Flarine.Login.Config.Model;
 using Flarine.Login.Context.Model;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using WebCommon;
 
@@ -48,28 +49,28 @@ namespace Flarine.Login
             {
                 var clientText = JsonConvert.DeserializeObject<WPDClientTexts>(File.ReadAllText(file));
                 ClientTexts.Add(clientText);
-                Logger.Log($"{Enum.GetName(typeof(Language), clientText.languageId)} - Language ({clientText.languageId}) has been loaded.");
+                Logger.Get<LoginContext>().LogInformation($"{Enum.GetName(typeof(Language), clientText.languageId)} - Language ({clientText.languageId}) has been loaded.");
             }
 
             if (ClientTexts.Count == 0)
-                Logger.Log("ClientTexts not found. Provide at least one ClientText.", LogLevel.Fatal);
+                Logger.Get<LoginContext>().LogCritical("ClientTexts not found. Provide at least one ClientText.");
 
             GameAssetBundles = new List<GameAssetBundle>();
             if (!File.Exists(BUNDLES_PATH))
-                Logger.Log("AssetBundles not found. Provide GameAssetBundles first.", LogLevel.Fatal);
+                Logger.Get<LoginContext>().LogCritical("AssetBundles not found. Provide GameAssetBundles first.");
             else
             {
                 GameAssetBundles = JsonConvert.DeserializeObject<List<GameAssetBundle>>(File.ReadAllText(BUNDLES_PATH));
-                Logger.Log($"{GameAssetBundles.Count} AssetBundles have been loaded.");
+                Logger.Get<LoginContext>().LogInformation($"{GameAssetBundles.Count} AssetBundles have been loaded.");
             }
 
             ImageResources = new List<ImageResource>();
             if (!File.Exists(IMAGERES_PATH))
-                Logger.Log("ImageResources not found. Provide ImageResources first.", LogLevel.Fatal);
+                Logger.Get<LoginContext>().LogCritical("ImageResources not found. Provide ImageResources first.");
             else
             {
                 ImageResources = JsonConvert.DeserializeObject<List<ImageResource>>(File.ReadAllText(IMAGERES_PATH));
-                Logger.Log($"{ImageResources.Count} ImageResources have been loaded.");
+                Logger.Get<LoginContext>().LogInformation($"{ImageResources.Count} ImageResources have been loaded.");
             }
         }
 
@@ -83,12 +84,12 @@ namespace Flarine.Login
             if(e.Action == NotifyCollectionChangedAction.Add)
             {
                 foreach (LoginSession itm in e.NewItems)
-                    Logger.Log($"User {itm.User.UserId} logged in.");
+                    Logger.Get<LoginContext>().LogInformation($"User {itm.User.UserId} logged in.");
             }
             if(e.Action == NotifyCollectionChangedAction.Remove)
             {
                 foreach (LoginSession itm in e.OldItems)
-                    Logger.Log($"User {itm.User.UserId} logged out.");
+                    Logger.Get<LoginContext>().LogInformation($"User {itm.User.UserId} logged out.");
             }
         }
 

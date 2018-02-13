@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using Flarine.Core.Logging;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -66,13 +67,13 @@ namespace Flarine.Network.Web
             var cmd = default(JToken);
             if (!jsonObj.TryGetValue("cmd", out cmd))
             {
-                Logger.Log("Invalid WPD-Request!", LogLevel.Warning);
+                Logger.Get<WPDListener>().LogWarning("Invalid WPD-Request!");
                 return BadRequest(context.Response);
             }
 
             if (cmd.Type != JTokenType.String)
             {
-                Logger.Log("Illegal JSON-Type!", LogLevel.Warning);
+                Logger.Get<WPDListener>().LogWarning("Illegal JSON-Type!");
                 return BadRequest(context.Response);
             }
 
@@ -80,7 +81,7 @@ namespace Flarine.Network.Web
             var type = default(Type);
             if (!Handlers.TryGetValue(sCmd, out type))
             {
-                Logger.Log($"Unhandled {sCmd}Request.", LogLevel.Warning);
+                Logger.Get<WPDListener>().LogWarning($"Unhandled {sCmd}Request.");
                 dynamic obj = JsonConvert.DeserializeObject(requestBody);
                 Console.WriteLine(JsonConvert.SerializeObject(obj, Formatting.Indented));
                 return BadRequest(context.Response);

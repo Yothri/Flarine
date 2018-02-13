@@ -2,6 +2,7 @@
 using Ether.Network.Packets;
 using Flarine.Core.Logging;
 using Flarine.Network.ISC.Handler;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Game.Network.ISC.Handler
 {
@@ -10,9 +11,9 @@ namespace Flarine.Game.Network.ISC.Handler
         public override INetPacketStream Handle(NetUser connection, INetPacketStream stream)
         {
             if (stream.Read<bool>())
-                Logger.Log("GameServer registration has been granted.");
+                Logger.Get<RegisterGameServerHandler>().LogInformation("GameServer registration has been granted.");
             else
-                Logger.Log("GameServer registration has been refused.", LogLevel.Warning);
+                Logger.Get<RegisterGameServerHandler>().LogWarning("GameServer registration has been refused.");
 
             return null;
         }

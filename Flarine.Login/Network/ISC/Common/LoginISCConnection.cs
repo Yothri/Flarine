@@ -6,6 +6,7 @@ using Flarine.Core.Network.ISC;
 using Flarine.Login.Network.ISC.Handler;
 using Flarine.Network.ISC.Common;
 using Flarine.Network.ISC.Handler;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Login.Network.ISC.Common
 {
@@ -18,7 +19,7 @@ namespace Flarine.Login.Network.ISC.Common
             OpCode code = (OpCode)packet.Read<short>();
             var type = default(Type);
             if (!Handlers.TryGetValue(code, out type))
-                Logger.Log($"Unhandled ISC OpCode {Enum.GetName(typeof(OpCode), code)}.", LogLevel.Warning);
+                Logger.Get<LoginISCConnection>().LogWarning($"Unhandled ISC OpCode {Enum.GetName(typeof(OpCode), code)}.");
             else
             {
                 var response = (Activator.CreateInstance(type) as ISCHandler).Handle(this, packet);

@@ -4,6 +4,7 @@ using Flarine.Core.Context;
 using Flarine.Core.Logging;
 using Flarine.Game.Network.Web.Request;
 using Flarine.Network.Web;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Game.Network.Web
 {
@@ -16,12 +17,12 @@ namespace Flarine.Game.Network.Web
 
         protected override void OnListenerStart()
         {
-            Logger.Log("WPDGameListener has been started.");
+            Logger.Get<WPDGameListener>().LogInformation("WPDGameListener has been started.");
         }
 
         protected override void OnListenerStop()
         {
-            Logger.Log("WPDGameListener has been stopped.");
+            Logger.Get<WPDGameListener>().LogInformation("WPDGameListener has been stopped.");
         }
 
         protected override Dictionary<string, Type> Handlers => new Dictionary<string, Type>

@@ -4,6 +4,7 @@ using Flarine.Core.Context;
 using Flarine.Core.Context.Model;
 using Flarine.Core.Logging;
 using Flarine.Login.Network.ISC.Common;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Login.Network.ISC
 {
@@ -21,28 +22,28 @@ namespace Flarine.Login.Network.ISC
 
         protected override void Initialize()
         {
-            Logger.Log($"ISCServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
+            Logger.Get<ISCServer>().LogInformation($"ISCServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
         }
 
         protected override void OnClientConnected(LoginISCConnection connection)
         {
-            Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} connected to ISCServer.");
+            Logger.Get<ISCServer>().LogInformation($"{connection.Socket.RemoteEndPoint.ToString()} connected to ISCServer.");
         }
 
         protected override void OnClientDisconnected(LoginISCConnection connection)
         {
-            Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from ISCServer.");
+            Logger.Get<ISCServer>().LogInformation($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from ISCServer.");
 
             if(ContextBase.GetInstance<LoginContext>().GameServers.TryGetValue(connection, out GameServer gameServer))
             {
-                Logger.Log($"GameServer {gameServer.Name} with id {gameServer.GameServerId} deregistered.");
+                Logger.Get<ISCServer>().LogInformation($"GameServer {gameServer.Name} with id {gameServer.GameServerId} deregistered.");
                 ContextBase.GetInstance<LoginContext>().GameServers.Remove(connection);
             }
         }
 
         protected override void OnError(Exception exception)
         {
-            Logger.Log($"{exception.StackTrace}", LogLevel.Exception);
+            Logger.Get<ISCServer>().LogTrace($"{exception.StackTrace}");
         }
     }
 }

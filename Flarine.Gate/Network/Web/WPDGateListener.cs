@@ -4,6 +4,7 @@ using Flarine.Core.Context;
 using Flarine.Core.Logging;
 using Flarine.Gate.Network.Web.Request;
 using Flarine.Network.Web;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Gate.Network.Web
 {
@@ -13,12 +14,12 @@ namespace Flarine.Gate.Network.Web
 
         protected override void OnListenerStart()
         {
-            Logger.Log("WPDGateListener has been started.");
+            Logger.Get<WPDGateListener>().LogInformation("WPDGateListener has been started.");
         }
 
         protected override void OnListenerStop()
         {
-            Logger.Log("WPDGateListener has been stopped.");
+            Logger.Get<WPDGateListener>().LogInformation("WPDGateListener has been stopped.");
         }
 
         protected override Dictionary<string, Type> Handlers => new Dictionary<string, Type>

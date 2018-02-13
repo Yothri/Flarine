@@ -5,6 +5,7 @@ using ClientCommon;
 using Flarine.Core.Logging;
 using Flarine.Network.Photon.Common;
 using Flarine.Network.Photon.IO.Protocol;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Game.Network.Photon.Common
 {
@@ -22,10 +23,10 @@ namespace Flarine.Game.Network.Photon.Common
                     var handleAction = type.GetMethod("Handle");
                     var activator = Activator.CreateInstance(type);
                     handleAction.Invoke(activator, new object[] { this, Body.DeserializeRaw((byte[])request.Parameters[2], constraint, out long InReadCount) });
-                    Logger.Log($"{Enum.GetName(typeof(ClientCommandName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                    Logger.Get<PhotonGameConnection>().LogInformation($"{Enum.GetName(typeof(ClientCommandName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
                 }
                 else
-                    Logger.Log($"Unhandled {Enum.GetName(typeof(ClientCommandName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                    Logger.Get<PhotonGameConnection>().LogWarning($"Unhandled {Enum.GetName(typeof(ClientCommandName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
             }
             else
             {
@@ -37,10 +38,10 @@ namespace Flarine.Game.Network.Photon.Common
                     handleAction.Invoke(activator, new object[] { this, Body.DeserializeRaw((byte[])request.Parameters[1], constraint, out long InReadCount) });
                     
                     if(!EventLoggingBlacklist.Any(t => t == (ClientEventName)request.Parameters[0]))
-                        Logger.Log($"{Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                        Logger.Get<PhotonGameConnection>().LogInformation($"{Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
                 }
                 else
-                    Logger.Log($"Unhandled {Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
+                    Logger.Get<PhotonGameConnection>().LogWarning($"Unhandled {Enum.GetName(typeof(ClientEventName), request.Parameters[0])} Request from {Socket.RemoteEndPoint.ToString()}");
             }
         }
 

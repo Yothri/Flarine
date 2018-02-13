@@ -3,6 +3,7 @@ using Ether.Network.Server;
 using Flarine.Core.Context;
 using Flarine.Core.Logging;
 using Flarine.Game.Network.ISC.Common;
+using Microsoft.Extensions.Logging;
 
 namespace Flarine.Game.Network.ISC
 {
@@ -20,22 +21,22 @@ namespace Flarine.Game.Network.ISC
 
         protected override void Initialize()
         {
-            Logger.Log($"ISCServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
+            Logger.Get<ISCServer>().LogInformation($"ISCServer is about to start listening on {Configuration.Host}:{Configuration.Port}");
         }
 
         protected override void OnClientConnected(GameISCConnection connection)
         {
-            Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} connected to ISCServer.");
+            Logger.Get<ISCServer>().LogInformation($"{connection.Socket.RemoteEndPoint.ToString()} connected to ISCServer.");
         }
 
         protected override void OnClientDisconnected(GameISCConnection connection)
         {
-            Logger.Log($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from ISCServer.");
+            Logger.Get<ISCServer>().LogInformation($"{connection.Socket.RemoteEndPoint.ToString()} disconnected from ISCServer.");
         }
 
         protected override void OnError(Exception exception)
         {
-            Logger.Log($"{exception.StackTrace}", LogLevel.Exception);
+            Logger.Get<ISCServer>().LogTrace($"{exception.StackTrace}");
         }
     }
 }
