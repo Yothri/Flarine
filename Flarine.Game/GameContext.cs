@@ -41,9 +41,9 @@ namespace Flarine.Game
             SaveConfiguration(GameConfig, CONFIG_PATH);
         }
 
-        public async override void LoadAssets()
+        public override void LoadAssets()
         {
-            await Task.Factory.StartNew(() =>
+            Task.Factory.StartNew(() =>
             {
                 if (!Directory.Exists(GAMEDATA_PATH))
                     Logger.Get<GameContext>().LogCritical($"GameData not found, please provide GameData in directory {GAMEDATA_PATH} first.");
