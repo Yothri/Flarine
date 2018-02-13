@@ -19,7 +19,7 @@ namespace Flarine.Core.Logging
                 lock(_lockObj)
                 {
                     Console.ForegroundColor = LogLevelColors[logLevel];
-                    Console.Write($"[{CategoryName.Split('.').Last()}]");
+                    Console.Write($"[{CategoryName.Split('.').Last()}] ");
                     Console.ForegroundColor = ConsoleColor.Gray;
                     Console.WriteLine(formatter(state, exception));
                 }

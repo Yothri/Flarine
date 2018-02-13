@@ -21,10 +21,17 @@ namespace Flarine.Network.Web
         {
             if(!Listener.IsListening)
             {
-                Listener.Start();
-                OnListenerStart();
+                try
+                {
+                    Listener.Start();
+                    OnListenerStart();
 
-                Listener.BeginGetContext(new AsyncCallback(GetContextCallback), Listener);
+                    Listener.BeginGetContext(new AsyncCallback(GetContextCallback), Listener);
+                }
+                catch(HttpListenerException ex)
+                {
+                    Logger.Get<WPDListener>().LogTrace(ex.ToString());
+                }
             }
         }
 
