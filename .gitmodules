@@ -1,0 +1,3 @@
+[submodule "Ether.Network"]
+	path = Ether.Network
+	url = https://github.com/Eastrall/Ether.Network.git
