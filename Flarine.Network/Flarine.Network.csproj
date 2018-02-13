@@ -9,7 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Ether.Network\src\Ether.Network\Ether.Network.csproj" />
     <ProjectReference Include="..\ClientCommon\ClientCommon.csproj" />
     <ProjectReference Include="..\Ether.Network\src\Ether.Network\Ether.Network.csproj" />
     <ProjectReference Include="..\Flarine.Core\Flarine.Core.csproj" />
