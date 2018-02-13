@@ -1591,5 +1591,59 @@
     "description": "",
     "descriptionKey": "COSTUME_DESC_59003",
     "heroId": 3
+  },
+  {
+    "costumeId": 60001,
+    "type": 60,
+    "name": "",
+    "nameKey": "COSTUME_NAME_60001",
+    "description": "",
+    "descriptionKey": "COSTUME_DESC_60001",
+    "heroId": 1
+  },
+  {
+    "costumeId": 60002,
+    "type": 60,
+    "name": "",
+    "nameKey": "COSTUME_NAME_60002",
+    "description": "",
+    "descriptionKey": "COSTUME_DESC_60002",
+    "heroId": 2
+  },
+  {
+    "costumeId": 60003,
+    "type": 60,
+    "name": "",
+    "nameKey": "COSTUME_NAME_60003",
+    "description": "",
+    "descriptionKey": "COSTUME_DESC_60003",
+    "heroId": 3
+  },
+  {
+    "costumeId": 61001,
+    "type": 61,
+    "name": "",
+    "nameKey": "COSTUME_NAME_61001",
+    "description": "",
+    "descriptionKey": "COSTUME_DESC_61001",
+    "heroId": 1
+  },
+  {
+    "costumeId": 61002,
+    "type": 61,
+    "name": "",
+    "nameKey": "COSTUME_NAME_61002",
+    "description": "",
+    "descriptionKey": "COSTUME_DESC_61002",
+    "heroId": 2
+  },
+  {
+    "costumeId": 61003,
+    "type": 61,
+    "name": "",
+    "nameKey": "COSTUME_NAME_61003",
+    "description": "",
+    "descriptionKey": "COSTUME_DESC_61003",
+    "heroId": 3
   }
 ]

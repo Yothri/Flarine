@@ -410,6 +410,26 @@
     "viewScale": 1.0
   },
   {
+    "petId": 5001,
+    "name": "",
+    "nameKey": "PET_NAME_0501",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
+    "petId": 5002,
+    "name": "",
+    "nameKey": "PET_NAME_0502",
+    "phaseId": 3,
+    "heroId": 0,
+    "requiredHeroLevel": 1,
+    "ridable": false,
+    "viewScale": 1.0
+  },
+  {
     "petId": 90001,
     "name": "",
     "nameKey": "PET_NAME_90001",

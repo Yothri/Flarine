@@ -36,6 +36,24 @@
     "exchangeableCount": 1
   },
   {
+    "eventId": 6,
+    "entryId": 1,
+    "requiredLuckyBagCount": 7000,
+    "type": 1,
+    "itemId": 46060,
+    "itemCount": 1,
+    "exchangeableCount": 1
+  },
+  {
+    "eventId": 6,
+    "entryId": 2,
+    "requiredLuckyBagCount": 5000,
+    "type": 1,
+    "itemId": 55015,
+    "itemCount": 1,
+    "exchangeableCount": 0
+  },
+  {
     "eventId": 5,
     "entryId": 2,
     "requiredLuckyBagCount": 5000,
@@ -108,6 +126,24 @@
     "exchangeableCount": 10
   },
   {
+    "eventId": 6,
+    "entryId": 3,
+    "requiredLuckyBagCount": 3000,
+    "type": 1,
+    "itemId": 15001,
+    "itemCount": 1,
+    "exchangeableCount": 10
+  },
+  {
+    "eventId": 6,
+    "entryId": 4,
+    "requiredLuckyBagCount": 1000,
+    "type": 1,
+    "itemId": 51002,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
     "eventId": 5,
     "entryId": 4,
     "requiredLuckyBagCount": 1000,
@@ -172,6 +208,15 @@
   },
   {
     "eventId": 5,
+    "entryId": 5,
+    "requiredLuckyBagCount": 200,
+    "type": 1,
+    "itemId": 52001,
+    "itemCount": 2,
+    "exchangeableCount": 0
+  },
+  {
+    "eventId": 6,
     "entryId": 5,
     "requiredLuckyBagCount": 200,
     "type": 1,

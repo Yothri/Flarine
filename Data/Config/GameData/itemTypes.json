@@ -348,9 +348,63 @@
     "dailyUseMaxCount": 30
   },
   {
+    "itemType": 59,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0059",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 60,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0060",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 61,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0061",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 62,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0062",
+    "dailyUseMaxCount": 0
+  },
+  {
     "itemType": 63,
     "name": "",
     "nameKey": "ITEMTYPE_NAME_0063",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 64,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0008",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 65,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0009",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 66,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0066",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 67,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0067",
+    "dailyUseMaxCount": 0
+  },
+  {
+    "itemType": 68,
+    "name": "",
+    "nameKey": "ITEMTYPE_NAME_0068",
     "dailyUseMaxCount": 0
   },
   {

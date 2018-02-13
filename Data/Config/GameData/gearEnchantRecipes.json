@@ -33,7 +33,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 0,
-    "successRate": 9000
+    "successRate": 10000
   },
   {
     "enchantLevel": 4,
@@ -45,7 +45,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 0,
-    "successRate": 8000
+    "successRate": 9600
   },
   {
     "enchantLevel": 5,
@@ -57,7 +57,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 0,
-    "successRate": 7000
+    "successRate": 8400
   },
   {
     "enchantLevel": 6,
@@ -69,7 +69,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 0,
-    "successRate": 6000
+    "successRate": 7200
   },
   {
     "enchantLevel": 7,
@@ -81,7 +81,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 1,
-    "successRate": 5000
+    "successRate": 6000
   },
   {
     "enchantLevel": 8,
@@ -93,7 +93,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 1,
-    "successRate": 4500
+    "successRate": 5400
   },
   {
     "enchantLevel": 9,
@@ -105,7 +105,7 @@
     "material2ItemId": 0,
     "material2ItemCount": 0,
     "protectionScrollCount": 2,
-    "successRate": 4000
+    "successRate": 4800
   },
   {
     "enchantLevel": 10,
@@ -117,7 +117,7 @@
     "material2ItemId": 17001,
     "material2ItemCount": 1,
     "protectionScrollCount": 3,
-    "successRate": 3500
+    "successRate": 4200
   },
   {
     "enchantLevel": 11,
@@ -129,7 +129,7 @@
     "material2ItemId": 17001,
     "material2ItemCount": 1,
     "protectionScrollCount": 4,
-    "successRate": 3000
+    "successRate": 3600
   },
   {
     "enchantLevel": 12,
@@ -141,7 +141,7 @@
     "material2ItemId": 17001,
     "material2ItemCount": 1,
     "protectionScrollCount": 5,
-    "successRate": 2500
+    "successRate": 3000
   },
   {
     "enchantLevel": 13,
@@ -153,7 +153,7 @@
     "material2ItemId": 17001,
     "material2ItemCount": 1,
     "protectionScrollCount": 6,
-    "successRate": 2000
+    "successRate": 2400
   },
   {
     "enchantLevel": 14,
@@ -165,7 +165,7 @@
     "material2ItemId": 17001,
     "material2ItemCount": 1,
     "protectionScrollCount": 7,
-    "successRate": 1500
+    "successRate": 1800
   },
   {
     "enchantLevel": 15,
@@ -177,6 +177,6 @@
     "material2ItemId": 17001,
     "material2ItemCount": 1,
     "protectionScrollCount": 8,
-    "successRate": 1000
+    "successRate": 1200
   }
 ]

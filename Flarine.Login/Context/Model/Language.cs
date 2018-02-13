@@ -2,6 +2,7 @@
 {
     internal enum Language : int
     {
-        English = 11
+        English = 11,
+        German = 16
     }
 }

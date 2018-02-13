@@ -6,12 +6,12 @@
     "enchantLevelUpRequiredExp": 90,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 1,
-    "enchantExp": 100,
+    "enchantExp": 50,
     "enchantJackpotExp": 70,
     "evolutionTierUpRequiredExp": 3,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 1,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": false
   },
   {
@@ -21,12 +21,12 @@
     "enchantLevelUpRequiredExp": 141,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 2,
-    "enchantExp": 154,
+    "enchantExp": 77,
     "enchantJackpotExp": 100,
     "evolutionTierUpRequiredExp": 30,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 2,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -36,12 +36,12 @@
     "enchantLevelUpRequiredExp": 714,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 3,
-    "enchantExp": 300,
+    "enchantExp": 150,
     "enchantJackpotExp": 550,
     "evolutionTierUpRequiredExp": 120,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 3,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -51,12 +51,12 @@
     "enchantLevelUpRequiredExp": 2255,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 4,
-    "enchantExp": 400,
+    "enchantExp": 200,
     "enchantJackpotExp": 1000,
     "evolutionTierUpRequiredExp": 200,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 4,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -66,12 +66,12 @@
     "enchantLevelUpRequiredExp": 5504,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 5,
-    "enchantExp": 500,
+    "enchantExp": 250,
     "enchantJackpotExp": 1250,
     "evolutionTierUpRequiredExp": 280,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 6,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -81,12 +81,12 @@
     "enchantLevelUpRequiredExp": 11412,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 6,
-    "enchantExp": 600,
+    "enchantExp": 300,
     "enchantJackpotExp": 1500,
     "evolutionTierUpRequiredExp": 320,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 10,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -96,12 +96,12 @@
     "enchantLevelUpRequiredExp": 21142,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 7,
-    "enchantExp": 700,
+    "enchantExp": 350,
     "enchantJackpotExp": 1750,
     "evolutionTierUpRequiredExp": 320,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 15,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -111,12 +111,12 @@
     "enchantLevelUpRequiredExp": 36066,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 8,
-    "enchantExp": 800,
+    "enchantExp": 400,
     "enchantJackpotExp": 2000,
     "evolutionTierUpRequiredExp": 400,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 20,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -126,12 +126,12 @@
     "enchantLevelUpRequiredExp": 57771,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 9,
-    "enchantExp": 900,
+    "enchantExp": 450,
     "enchantJackpotExp": 2250,
     "evolutionTierUpRequiredExp": 400,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 25,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -141,12 +141,12 @@
     "enchantLevelUpRequiredExp": 57771,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 10,
-    "enchantExp": 1000,
+    "enchantExp": 500,
     "enchantJackpotExp": 2500,
     "evolutionTierUpRequiredExp": 448,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 29,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -156,12 +156,12 @@
     "enchantLevelUpRequiredExp": 57771,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 11,
-    "enchantExp": 1100,
+    "enchantExp": 550,
     "enchantJackpotExp": 2750,
     "evolutionTierUpRequiredExp": 500,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 30,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   },
   {
@@ -171,12 +171,12 @@
     "enchantLevelUpRequiredExp": 57771,
     "enchantMaterialItemId": 27001,
     "enchantMaterialItemCount": 12,
-    "enchantExp": 1200,
+    "enchantExp": 600,
     "enchantJackpotExp": 3000,
     "evolutionTierUpRequiredExp": 500,
     "evolutionMaterialItemId": 27002,
     "evolutionMaterialItemCount": 31,
-    "evolutionExp": 2,
+    "evolutionExp": 1,
     "freeFlyEnabled": true
   }
 ]

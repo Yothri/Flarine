@@ -470,5 +470,21 @@
     "grade": 4,
     "materialItemId": 49001,
     "disassembleItemId": 49001
+  },
+  {
+    "type": 60,
+    "name": "",
+    "nameKey": "COSTUME-T_NAME_0060",
+    "grade": 4,
+    "materialItemId": 49001,
+    "disassembleItemId": 49001
+  },
+  {
+    "type": 61,
+    "name": "",
+    "nameKey": "COSTUME-T_NAME_0061",
+    "grade": 4,
+    "materialItemId": 49001,
+    "disassembleItemId": 49001
   }
 ]
