@@ -25,8 +25,16 @@ namespace Flarine.Game
         public GameContext() : base("GameServer")
         {
             DatabaseService.SetEngine(GameConfig.DatabaseEngine);
-            DatabaseService.GetContext().Database.Migrate();
-            
+
+            try
+            {
+                DatabaseService.GetContext().Database.Migrate();
+            }
+            catch (Exception ex)
+            {
+                Logger.Get<GameContext>().LogTrace(ex.ToString());
+            }
+
             LoginSessions = new List<LoginSession>();
             GameSessions = new ObservableCollection<GameSession>();
         }

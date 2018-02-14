@@ -27,7 +27,15 @@ namespace Flarine.Login
         public LoginContext() : base("LoginServer")
         {
             DatabaseService.SetEngine(LoginConfig.DatabaseEngine);
-            DatabaseService.GetContext().Database.Migrate();
+
+            try
+            {
+                DatabaseService.GetContext().Database.Migrate();
+            }
+            catch(Exception ex)
+            {
+                Logger.Get<LoginContext>().LogTrace(ex.ToString());
+            }
             
             GameServers = new Dictionary<NetUser, GameServer>();
             Sessions = new ObservableCollection<LoginSession>();
