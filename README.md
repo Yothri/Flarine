@@ -1,5 +1,8 @@
 
 # Flarine
+
+[![discord](https://discordapp.com/api/guilds/413727727078604822/widget.png)](https://discord.gg/vhRt583)
+
 Flarine is an experimental FlyFF Legacy Server Emulator.
 
 # Preamble
