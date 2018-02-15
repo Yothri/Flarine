@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCommon", "WebCommon\WebCommon.csproj", "{A31B4814-9FE2-4A15-BAFA-45B70ED8C1D1}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flarine.Game", "Flarine.Game\Flarine.Game.csproj", "{ACDECFD9-13AE-4C83-9756-D1896E3A8F89}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ether.Network", "Ether.Network\src\Ether.Network\Ether.Network.csproj", "{3C8432C4-B6A2-40EC-9044-A96746C752E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flarine.Tools", "Flarine.Tools\Flarine.Tools.csproj", "{1723C1E9-4DC0-4632-ACD5-233EF562214C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3C8432C4-B6A2-40EC-9044-A96746C752E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C8432C4-B6A2-40EC-9044-A96746C752E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C8432C4-B6A2-40EC-9044-A96746C752E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1723C1E9-4DC0-4632-ACD5-233EF562214C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1723C1E9-4DC0-4632-ACD5-233EF562214C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1723C1E9-4DC0-4632-ACD5-233EF562214C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1723C1E9-4DC0-4632-ACD5-233EF562214C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
