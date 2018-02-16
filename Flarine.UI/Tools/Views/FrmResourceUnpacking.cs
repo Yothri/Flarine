@@ -10,9 +10,9 @@ using WebCommon;
 
 namespace Flarine.Tools.Views
 {
-    public partial class FrmDecodeAsset : Form
+    public partial class FrmResourceUnpacking : Form
     {
-        public FrmDecodeAsset()
+        public FrmResourceUnpacking()
         {
             InitializeComponent();
             Files = new List<string>();

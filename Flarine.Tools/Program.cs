@@ -1,18 +1,23 @@
 ﻿using Flarine.Tools.Views;
 using System;
+#if NET461
 using System.Windows.Forms;
+#endif
 
 namespace Flarine.Tools
 {
     class Program
     {
-        [STAThread]
         static void Main(string[] args)
         {
+#if NET461
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(true);
+            Application.Run(new FrmResourceUnpacking());
+#else
+            Console.WriteLine("Not supported on .NET Core!");
+#endif
 
-            Application.Run(new FrmDecodeAsset());
+            Console.ReadLine();
         }
     }
 }

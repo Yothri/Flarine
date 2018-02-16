@@ -1,6 +1,6 @@
 ﻿namespace Flarine.Tools.Views
 {
-    partial class FrmDecodeAsset
+    partial class FrmResourceUnpacking
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmDecodeAsset));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmResourceUnpacking));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.rbGameData = new System.Windows.Forms.RadioButton();
             this.rbClientTexts = new System.Windows.Forms.RadioButton();
@@ -52,7 +52,7 @@
             this.groupBox1.Controls.Add(this.rbClientTexts);
             this.groupBox1.Location = new System.Drawing.Point(12, 30);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(201, 48);
+            this.groupBox1.Size = new System.Drawing.Size(208, 48);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Select Type";
@@ -60,7 +60,7 @@
             // rbGameData
             // 
             this.rbGameData.AutoSize = true;
-            this.rbGameData.Location = new System.Drawing.Point(103, 21);
+            this.rbGameData.Location = new System.Drawing.Point(110, 21);
             this.rbGameData.Name = "rbGameData";
             this.rbGameData.Size = new System.Drawing.Size(97, 21);
             this.rbGameData.TabIndex = 1;
@@ -85,7 +85,7 @@
             this.statusStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.statusStrip1.Location = new System.Drawing.Point(0, 178);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(224, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(232, 22);
             this.statusStrip1.TabIndex = 1;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -97,7 +97,7 @@
             this.btnStart});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(224, 27);
+            this.toolStrip1.Size = new System.Drawing.Size(232, 27);
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -136,7 +136,7 @@
             this.groupBox2.Controls.Add(this.btnBrowse);
             this.groupBox2.Location = new System.Drawing.Point(12, 84);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(201, 54);
+            this.groupBox2.Size = new System.Drawing.Size(208, 54);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Select File(s)";
@@ -146,12 +146,12 @@
             this.txtPath.Location = new System.Drawing.Point(6, 21);
             this.txtPath.Name = "txtPath";
             this.txtPath.ReadOnly = true;
-            this.txtPath.Size = new System.Drawing.Size(108, 22);
+            this.txtPath.Size = new System.Drawing.Size(115, 22);
             this.txtPath.TabIndex = 2;
             // 
             // btnBrowse
             // 
-            this.btnBrowse.Location = new System.Drawing.Point(120, 21);
+            this.btnBrowse.Location = new System.Drawing.Point(127, 21);
             this.btnBrowse.Name = "btnBrowse";
             this.btnBrowse.Size = new System.Drawing.Size(75, 23);
             this.btnBrowse.TabIndex = 1;
@@ -159,18 +159,18 @@
             this.btnBrowse.UseVisualStyleBackColor = true;
             this.btnBrowse.Click += new System.EventHandler(this.btnBrowse_Click);
             // 
-            // progressBar1
+            // progressBar
             // 
             this.progressBar.Location = new System.Drawing.Point(12, 144);
-            this.progressBar.Name = "progressBar1";
-            this.progressBar.Size = new System.Drawing.Size(200, 23);
+            this.progressBar.Name = "progressBar";
+            this.progressBar.Size = new System.Drawing.Size(208, 23);
             this.progressBar.TabIndex = 4;
             // 
             // FrmDecodeAsset
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(224, 200);
+            this.ClientSize = new System.Drawing.Size(232, 200);
             this.Controls.Add(this.progressBar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.toolStrip1);

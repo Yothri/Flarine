@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Flarine.Tools")]
+[assembly: AssemblyTitle("Flarine.UI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Meyer Burger AG")]
-[assembly: AssemblyProduct("Flarine.Tools")]
+[assembly: AssemblyProduct("Flarine.UI")]
 [assembly: AssemblyCopyright("Copyright © Meyer Burger AG 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1723c1e9-4dc0-4632-acd5-233ef562214c")]
+[assembly: Guid("3f1ee672-b5e0-4dc3-920d-bac49c329bc0")]
 
 // Version information for an assembly consists of the following four values:
 //
