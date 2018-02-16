@@ -20,7 +20,7 @@ Flarine targets the following Frameworks:
     * Probably more but I dont remember right now.
 
 # How to use
-Flarine is currently not in an user-friendly state to setup. However if you really want to try it out then have a look at the [Getting Started](https://github.com/Yothri/Flarine/wiki/Getting-Started) Wiki-Page.
+Flarine is currently not in an user-friendly state to setup. However if you really want to try it out then have a look at the [Flarine Wiki-Pages](https://github.com/Yothri/Flarine/wiki).
 
 # Status
 * GateServer - 100%
