@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Flarine.Login": {
-      "commandName": "Project",
-      "workingDirectory": ".\\..\\Build\\Data"
-    }
-  }
-}

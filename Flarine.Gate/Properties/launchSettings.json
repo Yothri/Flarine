@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Flarine.Gate": {
+      "commandName": "Project",
+      "workingDirectory": ".\\..\\Data"
+    }
+  }
+}
