@@ -14,9 +14,11 @@ namespace Flarine.Game.Network.ISC
 {
     internal sealed class ISCClient : NetClient
     {
-        public ISCClient() : base(ContextBase.GetInstance<GameContext>().GameConfig.LoginISCHost, ContextBase.GetInstance<GameContext>().GameConfig.LoginISCPort, 8192)
+        public ISCClient()
         {
-            
+            Configuration.Host = ContextBase.GetInstance<GameContext>().GameConfig.LoginISCHost;
+            Configuration.Port = ContextBase.GetInstance<GameContext>().GameConfig.LoginISCPort;
+            Configuration.BufferSize = 8192;
         }
 
         protected override void OnConnected()
