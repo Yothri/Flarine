@@ -1,5 +1,4 @@
 ﻿using Flarine.Tools.Views;
-using Newtonsoft.Json;
 using System;
 #if NET461
 using System.Windows.Forms;
@@ -12,16 +11,28 @@ namespace Flarine.Tools
         [STAThread]
         static void Main(string[] args)
         {
-            string bla = string.Empty;
-            JsonConvert.DeserializeObject(bla);
-
+            Console.WriteLine("Available Tools: WPDTransforming, ResUnpack");
+            var inp = "WPDTransforming"; //Console.ReadLine();
+            if(inp.Equals("WPDTransforming"))
+            {
 #if NET461
-            Application.EnableVisualStyles();
-            Application.Run(new FrmResourceUnpacking());
+                Application.EnableVisualStyles();
+                Application.Run(new FrmWPDTransforming());
 #else
-            Console.WriteLine("Not supported on .NET Core!");
-            Console.ReadLine();
+                Console.WriteLine("Not supported on .NET Core!");
+                Console.ReadLine();
 #endif
+            }
+            else if(inp.Equals("ResUnpack"))
+            {
+#if NET461
+                Application.EnableVisualStyles();
+                Application.Run(new FrmResourceUnpacking());
+#else
+                Console.WriteLine("Not supported on .NET Core!");
+                Console.ReadLine();
+#endif
+            }
         }
     }
 }

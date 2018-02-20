@@ -36,6 +36,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -52,13 +53,26 @@
     <Compile Include="Tools\Views\FrmResourceUnpacking.Designer.cs">
       <DependentUpon>FrmResourceUnpacking.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tools\Views\FrmWPDTransforming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\Views\FrmWPDTransforming.Designer.cs">
+      <DependentUpon>FrmWPDTransforming.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Tools\Views\FrmResourceUnpacking.resx">
       <DependentUpon>FrmResourceUnpacking.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Views\FrmWPDTransforming.resx">
+      <DependentUpon>FrmWPDTransforming.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Flarine.Network\Flarine.Network.csproj">
+      <Project>{A021DA56-F55F-4219-8451-1244305266F9}</Project>
+      <Name>Flarine.Network</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebCommon\WebCommon.csproj">
       <Project>{A31B4814-9FE2-4A15-BAFA-45B70ED8C1D1}</Project>
       <Name>WebCommon</Name>
