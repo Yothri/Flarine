@@ -1,3 +1,6 @@
 [submodule "src/Ether.Network"]
 	path = src/Ether.Network
 	url = https://github.com/Eastrall/Ether.Network.git
+[submodule "src/AdvancedConsole"]
+	path = src/AdvancedConsole
+	url = https://github.com/johmarjac/AdvancedConsole.git
