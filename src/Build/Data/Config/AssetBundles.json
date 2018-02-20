@@ -1,527 +1,458 @@
-[
-    {
-      "bundleNo": 1,
-      "fileName": "loadingimages",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 2,
-      "fileName": "gui_skills",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 3,
-      "fileName": "effect_common",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 4,
-      "fileName": "effect_1",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 5,
-      "fileName": "effect_2",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 6,
-      "fileName": "gui_toast",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 7,
-      "fileName": "effect_3",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 8,
-      "fileName": "gui_ranking",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 9,
-      "fileName": "gui_system",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 10,
-      "fileName": "gui_honor",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 11,
-      "fileName": "gui_deal",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 12,
-      "fileName": "gui_warehouse",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 13,
-      "fileName": "gui_friend",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 14,
-      "fileName": "gui_post",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 15,
-      "fileName": "gui_detail",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 16,
-      "fileName": "equip_2",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 17,
-      "fileName": "gui_exchangeshop",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 18,
-      "fileName": "gui_chat",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 19,
-      "fileName": "popup",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 20,
-      "fileName": "equip_1",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 21,
-      "fileName": "gui_assignment",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 22,
-      "fileName": "gui_party",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 23,
-      "fileName": "equip_3",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 24,
-      "fileName": "effect_mon",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 25,
-      "fileName": "gui_achievement",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 26,
-      "fileName": "gui_growth",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 27,
-      "fileName": "gui_newserver",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 28,
-      "fileName": "gui_getway",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 29,
-      "fileName": "sound_sfx",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 30,
-      "fileName": "gui_refinery",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 31,
-      "fileName": "gui_reward",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 32,
-      "fileName": "gui_guild",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 33,
-      "fileName": "gui_pet",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 34,
-      "fileName": "gui_tutorial",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 35,
-      "fileName": "gui_illustrated",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 36,
-      "fileName": "gui_map",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 37,
-      "fileName": "gui_game",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 38,
-      "fileName": "gui_indungeon",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 39,
-      "fileName": "sound_sfx_mon",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 40,
-      "fileName": "gui_equipments",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 41,
-      "fileName": "gui_vip",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 42,
-      "fileName": "gui_items",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 43,
-      "fileName": "gui_popupcharacter",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 44,
-      "fileName": "monster",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 45,
-      "fileName": "gui_monsters",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 46,
-      "fileName": "gui_training",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 47,
-      "fileName": "gui_shop",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 48,
-      "fileName": "npc",
-      "android_ver": 2017122601,
-      "ios_ver": 2017122601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 49,
-      "fileName": "gui_popupdungeon",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 50,
-      "fileName": "sound_bgm",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 51,
-      "fileName": "scenes_region",
-      "android_ver": 2018011601,
-      "ios_ver": 2018011601,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 52,
-      "fileName": "gui_quests",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 53,
-      "fileName": "scenes_contents",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 54,
-      "fileName": "costume",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 56,
-      "fileName": "gui_intro",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 57,
-      "fileName": "gui_transmission",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 64,
-      "fileName": "pets",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": true
-    },
-    {
-      "bundleNo": 65,
-      "fileName": "res_us_en",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 66,
-      "fileName": "res_tw_zh",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 67,
-      "fileName": "res_tw_en",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 68,
-      "fileName": "res_ph_th",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 69,
-      "fileName": "res_ph_en",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 70,
-      "fileName": "res_me_en",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 71,
-      "fileName": "res_me_ar",
-      "android_ver": 2017120701,
-      "ios_ver": 2017120701,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 72,
-      "fileName": "res_kr_ko",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 73,
-      "fileName": "res_kr_en",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 74,
-      "fileName": "res_jp_ja",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 75,
-      "fileName": "res_jp_en",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 76,
-      "fileName": "res_us_de",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 77,
-      "fileName": "res_us_fr",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 78,
-      "fileName": "res_kr_de",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 79,
-      "fileName": "res_kr_fr",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 80,
-      "fileName": "res_kr_ja",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 81,
-      "fileName": "res_kr_th",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    },
-    {
-      "bundleNo": 82,
-      "fileName": "res_kr_zh",
-      "android_ver": 2018011201,
-      "ios_ver": 2018011201,
-      "isCommon": false
-    }
-]
+[{
+			"bundleNo": 1,
+			"fileName": "loadingimages",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 2,
+			"fileName": "gui_skills",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 3,
+			"fileName": "effect_common",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 4,
+			"fileName": "effect_1",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 5,
+			"fileName": "effect_2",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 6,
+			"fileName": "gui_toast",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 7,
+			"fileName": "effect_3",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 8,
+			"fileName": "gui_ranking",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 9,
+			"fileName": "gui_system",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 10,
+			"fileName": "gui_honor",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 11,
+			"fileName": "gui_deal",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 12,
+			"fileName": "gui_warehouse",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 13,
+			"fileName": "gui_friend",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 14,
+			"fileName": "gui_post",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": true
+		}, {
+			"bundleNo": 15,
+			"fileName": "gui_detail",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 16,
+			"fileName": "equip_2",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 17,
+			"fileName": "gui_exchangeshop",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 18,
+			"fileName": "gui_chat",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 19,
+			"fileName": "popup",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 20,
+			"fileName": "equip_1",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 21,
+			"fileName": "gui_assignment",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 22,
+			"fileName": "gui_party",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 23,
+			"fileName": "equip_3",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 24,
+			"fileName": "effect_mon",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 25,
+			"fileName": "gui_achievement",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 26,
+			"fileName": "gui_growth",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 27,
+			"fileName": "gui_newserver",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 28,
+			"fileName": "gui_getway",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 29,
+			"fileName": "sound_sfx",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 30,
+			"fileName": "gui_refinery",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 31,
+			"fileName": "gui_reward",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": true
+		}, {
+			"bundleNo": 32,
+			"fileName": "gui_guild",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 33,
+			"fileName": "gui_pet",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 34,
+			"fileName": "gui_tutorial",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 35,
+			"fileName": "gui_illustrated",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 36,
+			"fileName": "gui_map",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 37,
+			"fileName": "gui_game",
+			"android_ver": 2017122601,
+			"ios_ver": 2017122601,
+			"isCommon": true
+		}, {
+			"bundleNo": 38,
+			"fileName": "gui_indungeon",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 39,
+			"fileName": "sound_sfx_mon",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 40,
+			"fileName": "gui_equipments",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 41,
+			"fileName": "gui_vip",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 42,
+			"fileName": "gui_items",
+			"android_ver": 2018020901,
+			"ios_ver": 2018020901,
+			"isCommon": true
+		}, {
+			"bundleNo": 43,
+			"fileName": "gui_popupcharacter",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 44,
+			"fileName": "monster",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 45,
+			"fileName": "gui_monsters",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 46,
+			"fileName": "gui_training",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 47,
+			"fileName": "gui_shop",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 48,
+			"fileName": "npc",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 49,
+			"fileName": "gui_popupdungeon",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 50,
+			"fileName": "sound_bgm",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 51,
+			"fileName": "scenes_region",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 52,
+			"fileName": "gui_quests",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 53,
+			"fileName": "scenes_contents",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 54,
+			"fileName": "costume",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 56,
+			"fileName": "gui_intro",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 57,
+			"fileName": "gui_transmission",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": true
+		}, {
+			"bundleNo": 64,
+			"fileName": "pets",
+			"android_ver": 2018020202,
+			"ios_ver": 2018020202,
+			"isCommon": true
+		}, {
+			"bundleNo": 65,
+			"fileName": "res_us_en",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 66,
+			"fileName": "res_tw_zh",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 67,
+			"fileName": "res_tw_en",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 68,
+			"fileName": "res_ph_th",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 69,
+			"fileName": "res_ph_en",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 70,
+			"fileName": "res_me_en",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 71,
+			"fileName": "res_me_ar",
+			"android_ver": 2017120701,
+			"ios_ver": 2017120701,
+			"isCommon": false
+		}, {
+			"bundleNo": 72,
+			"fileName": "res_kr_ko",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 73,
+			"fileName": "res_kr_en",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 74,
+			"fileName": "res_jp_ja",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 75,
+			"fileName": "res_jp_en",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 76,
+			"fileName": "res_us_de",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 77,
+			"fileName": "res_us_fr",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 78,
+			"fileName": "res_kr_de",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 79,
+			"fileName": "res_kr_fr",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 80,
+			"fileName": "res_kr_ja",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 81,
+			"fileName": "res_kr_th",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 82,
+			"fileName": "res_kr_zh",
+			"android_ver": 2018011201,
+			"ios_ver": 2018011201,
+			"isCommon": false
+		}, {
+			"bundleNo": 83,
+			"fileName": "res_ph_zh",
+			"android_ver": 2018012601,
+			"ios_ver": 2018012601,
+			"isCommon": true
+		}
+	]
